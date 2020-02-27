@@ -27,7 +27,7 @@ fieldset {
 
 #svg-container {
   flex-grow: 1;
-  overflow: auto;
+  overflow: hidden;
 }
 
 .links line {
@@ -137,6 +137,8 @@ var radius = function(d) {
 function loadData(error, graph) {
   if (error) throw error;
   svg.selectAll("*").remove();
+  
+  var container = svg.append("g");
 
   window.simulation = d3.forceSimulation()
     .force("link", d3.forceLink()
@@ -170,7 +172,7 @@ function loadData(error, graph) {
     window.simulation.force("x", d3.forceX().strength(0.18).x(d => d.small_group ? width * 4 / 7 : width * 2 / 5));
   }
 
-  var link = svg.append("g")
+  var link = container.append("g")
       .attr("class", "links")
     .selectAll("line")
     .data(graph.links)
@@ -178,40 +180,16 @@ function loadData(error, graph) {
     .append("line")
       .attr("stroke-width", d => Math.max(1.2*Math.log(Math.max(d.value - 9, 1)), 1.5))
 
-  var node = svg.append("g")
+  var node = container.append("g")
       .attr("class", "nodes")
     .selectAll("g")
     .data(graph.nodes)
     .enter().append("g")
-    .on("mouseover", function(d) {
-      d3.select(this)
-        .classed("hover", true)
-        .raise();
-      link.filter(l => (d.id == l.source.id || d.id == l.target.id))
-        .classed("hover", true)
-        .raise();
-    })
-    .on("mouseout", function(d) {
-      d3.select(this)
-        .classed("hover", false);
-      link.filter(l => (d.id == l.source.id || d.id == l.target.id))
-        .classed("hover", false);
-    });
+    .on("mouseover", hovernodestart)
+    .on("mouseout", hovernodeend);
 
-  link.on("mouseover", function(l) {
-        d3.select(this)
-          .classed("hover", true)
-          .raise();
-        node.filter(d => (d.id == l.source.id || d.id == l.target.id))
-            .classed("hoverlink", true)
-            .raise();
-      })
-      .on("mouseout", function(l) {
-        d3.select(this)
-          .classed("hover", false)
-        node.filter(d => (d.id == l.source.id || d.id == l.target.id))
-            .classed("hoverlink", false);
-      });
+  link.on("mouseover", hoverlinkstart)
+      .on("mouseout", hoverlinkend);
 
   var circles = node.append("circle")
       .attr("r", radius)
@@ -227,16 +205,10 @@ function loadData(error, graph) {
       .attr('y', 3);
   
   window.setHighlighted = function(highlighted) {
-    if (window.labels)
-      window.labels.remove();
-    window.labels = node.attr("class", "")
+    node.attr("class", "")
         .filter(d => highlighted.some(hl => hl.toLowerCase() === d.id.toLowerCase()))
         .attr("class", "highlighted")
         .raise()
-        .append("text")
-        .text(d => d.id)
-        .attr('x', 6)
-        .attr('y', 3);
   }
   window.setHighlighted(highlight.value.split(/[\s,]+/));
 
@@ -256,6 +228,16 @@ function loadData(error, graph) {
       .force("link")
       .links(graph.links);
 
+  svg.call(d3.zoom()
+    .on("zoom", function() {
+       container.attr("transform", d3.event.transform)
+    })
+  );
+
+  function zoomed() {
+    svg.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
+  }
+
   function ticked() {
     if (this.alpha() >= 1.9)
       this.alphaTarget(0).alphaDecay(0.015); // Stabilize
@@ -271,23 +253,59 @@ function loadData(error, graph) {
         .attr("x2", d => d.target.x )
         .attr("y2", d => d.target.y );
   }
-}
 
-function dragstarted(d) {
-  if (!d3.event.active) window.simulation.alphaTarget(0.3).restart();
-  d.fx = d.x;
-  d.fy = d.y;
-}
+  function hoverlinkstart(l) {
+    d3.select(this)
+      .classed("hover", true)
+      .raise();
+    node.filter(d => (d.id == l.source.id || d.id == l.target.id))
+        .classed("hoverlink", true)
+        .raise();
+  }
 
-function dragged(d) {
-  d.fx = d3.event.x;
-  d.fy = d3.event.y;
-}
+  function hoverlinkend(l) {
+    d3.select(this)
+      .classed("hover", false)
+    node.filter(d => (d.id == l.source.id || d.id == l.target.id))
+        .classed("hoverlink", false);
+  }
 
-function dragended(d) {
-  if (!d3.event.active) window.simulation.alphaTarget(0);
-  d.fx = null;
-  d.fy = null;
+  function hovernodestart(d) {
+    d3.select(this)
+      .classed("hover", true)
+      .raise();
+    link.filter(l => (d.id == l.source.id || d.id == l.target.id))
+      .classed("hover", true)
+      .raise();
+  }
+
+  function hovernodeend(d) {
+    if (d.forcehover) return;
+    d3.select(this)
+      .classed("hover", false);
+    link.filter(l => (d.id == l.source.id || d.id == l.target.id))
+      .classed("hover", false);
+  }
+
+  function dragstarted(d) {
+    d.forcehover = true;
+    if (!d3.event.active) window.simulation.alphaTarget(0.3).restart();
+    d.fx = d.x;
+    d.fy = d.y;
+  }
+
+  function dragged(d) {
+    d.fx = d3.event.x;
+    d.fy = d3.event.y;
+  }
+
+  function dragended(d) {
+    if (!d3.event.active) window.simulation.alphaTarget(0);
+    d.fx = null;
+    d.fy = null;
+    d.forcehover = false;
+    hovernodeend.call(this.parentElement, d);
+  }
 }
 
 var highlight = document.getElementById("agent");
