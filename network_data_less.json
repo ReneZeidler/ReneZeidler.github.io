@@ -1206,7 +1206,7 @@
         8,
         46151
       ],
-      "rank_d": 659,
+      "rank_d": 660,
       "score_d": [
         8,
         62202
@@ -1542,7 +1542,7 @@
         6,
         31236
       ],
-      "rank_d": 1097,
+      "rank_d": 1098,
       "score_d": [
         5,
         22026
@@ -1836,7 +1836,7 @@
         8,
         305
       ],
-      "rank_d": 642,
+      "rank_d": 643,
       "score_d": [
         8,
         12270
@@ -2130,7 +2130,7 @@
         8,
         38061
       ],
-      "rank_d": 634,
+      "rank_d": 635,
       "score_d": [
         8,
         24953
@@ -2340,7 +2340,7 @@
         6,
         27975
       ],
-      "rank_d": 1120,
+      "rank_d": 1121,
       "score_d": [
         5,
         27079
@@ -2361,7 +2361,7 @@
         6,
         30432
       ],
-      "rank_d": 1119,
+      "rank_d": 1120,
       "score_d": [
         5,
         26634
@@ -2775,7 +2775,7 @@
     {
       "id": "Zhious",
       "faction": "RES",
-      "num_completed": 11,
+      "num_completed": 12,
       "rank": 456,
       "score": [
         8,
@@ -2787,8 +2787,8 @@
         10116
       ],
       "leakage": {
-        "total": 383.9922177641803,
-        "within_faction": 328.5245246255223,
+        "total": 390.3033612616651,
+        "within_faction": 334.83566812300705,
         "cross_faction": 55.46769313865799
       },
       "small_group": true
@@ -2796,7 +2796,7 @@
     {
       "id": "Michttt",
       "faction": "RES",
-      "num_completed": 11,
+      "num_completed": 12,
       "rank": 457,
       "score": [
         8,
@@ -2808,8 +2808,8 @@
         12496
       ],
       "leakage": {
-        "total": 357.7071458345805,
-        "within_faction": 223.45613197273704,
+        "total": 361.1656546651009,
+        "within_faction": 226.91464080325744,
         "cross_faction": 134.25101386184346
       },
       "small_group": true
@@ -3033,7 +3033,7 @@
         6,
         6207
       ],
-      "rank_d": 1147,
+      "rank_d": 1148,
       "score_d": [
         5,
         13297
@@ -3469,12 +3469,12 @@
       "id": "SPOONBANG",
       "faction": "RES",
       "num_completed": 9,
-      "rank": 733,
+      "rank": 734,
       "score": [
         8,
         79730
       ],
-      "rank_d": 718,
+      "rank_d": 720,
       "score_d": [
         8,
         71646
@@ -3495,7 +3495,7 @@
         8,
         62966
       ],
-      "rank_d": 790,
+      "rank_d": 793,
       "score_d": [
         8,
         24404
@@ -3511,12 +3511,12 @@
       "id": "stahi",
       "faction": "RES",
       "num_completed": 9,
-      "rank": 823,
+      "rank": 824,
       "score": [
         8,
         37848
       ],
-      "rank_d": 793,
+      "rank_d": 796,
       "score_d": [
         8,
         85034
@@ -3532,12 +3532,12 @@
       "id": "Leetk",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 692,
+      "rank": 694,
       "score": [
         8,
         23360
       ],
-      "rank_d": 670,
+      "rank_d": 671,
       "score_d": [
         8,
         33587
@@ -3700,12 +3700,12 @@
       "id": "KETSUP",
       "faction": "RES",
       "num_completed": 8,
-      "rank": 734,
+      "rank": 735,
       "score": [
         8,
         28382
       ],
-      "rank_d": 923,
+      "rank_d": 925,
       "score_d": [
         7,
         12749
@@ -3805,7 +3805,7 @@
       "id": "MrNue",
       "faction": "ENL",
       "num_completed": 8,
-      "rank": 885,
+      "rank": 886,
       "score": [
         8,
         32289
@@ -3894,7 +3894,7 @@
         6,
         71009
       ],
-      "rank_d": 1103,
+      "rank_d": 1104,
       "score_d": [
         5,
         53753
@@ -3915,7 +3915,7 @@
         8,
         48655
       ],
-      "rank_d": 836,
+      "rank_d": 841,
       "score_d": [
         8,
         18978
@@ -3952,12 +3952,12 @@
       "id": "PurpleJules",
       "faction": "RES",
       "num_completed": 8,
-      "rank": 748,
+      "rank": 749,
       "score": [
         8,
         53537
       ],
-      "rank_d": 926,
+      "rank_d": 928,
       "score_d": [
         7,
         34446
@@ -3978,7 +3978,7 @@
         6,
         1030
       ],
-      "rank_d": 1145,
+      "rank_d": 1146,
       "score_d": [
         5,
         68133
@@ -3994,7 +3994,7 @@
       "id": "MaestroAlfa",
       "faction": "ENL",
       "num_completed": 8,
-      "rank": 888,
+      "rank": 889,
       "score": [
         8,
         80340
@@ -4015,12 +4015,12 @@
       "id": "JeiPiVS",
       "faction": "ENL",
       "num_completed": 9,
-      "rank": 872,
+      "rank": 873,
       "score": [
         8,
         37131
       ],
-      "rank_d": 843,
+      "rank_d": 848,
       "score_d": [
         8,
         6499
@@ -4041,7 +4041,7 @@
         8,
         40119
       ],
-      "rank_d": 835,
+      "rank_d": 840,
       "score_d": [
         8,
         8229
@@ -4225,12 +4225,12 @@
       "id": "AFX001",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 663,
+      "rank": 664,
       "score": [
         8,
         65096
       ],
-      "rank_d": 677,
+      "rank_d": 678,
       "score_d": [
         8,
         33961
@@ -4309,12 +4309,12 @@
       "id": "xela123",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 737,
+      "rank": 738,
       "score": [
         8,
         72524
       ],
-      "rank_d": 738,
+      "rank_d": 740,
       "score_d": [
         8,
         7720
@@ -4356,7 +4356,7 @@
         7,
         49786
       ],
-      "rank_d": 1090,
+      "rank_d": 1091,
       "score_d": [
         6,
         6698
@@ -4419,7 +4419,7 @@
         8,
         6663
       ],
-      "rank_d": 674,
+      "rank_d": 675,
       "score_d": [
         8,
         74240
@@ -4561,12 +4561,12 @@
       "id": "Hablo",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 732,
+      "rank": 733,
       "score": [
         8,
         78751
       ],
-      "rank_d": 735,
+      "rank_d": 737,
       "score_d": [
         8,
         8667
@@ -4671,7 +4671,7 @@
         8,
         24541
       ],
-      "rank_d": 681,
+      "rank_d": 682,
       "score_d": [
         8,
         21480
@@ -4776,7 +4776,7 @@
         8,
         67489
       ],
-      "rank_d": 646,
+      "rank_d": 647,
       "score_d": [
         8,
         43532
@@ -4923,7 +4923,7 @@
         6,
         56405
       ],
-      "rank_d": 1128,
+      "rank_d": 1129,
       "score_d": [
         5,
         79838
@@ -5338,12 +5338,12 @@
       "id": "ryhash",
       "faction": "ENL",
       "num_completed": 11,
-      "rank": 716,
+      "rank": 717,
       "score": [
         8,
         40590
       ],
-      "rank_d": 693,
+      "rank_d": 695,
       "score_d": [
         8,
         84816
@@ -5359,12 +5359,12 @@
       "id": "LuLuLunn",
       "faction": "ENL",
       "num_completed": 11,
-      "rank": 717,
+      "rank": 718,
       "score": [
         8,
         41422
       ],
-      "rank_d": 694,
+      "rank_d": 696,
       "score_d": [
         8,
         85422
@@ -5380,12 +5380,12 @@
       "id": "impooh",
       "faction": "ENL",
       "num_completed": 11,
-      "rank": 718,
+      "rank": 719,
       "score": [
         8,
         41697
       ],
-      "rank_d": 695,
+      "rank_d": 697,
       "score_d": [
         8,
         85565
@@ -5443,12 +5443,12 @@
       "id": "fl0w3rr0ck",
       "faction": "ENL",
       "num_completed": 8,
-      "rank": 751,
+      "rank": 752,
       "score": [
         8,
         27306
       ],
-      "rank_d": 925,
+      "rank_d": 927,
       "score_d": [
         7,
         34062
@@ -5548,12 +5548,12 @@
       "id": "lluviaser",
       "faction": "ENL",
       "num_completed": 11,
-      "rank": 655,
+      "rank": 656,
       "score": [
         8,
         67610
       ],
-      "rank_d": 632,
+      "rank_d": 633,
       "score_d": [
         8,
         67610
@@ -5674,12 +5674,12 @@
       "id": "chrigu84",
       "faction": "RES",
       "num_completed": 8,
-      "rank": 660,
+      "rank": 661,
       "score": [
         8,
         29216
       ],
-      "rank_d": 906,
+      "rank_d": 910,
       "score_d": [
         7,
         47415
@@ -5700,7 +5700,7 @@
         8,
         69678
       ],
-      "rank_d": 888,
+      "rank_d": 892,
       "score_d": [
         8,
         11252
@@ -5721,7 +5721,7 @@
         8,
         72860
       ],
-      "rank_d": 889,
+      "rank_d": 893,
       "score_d": [
         8,
         11826
@@ -5779,12 +5779,12 @@
       "id": "MangoAsesino",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 670,
+      "rank": 671,
       "score": [
         8,
         22797
       ],
-      "rank_d": 644,
+      "rank_d": 645,
       "score_d": [
         8,
         22797
@@ -6031,12 +6031,12 @@
       "id": "BeforeIForget",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 680,
+      "rank": 681,
       "score": [
         8,
         29764
       ],
-      "rank_d": 655,
+      "rank_d": 656,
       "score_d": [
         8,
         29764
@@ -6052,12 +6052,12 @@
       "id": "ebasi",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 678,
+      "rank": 679,
       "score": [
         8,
         21923
       ],
-      "rank_d": 654,
+      "rank_d": 655,
       "score_d": [
         8,
         21923
@@ -6073,12 +6073,12 @@
       "id": "Renneta",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 683,
+      "rank": 684,
       "score": [
         8,
         37902
       ],
-      "rank_d": 657,
+      "rank_d": 658,
       "score_d": [
         8,
         37902
@@ -6094,12 +6094,12 @@
       "id": "39keys",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 727,
+      "rank": 728,
       "score": [
         8,
         71387
       ],
-      "rank_d": 692,
+      "rank_d": 694,
       "score_d": [
         8,
         71387
@@ -6204,7 +6204,7 @@
         8,
         65911
       ],
-      "rank_d": 750,
+      "rank_d": 752,
       "score_d": [
         8,
         2995
@@ -6283,12 +6283,12 @@
       "id": "AzradTT",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 674,
+      "rank": 675,
       "score": [
         8,
         84452
       ],
-      "rank_d": 650,
+      "rank_d": 651,
       "score_d": [
         8,
         84452
@@ -6388,12 +6388,12 @@
       "id": "Willuiz",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 702,
+      "rank": 704,
       "score": [
         8,
         54464
       ],
-      "rank_d": 673,
+      "rank_d": 674,
       "score_d": [
         8,
         54464
@@ -6409,12 +6409,12 @@
       "id": "Pw8dp",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 723,
+      "rank": 724,
       "score": [
         8,
         48830
       ],
-      "rank_d": 689,
+      "rank_d": 690,
       "score_d": [
         8,
         48830
@@ -6493,12 +6493,12 @@
       "id": "AgpuaHa",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 725,
+      "rank": 726,
       "score": [
         8,
         68221
       ],
-      "rank_d": 690,
+      "rank_d": 692,
       "score_d": [
         8,
         68221
@@ -6514,12 +6514,12 @@
       "id": "Akrozia",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 726,
+      "rank": 727,
       "score": [
         8,
         68895
       ],
-      "rank_d": 691,
+      "rank_d": 693,
       "score_d": [
         8,
         68895
@@ -6540,7 +6540,7 @@
         8,
         21323
       ],
-      "rank_d": 722,
+      "rank_d": 724,
       "score_d": [
         8,
         21323
@@ -6619,12 +6619,12 @@
       "id": "4nn483113",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 694,
+      "rank": 696,
       "score": [
         8,
         31333
       ],
-      "rank_d": 664,
+      "rank_d": 665,
       "score_d": [
         8,
         31333
@@ -6645,7 +6645,7 @@
         8,
         16972
       ],
-      "rank_d": 727,
+      "rank_d": 729,
       "score_d": [
         8,
         16972
@@ -6661,7 +6661,7 @@
       "id": "Zuchie",
       "faction": "ENL",
       "num_completed": 6,
-      "rank": 1151,
+      "rank": 1152,
       "score": [
         6,
         57247
@@ -6682,12 +6682,12 @@
       "id": "jOrange",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 850,
+      "rank": 851,
       "score": [
         8,
         61352
       ],
-      "rank_d": 798,
+      "rank_d": 801,
       "score_d": [
         8,
         61352
@@ -6729,7 +6729,7 @@
         8,
         33613
       ],
-      "rank_d": 863,
+      "rank_d": 867,
       "score_d": [
         8,
         33613
@@ -6808,12 +6808,12 @@
       "id": "Jtlivewire",
       "faction": "RES",
       "num_completed": 9,
-      "rank": 902,
+      "rank": 903,
       "score": [
         8,
         64965
       ],
-      "rank_d": 846,
+      "rank_d": 851,
       "score_d": [
         8,
         64965
@@ -6829,12 +6829,12 @@
       "id": "lamiller2008",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 861,
+      "rank": 862,
       "score": [
         8,
         41976
       ],
-      "rank_d": 811,
+      "rank_d": 814,
       "score_d": [
         8,
         41976
@@ -6850,12 +6850,12 @@
       "id": "wsnieders",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 825,
+      "rank": 826,
       "score": [
         8,
         28600
       ],
-      "rank_d": 778,
+      "rank_d": 782,
       "score_d": [
         8,
         28600
@@ -6913,12 +6913,12 @@
       "id": "Monulka",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 667,
+      "rank": 668,
       "score": [
         8,
         9376
       ],
-      "rank_d": 641,
+      "rank_d": 642,
       "score_d": [
         8,
         9376
@@ -6960,7 +6960,7 @@
         8,
         38878
       ],
-      "rank_d": 878,
+      "rank_d": 882,
       "score_d": [
         8,
         38878
@@ -6981,7 +6981,7 @@
         8,
         16666
       ],
-      "rank_d": 864,
+      "rank_d": 868,
       "score_d": [
         8,
         16666
@@ -6997,12 +6997,12 @@
       "id": "HikariCaptain",
       "faction": "ENL",
       "num_completed": 11,
-      "rank": 848,
+      "rank": 849,
       "score": [
         8,
         35192
       ],
-      "rank_d": 796,
+      "rank_d": 799,
       "score_d": [
         8,
         35192
@@ -7018,12 +7018,12 @@
       "id": "TamiraLaGnokka",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 847,
+      "rank": 848,
       "score": [
         8,
         18840
       ],
-      "rank_d": 795,
+      "rank_d": 798,
       "score_d": [
         8,
         18840
@@ -7065,7 +7065,7 @@
         8,
         83731
       ],
-      "rank_d": 857,
+      "rank_d": 861,
       "score_d": [
         8,
         83731
@@ -7081,12 +7081,12 @@
       "id": "Marmarko",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 822,
+      "rank": 823,
       "score": [
         8,
         71211
       ],
-      "rank_d": 776,
+      "rank_d": 780,
       "score_d": [
         8,
         71211
@@ -7102,12 +7102,12 @@
       "id": "PEGaviria",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 827,
+      "rank": 828,
       "score": [
         8,
         43346
       ],
-      "rank_d": 780,
+      "rank_d": 784,
       "score_d": [
         8,
         43346
@@ -7123,12 +7123,12 @@
       "id": "Strandanton05",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 897,
+      "rank": 898,
       "score": [
         8,
         570
       ],
-      "rank_d": 840,
+      "rank_d": 845,
       "score_d": [
         8,
         570
@@ -7149,7 +7149,7 @@
         8,
         3218
       ],
-      "rank_d": 876,
+      "rank_d": 880,
       "score_d": [
         8,
         3218
@@ -7170,7 +7170,7 @@
         8,
         78016
       ],
-      "rank_d": 734,
+      "rank_d": 736,
       "score_d": [
         8,
         78016
@@ -7191,7 +7191,7 @@
         6,
         14030
       ],
-      "rank_d": 1156,
+      "rank_d": 1157,
       "score_d": [
         5,
         18577
@@ -7207,12 +7207,12 @@
       "id": "P2063",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 881,
+      "rank": 882,
       "score": [
         8,
         36533
       ],
-      "rank_d": 824,
+      "rank_d": 828,
       "score_d": [
         8,
         36533
@@ -7228,12 +7228,12 @@
       "id": "hmelhasloh",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 880,
+      "rank": 881,
       "score": [
         8,
         15284
       ],
-      "rank_d": 823,
+      "rank_d": 827,
       "score_d": [
         8,
         15284
@@ -7254,7 +7254,7 @@
         8,
         66892
       ],
-      "rank_d": 874,
+      "rank_d": 878,
       "score_d": [
         8,
         66892
@@ -7275,7 +7275,7 @@
         6,
         81921
       ],
-      "rank_d": 1155,
+      "rank_d": 1156,
       "score_d": [
         5,
         70795
@@ -7291,12 +7291,12 @@
       "id": "moonrise007",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 821,
+      "rank": 822,
       "score": [
         8,
         28555
       ],
-      "rank_d": 775,
+      "rank_d": 778,
       "score_d": [
         8,
         28555
@@ -7317,7 +7317,7 @@
         7,
         12403
       ],
-      "rank_d": 1074,
+      "rank_d": 1075,
       "score_d": [
         6,
         6344
@@ -7338,7 +7338,7 @@
         7,
         27392
       ],
-      "rank_d": 1083,
+      "rank_d": 1084,
       "score_d": [
         6,
         21159
@@ -7359,7 +7359,7 @@
         8,
         64917
       ],
-      "rank_d": 748,
+      "rank_d": 750,
       "score_d": [
         8,
         64917
@@ -7380,7 +7380,7 @@
         7,
         83103
       ],
-      "rank_d": 1091,
+      "rank_d": 1092,
       "score_d": [
         6,
         7361
@@ -7396,12 +7396,12 @@
       "id": "BrimIie",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 896,
+      "rank": 897,
       "score": [
         8,
         7864
       ],
-      "rank_d": 838,
+      "rank_d": 843,
       "score_d": [
         8,
         7864
@@ -7422,7 +7422,7 @@
         7,
         32727
       ],
-      "rank_d": 1092,
+      "rank_d": 1093,
       "score_d": [
         6,
         13383
@@ -7443,7 +7443,7 @@
         8,
         8045
       ],
-      "rank_d": 871,
+      "rank_d": 875,
       "score_d": [
         8,
         8045
@@ -7464,7 +7464,7 @@
         8,
         38994
       ],
-      "rank_d": 872,
+      "rank_d": 876,
       "score_d": [
         8,
         38994
@@ -7485,7 +7485,7 @@
         8,
         44328
       ],
-      "rank_d": 873,
+      "rank_d": 877,
       "score_d": [
         8,
         44328
@@ -8089,12 +8089,12 @@
       "id": "SuperAlatar",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 693,
+      "rank": 695,
       "score": [
         8,
         26191
       ],
-      "rank_d": 663,
+      "rank_d": 664,
       "score_d": [
         8,
         26191
@@ -8131,12 +8131,12 @@
       "id": "EDEL22",
       "faction": "RES",
       "num_completed": 8,
-      "rank": 659,
+      "rank": 660,
       "score": [
         8,
         9928
       ],
-      "rank_d": 633,
+      "rank_d": 634,
       "score_d": [
         8,
         9928
@@ -8194,12 +8194,12 @@
       "id": "EndeDesMonats",
       "faction": "RES",
       "num_completed": 8,
-      "rank": 677,
+      "rank": 678,
       "score": [
         8,
         21769
       ],
-      "rank_d": 653,
+      "rank_d": 654,
       "score_d": [
         8,
         21769
@@ -8215,12 +8215,12 @@
       "id": "Almuneitor",
       "faction": "ENL",
       "num_completed": 8,
-      "rank": 895,
+      "rank": 896,
       "score": [
         8,
         34287
       ],
-      "rank_d": 837,
+      "rank_d": 842,
       "score_d": [
         8,
         34287
@@ -8262,7 +8262,7 @@
         8,
         79430
       ],
-      "rank_d": 770,
+      "rank_d": 773,
       "score_d": [
         8,
         79430
@@ -8278,12 +8278,12 @@
       "id": "iNeXsYs",
       "faction": "RES",
       "num_completed": 8,
-      "rank": 890,
+      "rank": 891,
       "score": [
         8,
         4961
       ],
-      "rank_d": 829,
+      "rank_d": 834,
       "score_d": [
         8,
         4961
@@ -8299,12 +8299,12 @@
       "id": "SirGeoff",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 832,
+      "rank": 833,
       "score": [
         8,
         50312
       ],
-      "rank_d": 783,
+      "rank_d": 787,
       "score_d": [
         8,
         50312
@@ -8488,12 +8488,12 @@
       "id": "dejanira",
       "faction": "RES",
       "num_completed": 8,
-      "rank": 752,
+      "rank": 753,
       "score": [
         8,
         42056
       ],
-      "rank_d": 719,
+      "rank_d": 721,
       "score_d": [
         8,
         42056
@@ -8514,7 +8514,7 @@
         7,
         7715
       ],
-      "rank_d": 899,
+      "rank_d": 903,
       "score_d": [
         7,
         7715
@@ -8531,2197 +8531,3075 @@
     {
       "source": "tchakkazulu",
       "target": "TheHiveMind",
-      "value": 22.269796120657258
+      "value": 22.269796120657258,
+      "from_source": 3.863879077366586,
+      "from_target": 18.405917043290675
     },
     {
       "source": "frisee",
       "target": "Scar1etCh3rry",
-      "value": 65.43010729074233
+      "value": 65.43010729074233,
+      "from_source": 40.52636798323806,
+      "from_target": 24.90373930750427
     },
     {
       "source": "awleps",
       "target": "kuprum",
-      "value": 40.04975085035801
+      "value": 40.04975085035801,
+      "from_source": 12.825583288077397,
+      "from_target": 27.224167562280602
     },
     {
       "source": "TomateNinja",
       "target": "FataS",
-      "value": 27.592935080333692
+      "value": 27.592935080333692,
+      "from_source": 11.311666688266497,
+      "from_target": 16.281268392067197
     },
     {
       "source": "Godstar0",
       "target": "Lastsource",
-      "value": 98.17424373044511
+      "value": 98.17424373044511,
+      "from_source": 35.639803371960376,
+      "from_target": 62.53444035848474
     },
     {
       "source": "Mirearose",
       "target": "Miketrevis",
-      "value": 72.07867155930596
+      "value": 72.07867155930596,
+      "from_source": 57.78169575605592,
+      "from_target": 14.296975803250037
     },
     {
       "source": "theimmc",
       "target": "MrsSpectrum",
-      "value": 29.443109793061268
+      "value": 29.443109793061268,
+      "from_source": 18.188934345621643,
+      "from_target": 11.254175447439625
     },
     {
       "source": "Dragonside21",
       "target": "DarkSideDragon",
-      "value": 32.98318967920769
+      "value": 32.98318967920769,
+      "from_source": 32.98318967920769,
+      "from_target": 0
     },
     {
       "source": "expediter",
       "target": "knazlee",
-      "value": 48.38062033802377
+      "value": 48.38062033802377,
+      "from_source": 21.422204447728085,
+      "from_target": 26.958415890295683
     },
     {
       "source": "expediter",
       "target": "dashstrike",
-      "value": 60.75071063925269
+      "value": 60.75071063925269,
+      "from_source": 16.421267371668424,
+      "from_target": 44.32944326758425
     },
     {
       "source": "expediter",
       "target": "keretapir",
-      "value": 43.58389792865585
+      "value": 43.58389792865585,
+      "from_source": 28.8302731723834,
+      "from_target": 14.753624756272448
     },
     {
       "source": "knazlee",
       "target": "chungdavi",
-      "value": 36.1295000605905
+      "value": 36.1295000605905,
+      "from_source": 36.1295000605905,
+      "from_target": 0
     },
     {
       "source": "knazlee",
       "target": "dashstrike",
-      "value": 44.517151899325285
+      "value": 44.517151899325285,
+      "from_source": 33.731299632409595,
+      "from_target": 10.78585226691569
     },
     {
       "source": "knazlee",
       "target": "ladylunar",
-      "value": 34.18596713061769
+      "value": 34.18596713061769,
+      "from_source": 23.79230343022846,
+      "from_target": 10.39366370038923
     },
     {
       "source": "knazlee",
       "target": "deliocruzo",
-      "value": 29.268628543464068
+      "value": 29.268628543464068,
+      "from_source": 28.422391002901826,
+      "from_target": 0.8462375405622365
     },
     {
       "source": "chungdavi",
       "target": "dashstrike",
-      "value": 26.511234924975945
+      "value": 26.511234924975945,
+      "from_source": 12.465615935332709,
+      "from_target": 14.045618989643238
     },
     {
       "source": "chungdavi",
       "target": "ladylunar",
-      "value": 31.67728833805409
+      "value": 31.67728833805409,
+      "from_source": 11.18191370561454,
+      "from_target": 20.49537463243955
     },
     {
       "source": "chungdavi",
       "target": "keretapir",
-      "value": 24.78404888506106
+      "value": 24.78404888506106,
+      "from_source": 18.824008072256817,
+      "from_target": 5.960040812804243
     },
     {
       "source": "chungdavi",
       "target": "deliocruzo",
-      "value": 22.32663390936365
+      "value": 22.32663390936365,
+      "from_source": 7.078540655647682,
+      "from_target": 15.248093253715972
     },
     {
       "source": "dashstrike",
       "target": "ladylunar",
-      "value": 25.903339632727565
+      "value": 25.903339632727565,
+      "from_source": 22.75720156403134,
+      "from_target": 3.1461380686962235
     },
     {
       "source": "dashstrike",
       "target": "keretapir",
-      "value": 44.73680808640053
+      "value": 44.73680808640053,
+      "from_source": 36.22542770437676,
+      "from_target": 8.511380382023765
     },
     {
       "source": "dashstrike",
       "target": "deliocruzo",
-      "value": 37.425950941025846
+      "value": 37.425950941025846,
+      "from_source": 18.443244288417233,
+      "from_target": 18.98270665260861
     },
     {
       "source": "ladylunar",
       "target": "deliocruzo",
-      "value": 34.7104804926354
+      "value": 34.7104804926354,
+      "from_source": 8.924782443403792,
+      "from_target": 25.785698049231605
     },
     {
       "source": "keretapir",
       "target": "deliocruzo",
-      "value": 31.950007715642645
+      "value": 31.950007715642645,
+      "from_source": 14.96587767943714,
+      "from_target": 16.984130036205507
     },
     {
       "source": "WalkingPet",
       "target": "MontyBishop",
-      "value": 33.80730959277697
+      "value": 33.80730959277697,
+      "from_source": 9.948552106758347,
+      "from_target": 23.85875748601862
     },
     {
       "source": "quattro",
       "target": "Polarhare",
-      "value": 65.44665584898465
+      "value": 65.44665584898465,
+      "from_source": 65.44665584898465,
+      "from_target": 0
     },
     {
       "source": "Polarhare",
       "target": "Bluebell91",
-      "value": 30.162881133589593
+      "value": 30.162881133589593,
+      "from_source": 8.198705044500917,
+      "from_target": 21.964176089088674
     },
     {
       "source": "CincauHangus",
       "target": "MarkJairo",
-      "value": 20.275733477364344
+      "value": 20.275733477364344,
+      "from_source": 16.243408225253,
+      "from_target": 4.0323252521113435
     },
     {
       "source": "MarkJairo",
       "target": "Psalm1832",
-      "value": 100.1061101031996
+      "value": 100.1061101031996,
+      "from_source": 100.1061101031996,
+      "from_target": 0
     },
     {
       "source": "trirrra",
       "target": "LimeS1ime",
-      "value": 60.10495732118449
+      "value": 60.10495732118449,
+      "from_source": 53.232433211734566,
+      "from_target": 6.8725241094499285
     },
     {
       "source": "BlueGarm",
       "target": "BlueLiteMoon",
-      "value": 61.57162257361921
+      "value": 61.57162257361921,
+      "from_source": 51.94811630963832,
+      "from_target": 9.623506263980886
     },
     {
       "source": "absha",
       "target": "Kapryss",
-      "value": 22.6528886917888
+      "value": 22.6528886917888,
+      "from_source": 22.6528886917888,
+      "from_target": 0
     },
     {
       "source": "SenhorIncrivel",
       "target": "SenhoraIncrivel",
-      "value": 44.8244994743024
+      "value": 44.8244994743024,
+      "from_source": 17.298797921356318,
+      "from_target": 27.525701552946074
     },
     {
       "source": "AnesthesiaX",
       "target": "s1ngul4r17y",
-      "value": 79.95748062558079
+      "value": 79.95748062558079,
+      "from_source": 57.2165780018292,
+      "from_target": 22.740902623751595
     },
     {
       "source": "kulinap",
       "target": "redkatut",
-      "value": 20.81207644322176
+      "value": 20.81207644322176,
+      "from_source": 20.025835681492026,
+      "from_target": 0.7862407617297306
     },
     {
       "source": "Goattwarrior",
       "target": "MorbidOddity",
-      "value": 50.25121800266875
+      "value": 50.25121800266875,
+      "from_source": 50.25121800266875,
+      "from_target": 0
     },
     {
       "source": "Gambo1977",
       "target": "GNCruiser",
-      "value": 48.470586625048895
+      "value": 48.470586625048895,
+      "from_source": 9.653540247973904,
+      "from_target": 38.817046377074995
     },
     {
       "source": "BMAXI3I",
       "target": "MAgent23",
-      "value": 40.93482475478352
+      "value": 40.93482475478352,
+      "from_source": 17.08980496694411,
+      "from_target": 23.845019787839405
     },
     {
       "source": "youngacts",
       "target": "hiraia",
-      "value": 36.59857721215769
+      "value": 36.59857721215769,
+      "from_source": 36.59857721215769,
+      "from_target": 0
     },
     {
       "source": "youngacts",
       "target": "aces",
-      "value": 34.771456989929604
+      "value": 34.771456989929604,
+      "from_source": 34.771456989929604,
+      "from_target": 0
     },
     {
       "source": "hiraia",
       "target": "aces",
-      "value": 33.77616509900923
+      "value": 33.77616509900923,
+      "from_source": 8.652046142668256,
+      "from_target": 25.124118956340975
     },
     {
       "source": "macevergreen",
       "target": "Kaunotar",
-      "value": 49.21383115458224
+      "value": 49.21383115458224,
+      "from_source": 39.44145894502413,
+      "from_target": 9.772372209558107
     },
     {
       "source": "Miikuuu",
       "target": "Lizangeli",
-      "value": 20.68342080407931
+      "value": 20.68342080407931,
+      "from_source": 20.68342080407931,
+      "from_target": 0
     },
     {
       "source": "CathyR",
       "target": "Philippe30",
-      "value": 82.65430738710607
+      "value": 82.65430738710607,
+      "from_source": 38.78679264991186,
+      "from_target": 43.86751473719421
     },
     {
       "source": "ChocoBonBon",
       "target": "darthwader29",
-      "value": 61.78338780339272
+      "value": 61.78338780339272,
+      "from_source": 36.49150968893295,
+      "from_target": 25.291878114459763
     },
     {
       "source": "JensB",
       "target": "HillaryKills",
-      "value": 45.092711560079884
+      "value": 45.092711560079884,
+      "from_source": 19.936593526940328,
+      "from_target": 25.15611803313956
     },
     {
       "source": "Smashingt0n",
       "target": "St0rmlight",
-      "value": 82.13309640180643
+      "value": 82.13309640180643,
+      "from_source": 52.46312212964082,
+      "from_target": 29.669974272165586
     },
     {
       "source": "josuefunes",
       "target": "SagadeGemini",
-      "value": 63.614076898313655
+      "value": 63.614076898313655,
+      "from_source": 23.13317370398851,
+      "from_target": 40.48090319432515
     },
     {
       "source": "TayNet",
       "target": "ReaperNo1",
-      "value": 69.36639435835522
+      "value": 69.36639435835522,
+      "from_source": 22.671432760547056,
+      "from_target": 46.69496159780817
     },
     {
       "source": "Zhious",
       "target": "Michttt",
-      "value": 61.51698896682539
+      "value": 66.20632236695118,
+      "from_source": 63.88001729979756,
+      "from_target": 2.3263050671536263
     },
     {
       "source": "ktnk",
       "target": "shrmbr",
-      "value": 91.05726720555565
+      "value": 91.05726720555565,
+      "from_source": 91.05726720555565,
+      "from_target": 0
     },
     {
       "source": "Quintero14",
       "target": "Paulinki",
-      "value": 33.829263769913794
+      "value": 33.829263769913794,
+      "from_source": 23.600964971586464,
+      "from_target": 10.228298798327328
     },
     {
       "source": "Quintero14",
       "target": "JamieObando",
-      "value": 24.34773101567007
+      "value": 24.34773101567007,
+      "from_source": 10.07731347205895,
+      "from_target": 14.270417543611117
     },
     {
       "source": "Paulinki",
       "target": "JamieObando",
-      "value": 34.37477215206476
+      "value": 34.37477215206476,
+      "from_source": 16.34626423440577,
+      "from_target": 18.028507917658988
     },
     {
       "source": "byplayer",
       "target": "corocorocoro",
-      "value": 47.52282838976736
+      "value": 47.52282838976736,
+      "from_source": 37.52282838976736,
+      "from_target": 10.0
     },
     {
       "source": "byplayer",
       "target": "miniminiplayer",
-      "value": 39.97051371418337
+      "value": 39.97051371418337,
+      "from_source": 39.97051371418337,
+      "from_target": 0
     },
     {
       "source": "byplayer",
       "target": "microplayer",
-      "value": 32.6768802971864
+      "value": 32.6768802971864,
+      "from_source": 32.6768802971864,
+      "from_target": 0
     },
     {
       "source": "corocorocoro",
       "target": "miniminiplayer",
-      "value": 56.073799136805505
+      "value": 56.073799136805505,
+      "from_source": 47.22943394541951,
+      "from_target": 8.844365191385997
     },
     {
       "source": "corocorocoro",
       "target": "microplayer",
-      "value": 49.12303194151061
+      "value": 49.12303194151061,
+      "from_source": 41.036211917725254,
+      "from_target": 8.086820023785352
     },
     {
       "source": "miniminiplayer",
       "target": "microplayer",
-      "value": 53.699776838377964
+      "value": 53.699776838377964,
+      "from_source": 47.25973203303101,
+      "from_target": 6.440044805346961
     },
     {
       "source": "Fleipolini",
       "target": "miriamdw",
-      "value": 69.67510623736199
+      "value": 69.67510623736199,
+      "from_source": 37.62334655214713,
+      "from_target": 32.05175968521486
     },
     {
       "source": "Doddieyrnastor",
       "target": "Annzlily",
-      "value": 64.4895905176038
+      "value": 64.4895905176038,
+      "from_source": 64.4895905176038,
+      "from_target": 0
     },
     {
       "source": "HeterTheMoth",
       "target": "stahi",
-      "value": 68.14032380635209
+      "value": 68.14032380635209,
+      "from_source": 1.954839523397294,
+      "from_target": 66.1854842829548
     },
     {
       "source": "monkey2000",
       "target": "Chicken3gg",
-      "value": 24.18973666600271
+      "value": 24.18973666600271,
+      "from_source": 16.347418741592726,
+      "from_target": 7.842317924409982
     },
     {
       "source": "Chicken3gg",
       "target": "8ZenoSama8",
-      "value": 27.673086870179226
+      "value": 27.673086870179226,
+      "from_source": 27.673086870179226,
+      "from_target": 0
     },
     {
       "source": "Malvenia",
       "target": "Guschtel",
-      "value": 22.613292282725716
+      "value": 22.613292282725716,
+      "from_source": 12.213254267779558,
+      "from_target": 10.400038014946158
     },
     {
       "source": "pospo",
       "target": "DGatekeeper",
-      "value": 40.97929634721804
+      "value": 40.97929634721804,
+      "from_source": 35.16570575431516,
+      "from_target": 5.813590592902874
     },
     {
       "source": "Guschtel",
       "target": "wajiw",
-      "value": 21.40899664989565
+      "value": 21.40899664989565,
+      "from_source": 15.321419973386892,
+      "from_target": 6.087576676508755
     },
     {
       "source": "DGatekeeper",
       "target": "CharlesFox",
-      "value": 21.661960515116416
+      "value": 21.661960515116416,
+      "from_source": 21.661960515116416,
+      "from_target": 0
     },
     {
       "source": "EYLDS",
       "target": "getinsumtail",
-      "value": 38.03627468676887
+      "value": 38.03627468676887,
+      "from_source": 38.03627468676887,
+      "from_target": 0
     },
     {
       "source": "MaestroAlfa",
       "target": "JeiPiVS",
-      "value": 36.848520454088884
+      "value": 36.848520454088884,
+      "from_source": 27.225014190108002,
+      "from_target": 9.623506263980886
     },
     {
       "source": "Voldemort1324",
       "target": "Eriksonn22",
-      "value": 79.11031831929495
+      "value": 79.11031831929495,
+      "from_source": 50.11082533625499,
+      "from_target": 28.999492983039946
     },
     {
       "source": "Voldemort1324",
       "target": "near00noragami",
-      "value": 89.74168615725881
+      "value": 89.74168615725881,
+      "from_source": 67.36999805594142,
+      "from_target": 22.371688101317396
     },
     {
       "source": "Eriksonn22",
       "target": "near00noragami",
-      "value": 83.39643675600027
+      "value": 83.39643675600027,
+      "from_source": 44.70268024208798,
+      "from_target": 38.69375651391228
     },
     {
       "source": "GadielSierra",
       "target": "tavitotwitt",
-      "value": 29.52978907561593
+      "value": 29.52978907561593,
+      "from_source": 18.43822745625176,
+      "from_target": 11.091561619364171
     },
     {
       "source": "Lander051",
       "target": "Thilmiran",
-      "value": 80.49768511980068
+      "value": 80.49768511980068,
+      "from_source": 43.62765076659618,
+      "from_target": 36.87003435320451
     },
     {
       "source": "Her0DasH",
       "target": "Zsu72",
-      "value": 25.23519802774106
+      "value": 25.23519802774106,
+      "from_source": 25.23519802774106,
+      "from_target": 0
     },
     {
       "source": "Ajjika",
       "target": "Zsu72",
-      "value": 21.595550485833485
+      "value": 21.595550485833485,
+      "from_source": 12.742228750827417,
+      "from_target": 8.853321735006068
     },
     {
       "source": "GruensFroeschli",
       "target": "capodileuca",
-      "value": 24.351499447832
+      "value": 24.351499447832,
+      "from_source": 0.2499066298306332,
+      "from_target": 24.101592818001368
     },
     {
       "source": "Cannibalform",
       "target": "hakapeszimaki",
-      "value": 27.35901389239959
+      "value": 27.35901389239959,
+      "from_source": 7.170600970409612,
+      "from_target": 20.18841292198998
     },
     {
       "source": "Cannibalform",
       "target": "Zsu72",
-      "value": 38.988496767675876
+      "value": 38.988496767675876,
+      "from_source": 21.682697396809658,
+      "from_target": 17.305799370866218
     },
     {
       "source": "hakapeszimaki",
       "target": "Zsu72",
-      "value": 23.547445357034817
+      "value": 23.547445357034817,
+      "from_source": 20.101332528629865,
+      "from_target": 3.4461128284049525
     },
     {
       "source": "nakanootoko",
       "target": "maRschine",
-      "value": 28.32361113123649
+      "value": 28.32361113123649,
+      "from_source": 27.051736091585788,
+      "from_target": 1.2718750396507037
     },
     {
       "source": "N3xxUn0",
       "target": "fryyyy",
-      "value": 24.541615703912033
+      "value": 24.541615703912033,
+      "from_source": 24.541615703912033,
+      "from_target": 0
     },
     {
       "source": "JoanBenz",
       "target": "RoxxeI",
-      "value": 21.967663080995788
+      "value": 21.967663080995788,
+      "from_source": 7.952388136904864,
+      "from_target": 14.015274944090923
     },
     {
       "source": "Wuay73",
       "target": "Area51ET",
-      "value": 58.87007247488178
+      "value": 58.87007247488178,
+      "from_source": 58.87007247488178,
+      "from_target": 0
     },
     {
       "source": "HongosFalsosHn",
       "target": "alejaguilar",
-      "value": 82.25451410832102
+      "value": 82.25451410832102,
+      "from_source": 59.670283396092664,
+      "from_target": 22.584230712228347
     },
     {
       "source": "HongosFalsosHn",
       "target": "Koku88z",
-      "value": 76.2795677551193
+      "value": 76.2795677551193,
+      "from_source": 12.356460018293792,
+      "from_target": 63.9231077368255
     },
     {
       "source": "alejaguilar",
       "target": "Koku88z",
-      "value": 69.94629774479873
+      "value": 69.94629774479873,
+      "from_source": 23.087654714346133,
+      "from_target": 46.85864303045259
     },
     {
       "source": "fridj",
       "target": "PixiePower",
-      "value": 27.990284025021417
+      "value": 27.990284025021417,
+      "from_source": 27.990284025021417,
+      "from_target": 0
     },
     {
       "source": "ryhash",
       "target": "LuLuLunn",
-      "value": 88.16907410996677
+      "value": 88.16907410996677,
+      "from_source": 88.16907410996677,
+      "from_target": 0
     },
     {
       "source": "ryhash",
       "target": "impooh",
-      "value": 83.23599088315814
+      "value": 83.23599088315814,
+      "from_source": 83.23599088315814,
+      "from_target": 0
     },
     {
       "source": "LuLuLunn",
       "target": "impooh",
-      "value": 100.03592204198534
+      "value": 100.03592204198534,
+      "from_source": 71.62928899818154,
+      "from_target": 28.4066330438038
     },
     {
       "source": "NTTDental",
       "target": "Hongntk",
-      "value": 28.799226615413474
+      "value": 28.799226615413474,
+      "from_source": 28.799226615413474,
+      "from_target": 0
     },
     {
       "source": "NTTDental",
       "target": "R3dSoldi3r",
-      "value": 44.82556792139308
+      "value": 44.82556792139308,
+      "from_source": 21.172022990265702,
+      "from_target": 23.653544931127374
     },
     {
       "source": "NTTDental",
       "target": "LinhDanhThue",
-      "value": 37.872245679899244
+      "value": 37.872245679899244,
+      "from_source": 9.502639000246043,
+      "from_target": 28.369606679653206
     },
     {
       "source": "Hongntk",
       "target": "lluviaser",
-      "value": 28.609626940403192
+      "value": 28.609626940403192,
+      "from_source": 20.706885413989394,
+      "from_target": 7.902741526413799
     },
     {
       "source": "Hongntk",
       "target": "R3dSoldi3r",
-      "value": 20.841490551199684
+      "value": 20.841490551199684,
+      "from_source": 12.116781190413528,
+      "from_target": 8.724709360786154
     },
     {
       "source": "R3dSoldi3r",
       "target": "LinhDanhThue",
-      "value": 79.6544380664333
+      "value": 79.6544380664333,
+      "from_source": 79.6544380664333,
+      "from_target": 0
     },
     {
       "source": "GTownDuivel",
       "target": "Gash1",
-      "value": 22.911308842431275
+      "value": 22.911308842431275,
+      "from_source": 15.383533204289613,
+      "from_target": 7.527775638141662
     },
     {
       "source": "Gash1",
       "target": "chrigu84",
-      "value": 24.411727874446587
+      "value": 24.411727874446587,
+      "from_source": 18.56831374071141,
+      "from_target": 5.843414133735177
     },
     {
       "source": "chuck122199",
       "target": "Ketzalzin2108",
-      "value": 20.66952618253814
+      "value": 20.66952618253814,
+      "from_source": 20.66952618253814,
+      "from_target": 0
     },
     {
       "source": "EdsonVillamayor",
       "target": "JPrototipo",
-      "value": 22.498268306251536
+      "value": 22.498268306251536,
+      "from_source": 22.498268306251536,
+      "from_target": 0
     },
     {
       "source": "EdsonVillamayor",
       "target": "CarolVillamayor",
-      "value": 46.8658846410943
+      "value": 46.8658846410943,
+      "from_source": 12.969364921092396,
+      "from_target": 33.8965197200019
     },
     {
       "source": "JPrototipo",
       "target": "CarolVillamayor",
-      "value": 31.784480627394696
+      "value": 31.784480627394696,
+      "from_source": 17.355745573409763,
+      "from_target": 14.428735053984934
     },
     {
       "source": "BeforeIForget",
       "target": "ebasi",
-      "value": 32.97727479981098
+      "value": 32.97727479981098,
+      "from_source": 14.389659667936595,
+      "from_target": 18.58761513187438
     },
     {
       "source": "redmana",
       "target": "CubeSprite",
-      "value": 38.68863863714083
+      "value": 38.68863863714083,
+      "from_source": 15.471632175570207,
+      "from_target": 23.217006461570627
     },
     {
       "source": "sylvester33",
       "target": "runturtle",
-      "value": 54.87260901283459
+      "value": 54.87260901283459,
+      "from_source": 23.29469965705223,
+      "from_target": 31.57790935578235
     },
     {
       "source": "GoCougs06",
       "target": "AnywhereButNJ",
-      "value": 23.837186139695554
+      "value": 23.837186139695554,
+      "from_source": 10.114073803386118,
+      "from_target": 13.723112336309436
     },
     {
       "source": "AgpuaHa",
       "target": "Akrozia",
-      "value": 76.94489593953776
+      "value": 76.94489593953776,
+      "from_source": 32.9133732095168,
+      "from_target": 44.03152273002097
     },
     {
       "source": "Zuchie",
       "target": "jOrange",
-      "value": 20.862398407743527
+      "value": 20.862398407743527,
+      "from_source": 13.61406523519343,
+      "from_target": 7.2483331725500975
     },
     {
       "source": "tabriss",
       "target": "noxilon",
-      "value": 43.333563663306684
+      "value": 43.333563663306684,
+      "from_source": 9.747402255566064,
+      "from_target": 33.58616140774062
     },
     {
       "source": "Linsiluss",
       "target": "OrganiskPeroxid",
-      "value": 20.386217172429475
+      "value": 20.386217172429475,
+      "from_source": 18.121682712776273,
+      "from_target": 2.264534459653201
     },
     {
       "source": "Jtlivewire",
       "target": "lamiller2008",
-      "value": 35.77834932143313
+      "value": 35.77834932143313,
+      "from_source": 35.77834932143313,
+      "from_target": 0
     },
     {
       "source": "wsnieders",
       "target": "HaydogLuvEevee",
-      "value": 31.262582412578972
+      "value": 31.262582412578972,
+      "from_source": 31.262582412578972,
+      "from_target": 0
     },
     {
       "source": "Trafic0s",
       "target": "Marmarko",
-      "value": 57.63552483563784
+      "value": 57.63552483563784,
+      "from_source": 39.69188854132484,
+      "from_target": 17.943636294312995
     },
     {
       "source": "BIGFLITZER",
       "target": "P2063",
-      "value": 38.00520534072115
+      "value": 38.00520534072115,
+      "from_source": 9.574389938243028,
+      "from_target": 28.430815402478117
     },
     {
       "source": "80211ad",
       "target": "MysticMagican",
-      "value": 23.91304306688471
+      "value": 23.91304306688471,
+      "from_source": 23.91304306688471,
+      "from_target": 0
     },
     {
       "source": "TheTrueHelper",
       "target": "TheInheritor",
-      "value": 50.77788043775733
+      "value": 50.77788043775733,
+      "from_source": 15.668363469963472,
+      "from_target": 35.10951696779386
     },
     {
       "source": "BrimIie",
       "target": "Madrox77",
-      "value": 26.50847135686718
+      "value": 26.50847135686718,
+      "from_source": 26.50847135686718,
+      "from_target": 0
     },
     {
       "source": "BrimIie",
       "target": "dawninglight",
-      "value": 35.140763229301214
+      "value": 35.140763229301214,
+      "from_source": 35.140763229301214,
+      "from_target": 0
     },
     {
       "source": "Madrox77",
       "target": "dawninglight",
-      "value": 40.32018354745348
+      "value": 40.32018354745348,
+      "from_source": 30.148746306350986,
+      "from_target": 10.171437241102494
     },
     {
       "source": "mambadance",
       "target": "S4arkSt3r",
-      "value": 20.007106008112586
+      "value": 20.007106008112586,
+      "from_source": 20.007106008112586,
+      "from_target": 0
     },
     {
       "source": "ThaalSinestro",
       "target": "SoranikNatu",
-      "value": 102.0333861538678
+      "value": 102.0333861538678,
+      "from_source": 72.80789362906961,
+      "from_target": 29.225492524798184
     },
     {
       "source": "pinnine",
       "target": "Kramushka",
-      "value": 26.122127188359777
+      "value": 26.122127188359777,
+      "from_source": 8.598930611338423,
+      "from_target": 17.523196577021356
     },
     {
       "source": "KodBilen",
       "target": "Lastsource",
-      "value": 22.232941412594915
+      "value": 22.232941412594915,
+      "from_source": 20.78619020048019,
+      "from_target": 1.4467512121147252
     },
     {
       "source": "KodBilen",
       "target": "Godstar0",
-      "value": 20.539670291215
+      "value": 20.539670291215,
+      "from_source": 19.244590835778652,
+      "from_target": 1.2950794554363472
     },
     {
       "source": "KodBilen",
       "target": "ikomuo",
-      "value": 25.725997018568428
+      "value": 25.725997018568428,
+      "from_source": 25.725997018568428,
+      "from_target": 0
     },
     {
       "source": "Godstar0",
       "target": "ReneZ11",
-      "value": 20.62559102989338
+      "value": 20.62559102989338,
+      "from_source": 8.598930611338423,
+      "from_target": 12.026660418554957
     },
     {
       "source": "Robert4444",
       "target": "GreenBay",
-      "value": 69.71776893873688
+      "value": 69.71776893873688,
+      "from_source": 43.53958045722738,
+      "from_target": 26.1781884815095
     },
     {
       "source": "ilMorgi",
       "target": "Miketrevis",
-      "value": 73.31721169545969
+      "value": 73.31721169545969,
+      "from_source": 73.31721169545969,
+      "from_target": 0
     },
     {
       "source": "ilMorgi",
       "target": "Mirearose",
-      "value": 67.00543176582819
+      "value": 67.00543176582819,
+      "from_source": 49.39223431103557,
+      "from_target": 17.61319745479262
     },
     {
       "source": "SQL",
       "target": "Kokuryuu",
-      "value": 67.1431166520062
+      "value": 67.1431166520062,
+      "from_source": 39.536483026492625,
+      "from_target": 27.606633625513563
     },
     {
       "source": "holocronster",
       "target": "pr0m",
-      "value": 42.10668031814564
+      "value": 42.10668031814564,
+      "from_source": 42.10668031814564,
+      "from_target": 0
     },
     {
       "source": "pr0m",
       "target": "FataS",
-      "value": 33.14888716210621
+      "value": 33.14888716210621,
+      "from_source": 16.10064252195587,
+      "from_target": 17.048244640150344
     },
     {
       "source": "pr0m",
       "target": "TomateNinja",
-      "value": 30.44620252474897
+      "value": 30.44620252474897,
+      "from_source": 10.002055696592494,
+      "from_target": 20.444146828156477
     },
     {
       "source": "HadeCake",
       "target": "RAIYC",
-      "value": 43.64080117384408
+      "value": 43.64080117384408,
+      "from_source": 24.411457635839575,
+      "from_target": 19.229343538004507
     },
     {
       "source": "HadeCake",
       "target": "vinceoxnard",
-      "value": 48.587632368272125
+      "value": 48.587632368272125,
+      "from_source": 30.66807284890347,
+      "from_target": 17.919559519368654
     },
     {
       "source": "joeshua",
       "target": "Leynou",
-      "value": 28.365428760788774
+      "value": 28.365428760788774,
+      "from_source": 28.365428760788774,
+      "from_target": 0
     },
     {
       "source": "edyak",
       "target": "Akeca",
-      "value": 44.039708296054776
+      "value": 44.039708296054776,
+      "from_source": 35.54539443229027,
+      "from_target": 8.494313863764498
     },
     {
       "source": "RAIYC",
       "target": "vinceoxnard",
-      "value": 50.89886458811696
+      "value": 50.89886458811696,
+      "from_source": 34.827881532513764,
+      "from_target": 16.07098305560319
     },
     {
       "source": "ifonz",
       "target": "kuprum",
-      "value": 38.41902423531181
+      "value": 38.41902423531181,
+      "from_source": 25.12722755300648,
+      "from_target": 13.291796682305327
     },
     {
       "source": "enrybkram",
       "target": "quattro",
-      "value": 21.066488079842657
+      "value": 21.066488079842657,
+      "from_source": 12.812446227162473,
+      "from_target": 8.254041852680183
     },
     {
       "source": "IloveMATH",
       "target": "frisee",
-      "value": 77.35397402304591
+      "value": 77.35397402304591,
+      "from_source": 47.960534702409774,
+      "from_target": 29.39343932063614
     },
     {
       "source": "IloveMATH",
       "target": "Scar1etCh3rry",
-      "value": 48.357213840574786
+      "value": 48.357213840574786,
+      "from_source": 21.907795321909617,
+      "from_target": 26.449418518665166
     },
     {
       "source": "Wapta",
       "target": "theimmc",
-      "value": 22.55895871755989
+      "value": 22.55895871755989,
+      "from_source": 22.55895871755989,
+      "from_target": 0
     },
     {
       "source": "quattro",
       "target": "Toxoplasmolly",
-      "value": 21.827930311709434
+      "value": 21.827930311709434,
+      "from_source": 13.073614248016991,
+      "from_target": 8.75431606369244
     },
     {
       "source": "Polarhare",
       "target": "Toxoplasmolly",
-      "value": 26.622250398896057
+      "value": 26.622250398896057,
+      "from_source": 18.493945237255062,
+      "from_target": 8.128305161640993
     },
     {
       "source": "bastet7",
       "target": "Calico007",
-      "value": 51.404067292542024
+      "value": 51.404067292542024,
+      "from_source": 40.589470489355065,
+      "from_target": 10.814596803186959
     },
     {
       "source": "absha",
       "target": "sneevel",
-      "value": 21.60361402283572
+      "value": 21.60361402283572,
+      "from_source": 14.422542726823993,
+      "from_target": 7.181071296011726
     },
     {
       "source": "absha",
       "target": "Inwie",
-      "value": 22.111282864428347
+      "value": 22.111282864428347,
+      "from_source": 15.03389687564282,
+      "from_target": 7.077385988785524
     },
     {
       "source": "oscarc1",
       "target": "SpudChat",
-      "value": 40.991131733137706
+      "value": 40.991131733137706,
+      "from_source": 32.2591843292399,
+      "from_target": 8.7319474038978
     },
     {
       "source": "GvRTesphina",
       "target": "Nandaleee",
-      "value": 50.374418847585545
+      "value": 50.374418847585545,
+      "from_source": 43.07424280257676,
+      "from_target": 7.30017604500878
     },
     {
       "source": "Lonelylisa",
       "target": "sneevel",
-      "value": 23.73110162791956
+      "value": 23.73110162791956,
+      "from_source": 7.817176655059243,
+      "from_target": 15.913924972860318
     },
     {
       "source": "Lonelylisa",
       "target": "Inwie",
-      "value": 23.751465103718232
+      "value": 23.751465103718232,
+      "from_source": 16.617461353005673,
+      "from_target": 7.134003750712562
     },
     {
       "source": "sneevel",
       "target": "Inwie",
-      "value": 101.18150113879362
+      "value": 101.18150113879362,
+      "from_source": 43.94169403242295,
+      "from_target": 57.239807106370684
     },
     {
       "source": "SabakuNoMaki",
       "target": "Capratz",
-      "value": 20.622805834080204
+      "value": 20.622805834080204,
+      "from_source": 4.576335456107948,
+      "from_target": 16.046470377972256
     },
     {
       "source": "Hoshi23",
       "target": "Thaal",
-      "value": 52.99556068365532
+      "value": 52.99556068365532,
+      "from_source": 34.853468865045684,
+      "from_target": 18.142091818609636
     },
     {
       "source": "daolongnam",
       "target": "namthanthien",
-      "value": 82.17940446645862
+      "value": 82.17940446645862,
+      "from_source": 36.497922826441446,
+      "from_target": 45.68148164001716
     },
     {
       "source": "Hvenekaer",
       "target": "taprokh",
-      "value": 76.65608020657605
+      "value": 76.65608020657605,
+      "from_source": 37.24144835863536,
+      "from_target": 39.4146318479407
     },
     {
       "source": "Kolinda007",
       "target": "lupukapa",
-      "value": 50.6195060157477
+      "value": 50.6195060157477,
+      "from_source": 36.39928254726556,
+      "from_target": 14.220223468482143
     },
     {
       "source": "Swarovskaya",
       "target": "0rocnogu",
-      "value": 32.82364056549651
+      "value": 32.82364056549651,
+      "from_source": 17.51461084318208,
+      "from_target": 15.309029722314433
     },
     {
       "source": "naruh0d0",
       "target": "MetLee",
-      "value": 32.340985049769316
+      "value": 32.340985049769316,
+      "from_source": 28.03192145808361,
+      "from_target": 4.3090635916857085
     },
     {
       "source": "CincauHangus",
       "target": "dashstrike",
-      "value": 39.77619500205441
+      "value": 39.77619500205441,
+      "from_source": 39.77619500205441,
+      "from_target": 0
     },
     {
       "source": "CincauHangus",
       "target": "expediter",
-      "value": 39.90352519225532
+      "value": 39.90352519225532,
+      "from_source": 39.90352519225532,
+      "from_target": 0
     },
     {
       "source": "CincauHangus",
       "target": "keretapir",
-      "value": 30.048293304400463
+      "value": 30.048293304400463,
+      "from_source": 20.99791638288334,
+      "from_target": 9.050376921517122
     },
     {
       "source": "CincauHangus",
       "target": "knazlee",
-      "value": 31.945134902029338
+      "value": 31.945134902029338,
+      "from_source": 31.945134902029338,
+      "from_target": 0
     },
     {
       "source": "CincauHangus",
       "target": "psycopat1701",
-      "value": 36.223335233728264
+      "value": 36.223335233728264,
+      "from_source": 36.223335233728264,
+      "from_target": 0
     },
     {
       "source": "dashstrike",
       "target": "psycopat1701",
-      "value": 25.66276625005737
+      "value": 25.66276625005737,
+      "from_source": 8.470161555290433,
+      "from_target": 17.192604694766935
     },
     {
       "source": "expediter",
       "target": "psycopat1701",
-      "value": 27.615015489305616
+      "value": 27.615015489305616,
+      "from_source": 8.948995600250452,
+      "from_target": 18.666019889055164
     },
     {
       "source": "keretapir",
       "target": "psycopat1701",
-      "value": 24.268630703838323
+      "value": 24.268630703838323,
+      "from_source": 19.686952167187208,
+      "from_target": 4.581678536651116
     },
     {
       "source": "knazlee",
       "target": "psycopat1701",
-      "value": 28.234976261177653
+      "value": 28.234976261177653,
+      "from_source": 12.910228508642412,
+      "from_target": 15.324747752535242
     },
     {
       "source": "MAgent23",
       "target": "zerokeel",
-      "value": 31.745045711538552
+      "value": 31.745045711538552,
+      "from_source": 22.34536623087417,
+      "from_target": 9.39967948066438
     },
     {
       "source": "MAgent23",
       "target": "Vortrack3899",
-      "value": 42.88027711869154
+      "value": 42.88027711869154,
+      "from_source": 35.87506968040749,
+      "from_target": 7.005207438284054
     },
     {
       "source": "MAgent23",
       "target": "DesertPenguinn",
-      "value": 22.898012555262536
+      "value": 22.898012555262536,
+      "from_source": 18.660076150540334,
+      "from_target": 4.2379364047222
     },
     {
       "source": "MAgent23",
       "target": "SCLeon",
-      "value": 26.613576114947204
+      "value": 26.613576114947204,
+      "from_source": 16.40357590640614,
+      "from_target": 10.21000020854107
     },
     {
       "source": "zerokeel",
       "target": "Vortrack3899",
-      "value": 31.40690080935252
+      "value": 31.40690080935252,
+      "from_source": 9.672874554958259,
+      "from_target": 21.734026254394262
     },
     {
       "source": "zerokeel",
       "target": "BMAXI3I",
-      "value": 37.67909812372725
+      "value": 37.67909812372725,
+      "from_source": 18.85407193201556,
+      "from_target": 18.82502619171169
     },
     {
       "source": "zerokeel",
       "target": "DesertPenguinn",
-      "value": 28.855770429602202
+      "value": 28.855770429602202,
+      "from_source": 17.634707353654953,
+      "from_target": 11.22106307594725
     },
     {
       "source": "zerokeel",
       "target": "SCLeon",
-      "value": 20.37788261916264
+      "value": 20.37788261916264,
+      "from_source": 13.56496192858303,
+      "from_target": 6.812920690579612
     },
     {
       "source": "Vortrack3899",
       "target": "BMAXI3I",
-      "value": 51.04901165444616
+      "value": 51.04901165444616,
+      "from_source": 36.59176024584607,
+      "from_target": 14.457251408600083
     },
     {
       "source": "Vortrack3899",
       "target": "DesertPenguinn",
-      "value": 32.67924775856774
+      "value": 32.67924775856774,
+      "from_source": 30.405895859647114,
+      "from_target": 2.2733518989206303
     },
     {
       "source": "Vortrack3899",
       "target": "SCLeon",
-      "value": 43.0017077731387
+      "value": 43.0017077731387,
+      "from_source": 32.54272799310115,
+      "from_target": 10.458979780037543
     },
     {
       "source": "BMAXI3I",
       "target": "DesertPenguinn",
-      "value": 31.400901549604875
+      "value": 31.400901549604875,
+      "from_source": 23.558583625194892,
+      "from_target": 7.842317924409982
     },
     {
       "source": "BMAXI3I",
       "target": "SCLeon",
-      "value": 48.84530499930101
+      "value": 48.84530499930101,
+      "from_source": 19.876286384777266,
+      "from_target": 28.969018614523733
     },
     {
       "source": "DesertPenguinn",
       "target": "SCLeon",
-      "value": 22.685183026721155
+      "value": 22.685183026721155,
+      "from_source": 4.236174463140859,
+      "from_target": 18.449008563580296
     },
     {
       "source": "Perkk",
       "target": "Geometrician",
-      "value": 27.2949144266945
+      "value": 27.2949144266945,
+      "from_source": 27.2949144266945,
+      "from_target": 0
     },
     {
       "source": "Bluebell91",
       "target": "chungdavi",
-      "value": 26.766955553369733
+      "value": 26.766955553369733,
+      "from_source": 21.043753270691514,
+      "from_target": 5.723202282678219
     },
     {
       "source": "Mafary",
       "target": "DCHEMV",
-      "value": 24.84090482029486
+      "value": 24.84090482029486,
+      "from_source": 8.04554661723515,
+      "from_target": 16.795358203059706
     },
     {
       "source": "SharkBaite",
       "target": "ByteLuke",
-      "value": 77.78566987959715
+      "value": 77.78566987959715,
+      "from_source": 69.5737548980562,
+      "from_target": 8.211914981540968
     },
     {
       "source": "ladylunar",
       "target": "SoNicSiZer",
-      "value": 25.947335191878782
+      "value": 25.947335191878782,
+      "from_source": 18.63987224940666,
+      "from_target": 7.307462942472122
     },
     {
       "source": "josuefunes",
       "target": "iKillshadow",
-      "value": 29.958612522597235
+      "value": 29.958612522597235,
+      "from_source": 14.579902475412991,
+      "from_target": 15.378710047184246
     },
     {
       "source": "SagadeGemini",
       "target": "iKillshadow",
-      "value": 40.81562298201433
+      "value": 40.81562298201433,
+      "from_source": 23.38202593376753,
+      "from_target": 17.433597048246806
     },
     {
       "source": "EnriqueRisk",
       "target": "SirJamexz",
-      "value": 20.990431082389783
+      "value": 20.990431082389783,
+      "from_source": 11.471597199656767,
+      "from_target": 9.518833882733013
     },
     {
       "source": "chuck122199",
       "target": "SirJamexz",
-      "value": 20.06657869140063
+      "value": 20.06657869140063,
+      "from_source": 17.652960405580938,
+      "from_target": 2.413618285819692
     },
     {
       "source": "CigAros",
       "target": "LinhDanhThue",
-      "value": 28.860581063830182
+      "value": 28.860581063830182,
+      "from_source": 22.89633495960981,
+      "from_target": 5.964246104220371
     },
     {
       "source": "SPOONBANG",
       "target": "AFX001",
-      "value": 30.33765428729796
+      "value": 30.33765428729796,
+      "from_source": 10.847724960648105,
+      "from_target": 19.48992932664985
     },
     {
       "source": "JamieObando",
       "target": "SplinterHN",
-      "value": 29.978330003963872
+      "value": 29.978330003963872,
+      "from_source": 23.48866585036353,
+      "from_target": 6.489664153600342
     },
     {
       "source": "SplinterHN",
       "target": "Paulinki",
-      "value": 31.860288653027975
+      "value": 31.860288653027975,
+      "from_source": 17.300363483774312,
+      "from_target": 14.559925169253667
     },
     {
       "source": "n3ural",
       "target": "alienmarky",
-      "value": 52.019533488024706
+      "value": 52.019533488024706,
+      "from_source": 37.162426147037905,
+      "from_target": 14.857107340986802
     },
     {
       "source": "Quintero14",
       "target": "DEnmanuel23",
-      "value": 27.639759132198915
+      "value": 27.639759132198915,
+      "from_source": 5.773851749989831,
+      "from_target": 21.86590738220908
     },
     {
       "source": "Chremanu1",
       "target": "arn0ld1nh0",
-      "value": 64.95263867690386
+      "value": 64.95263867690386,
+      "from_source": 31.416664918066324,
+      "from_target": 33.53597375883754
     },
     {
       "source": "Faeryen",
       "target": "zuzajda",
-      "value": 20.302040242706603
+      "value": 20.302040242706603,
+      "from_source": 18.16954098391393,
+      "from_target": 2.132499258792674
     },
     {
       "source": "ti32cyclist",
       "target": "Pensativa11",
-      "value": 51.99793402315799
+      "value": 51.99793402315799,
+      "from_source": 51.99793402315799,
+      "from_target": 0
     },
     {
       "source": "pospo",
       "target": "skinyy",
-      "value": 37.45452981917898
+      "value": 37.45452981917898,
+      "from_source": 19.39789903758755,
+      "from_target": 18.056630781591423
     },
     {
       "source": "robb2k4",
       "target": "JCDKing",
-      "value": 21.252036835513536
+      "value": 21.252036835513536,
+      "from_source": 16.444063201815982,
+      "from_target": 4.8079736336975545
     },
     {
       "source": "SuperAlatar",
       "target": "Atheeneea",
-      "value": 63.5156280731198
+      "value": 63.5156280731198,
+      "from_source": 63.5156280731198,
+      "from_target": 0
     },
     {
       "source": "Chicken3gg",
       "target": "vomZwinghof",
-      "value": 36.959381821192736
+      "value": 36.959381821192736,
+      "from_source": 36.959381821192736,
+      "from_target": 0
     },
     {
       "source": "Chicken3gg",
       "target": "Fatbob",
-      "value": 26.213380907762208
+      "value": 26.213380907762208,
+      "from_source": 26.213380907762208,
+      "from_target": 0
     },
     {
       "source": "Chicken3gg",
       "target": "capodileuca",
-      "value": 42.32287249852331
+      "value": 42.32287249852331,
+      "from_source": 32.424687751223715,
+      "from_target": 9.898184747299604
     },
     {
       "source": "vomZwinghof",
       "target": "Fatbob",
-      "value": 31.593841443296423
+      "value": 31.593841443296423,
+      "from_source": 22.5434645217793,
+      "from_target": 9.050376921517122
     },
     {
       "source": "vomZwinghof",
       "target": "capodileuca",
-      "value": 32.54621943448008
+      "value": 32.54621943448008,
+      "from_source": 32.54621943448008,
+      "from_target": 0
     },
     {
       "source": "Fatbob",
       "target": "capodileuca",
-      "value": 27.875637401935432
+      "value": 27.875637401935432,
+      "from_source": 9.407012359277267,
+      "from_target": 18.468625042658168
     },
     {
       "source": "D0nDarkness",
       "target": "JCDKing",
-      "value": 25.16459522879441
+      "value": 25.16459522879441,
+      "from_source": 16.718292042954726,
+      "from_target": 8.446303185839685
     },
     {
       "source": "Zsu72",
       "target": "zsoltr",
-      "value": 21.867013807889393
+      "value": 21.867013807889393,
+      "from_source": 11.70369986012372,
+      "from_target": 10.163313947765673
     },
     {
       "source": "maxrob",
       "target": "capodileuca",
-      "value": 21.031854400119133
+      "value": 21.031854400119133,
+      "from_source": 12.027668674277896,
+      "from_target": 9.004185725841237
     },
     {
       "source": "JCDKing",
       "target": "ic3max",
-      "value": 37.94576661710963
+      "value": 37.94576661710963,
+      "from_source": 8.04554661723515,
+      "from_target": 29.90021999987448
     },
     {
       "source": "JCDKing",
       "target": "elRi0",
-      "value": 20.710838479164174
+      "value": 20.710838479164174,
+      "from_source": 20.710838479164174,
+      "from_target": 0
     },
     {
       "source": "zsoltr",
       "target": "Cannibalform",
-      "value": 23.065517754590665
+      "value": 23.065517754590665,
+      "from_source": 23.065517754590665,
+      "from_target": 0
     },
     {
       "source": "eGreeter",
       "target": "philou54330",
-      "value": 25.71859972754904
+      "value": 25.71859972754904,
+      "from_source": 25.71859972754904,
+      "from_target": 0
     },
     {
       "source": "alejaguilar",
       "target": "GadielSierra",
-      "value": 22.610903700091576
+      "value": 22.610903700091576,
+      "from_source": 8.844365191385997,
+      "from_target": 13.76653850870558
     },
     {
       "source": "fl0w3rr0ck",
       "target": "Leetk",
-      "value": 39.95968048384747
+      "value": 39.95968048384747,
+      "from_source": 8.709635899560807,
+      "from_target": 31.250044584286666
     },
     {
       "source": "hvejar",
       "target": "PanchoPelao",
-      "value": 58.87086949196721
+      "value": 58.87086949196721,
+      "from_source": 0.6072021956909888,
+      "from_target": 58.263667296276225
     },
     {
       "source": "JoanBenz",
       "target": "MrMieDitt0",
-      "value": 27.002916526986905
+      "value": 27.002916526986905,
+      "from_source": 3.9506328139832374,
+      "from_target": 23.052283713003668
     },
     {
       "source": "mimyc",
       "target": "FireNeedle17",
-      "value": 21.04668473257899
+      "value": 21.04668473257899,
+      "from_source": 8.429497186076613,
+      "from_target": 12.617187546502375
     },
     {
       "source": "Wuay73",
       "target": "AtilaE1",
-      "value": 67.38826453892403
+      "value": 67.38826453892403,
+      "from_source": 59.1130782787488,
+      "from_target": 8.275186260175232
     },
     {
       "source": "AtilaE1",
       "target": "Area51ET",
-      "value": 45.4851016698121
+      "value": 45.4851016698121,
+      "from_source": 37.860411123368344,
+      "from_target": 7.6246905464437535
     },
     {
       "source": "MangoAsesino",
       "target": "AzradTT",
-      "value": 39.56712668006493
+      "value": 39.56712668006493,
+      "from_source": 39.56712668006493,
+      "from_target": 0
     },
     {
       "source": "astranceGo",
       "target": "Almuneitor",
-      "value": 37.82978356731907
+      "value": 37.82978356731907,
+      "from_source": 37.82978356731907,
+      "from_target": 0
     },
     {
       "source": "Willuiz",
       "target": "Zorak02",
-      "value": 30.444570021448637
+      "value": 30.444570021448637,
+      "from_source": 30.444570021448637,
+      "from_target": 0
     },
     {
       "source": "karlhm",
       "target": "Linsiluss",
-      "value": 36.12554526299789
+      "value": 36.12554526299789,
+      "from_source": 9.797406129167452,
+      "from_target": 26.328139133830433
     },
     {
       "source": "Monulka",
       "target": "iNeXsYs",
-      "value": 27.81909050869415
+      "value": 27.81909050869415,
+      "from_source": 8.709635899560807,
+      "from_target": 19.109454609133344
     },
     {
       "source": "PEGaviria",
       "target": "moonrise007",
-      "value": 29.68872783648822
+      "value": 29.68872783648822,
+      "from_source": 29.68872783648822,
+      "from_target": 0
     },
     {
       "source": "mircea2s",
       "target": "betadina",
-      "value": 43.36801218517793
+      "value": 43.36801218517793,
+      "from_source": 8.643042860748357,
+      "from_target": 34.72496932442958
     },
     {
       "source": "keyclick",
       "target": "SQL",
-      "value": 37.33939799410645
+      "value": 37.33939799410645,
+      "from_source": 17.517672285485844,
+      "from_target": 19.82172570862061
     },
     {
       "source": "keyclick",
       "target": "Kokuryuu",
-      "value": 25.706331007290977
+      "value": 25.706331007290977,
+      "from_source": 16.373787999321067,
+      "from_target": 9.33254300796991
     },
     {
       "source": "akrykm",
       "target": "99666",
-      "value": 27.99164578340947
+      "value": 27.99164578340947,
+      "from_source": 27.99164578340947,
+      "from_target": 0
     },
     {
       "source": "CincauHangus",
       "target": "Lastsource",
-      "value": 21.560041610645563
+      "value": 21.560041610645563,
+      "from_source": 7.337625723461731,
+      "from_target": 14.222415887183832
     },
     {
       "source": "CincauHangus",
       "target": "quattro",
-      "value": 48.21007400906954
+      "value": 48.21007400906954,
+      "from_source": 37.00109475481802,
+      "from_target": 11.208979254251522
     },
     {
       "source": "CincauHangus",
       "target": "Polarhare",
-      "value": 41.39929848586495
+      "value": 41.39929848586495,
+      "from_source": 31.62692627630685,
+      "from_target": 9.772372209558107
     },
     {
       "source": "Lastsource",
       "target": "quattro",
-      "value": 20.62576111709275
+      "value": 20.62576111709275,
+      "from_source": 16.14748248658992,
+      "from_target": 4.478278630502831
     },
     {
       "source": "psycopat1701",
       "target": "quattro",
-      "value": 36.39343221594295
+      "value": 36.39343221594295,
+      "from_source": 15.286783142031513,
+      "from_target": 21.106649073911438
     },
     {
       "source": "psycopat1701",
       "target": "chungdavi",
-      "value": 24.60984026668951
+      "value": 24.60984026668951,
+      "from_source": 12.414823337097888,
+      "from_target": 12.195016929591619
     },
     {
       "source": "psycopat1701",
       "target": "Polarhare",
-      "value": 29.06438108182371
+      "value": 29.06438108182371,
+      "from_source": 10.5976933047594,
+      "from_target": 18.466687777064312
     },
     {
       "source": "psycopat1701",
       "target": "Bluebell91",
-      "value": 20.30406901894995
+      "value": 20.30406901894995,
+      "from_source": 4.368182174308771,
+      "from_target": 15.935886844641178
     },
     {
       "source": "expediter",
       "target": "quattro",
-      "value": 38.165936719741275
+      "value": 38.165936719741275,
+      "from_source": 9.747402255566064,
+      "from_target": 28.41853446417521
     },
     {
       "source": "expediter",
       "target": "Polarhare",
-      "value": 36.303173007036996
+      "value": 36.303173007036996,
+      "from_source": 23.9676540790404,
+      "from_target": 12.335518927996592
     },
     {
       "source": "expediter",
       "target": "SoNicSiZer",
-      "value": 20.684761657473967
+      "value": 20.684761657473967,
+      "from_source": 9.526209884936328,
+      "from_target": 11.158551772537638
     },
     {
       "source": "expediter",
       "target": "deliocruzo",
-      "value": 39.552501909763976
+      "value": 39.552501909763976,
+      "from_source": 11.11367786839962,
+      "from_target": 28.438824041364356
     },
     {
       "source": "expediter",
       "target": "Bluebell91",
-      "value": 27.41177980448179
+      "value": 27.41177980448179,
+      "from_source": 18.76703271394956,
+      "from_target": 8.644747090532224
     },
     {
       "source": "quattro",
       "target": "knazlee",
-      "value": 25.232927924061492
+      "value": 25.232927924061492,
+      "from_source": 17.647152173769655,
+      "from_target": 7.5857757502918375
     },
     {
       "source": "quattro",
       "target": "dashstrike",
-      "value": 37.40296422343677
+      "value": 37.40296422343677,
+      "from_source": 28.626222198076704,
+      "from_target": 8.776742025360063
     },
     {
       "source": "quattro",
       "target": "deliocruzo",
-      "value": 22.688275965022545
+      "value": 22.688275965022545,
+      "from_source": 14.559970803381553,
+      "from_target": 8.128305161640993
     },
     {
       "source": "quattro",
       "target": "Bluebell91",
-      "value": 20.63017363500405
+      "value": 20.63017363500405,
+      "from_source": 12.162233525148753,
+      "from_target": 8.467940109855295
     },
     {
       "source": "knazlee",
       "target": "Polarhare",
-      "value": 20.33182328001836
+      "value": 20.33182328001836,
+      "from_source": 16.678193261429403,
+      "from_target": 3.653630018588957
     },
     {
       "source": "knazlee",
       "target": "SoNicSiZer",
-      "value": 29.458674030328467
+      "value": 29.458674030328467,
+      "from_source": 13.035423104286679,
+      "from_target": 16.423250926041792
     },
     {
       "source": "dashstrike",
       "target": "Polarhare",
-      "value": 37.9119166230902
+      "value": 37.9119166230902,
+      "from_source": 23.41405609538377,
+      "from_target": 14.497860527706433
     },
     {
       "source": "dashstrike",
       "target": "Bluebell91",
-      "value": 28.426769426601226
+      "value": 28.426769426601226,
+      "from_source": 25.288670237426096,
+      "from_target": 3.1380991891751258
     },
     {
       "source": "chungdavi",
       "target": "Polarhare",
-      "value": 24.511429899421778
+      "value": 24.511429899421778,
+      "from_source": 8.665183773468044,
+      "from_target": 15.846246125953737
     },
     {
       "source": "chungdavi",
       "target": "SoNicSiZer",
-      "value": 22.392064692822505
+      "value": 22.392064692822505,
+      "from_source": 17.933871524263516,
+      "from_target": 4.4581931685589895
     },
     {
       "source": "Polarhare",
       "target": "deliocruzo",
-      "value": 29.56254334486141
+      "value": 29.56254334486141,
+      "from_source": 10.442485287515685,
+      "from_target": 19.120058057345727
     },
     {
       "source": "Polarhare",
       "target": "ladylunar",
-      "value": 28.391425999283157
+      "value": 28.391425999283157,
+      "from_source": 10.882109287670318,
+      "from_target": 17.50931671161284
     },
     {
       "source": "Polarhare",
       "target": "keretapir",
-      "value": 20.61467963368215
+      "value": 20.61467963368215,
+      "from_source": 9.797713457755577,
+      "from_target": 10.816966175926574
     },
     {
       "source": "SoNicSiZer",
       "target": "AnubisSoul0",
-      "value": 23.514686502737316
+      "value": 23.514686502737316,
+      "from_source": 23.514686502737316,
+      "from_target": 0
     },
     {
       "source": "deliocruzo",
       "target": "Bluebell91",
-      "value": 50.22848996908392
+      "value": 50.22848996908392,
+      "from_source": 37.23361433359112,
+      "from_target": 12.994875635492804
     },
     {
       "source": "ladylunar",
       "target": "Bluebell91",
-      "value": 31.83225758651855
+      "value": 31.83225758651855,
+      "from_source": 6.778148994829057,
+      "from_target": 25.054108591689495
     },
     {
       "source": "Bluebell91",
       "target": "keretapir",
-      "value": 44.87277861046275
+      "value": 44.87277861046275,
+      "from_source": 14.67220955525668,
+      "from_target": 30.200569055206067
     },
     {
       "source": "agiandor",
       "target": "Philippe30",
-      "value": 20.368745469061427
+      "value": 20.368745469061427,
+      "from_source": 12.723314997717667,
+      "from_target": 7.645430471343761
     },
     {
       "source": "CameleonGVA",
       "target": "Gr33nCh4oS",
-      "value": 27.138278100116487
+      "value": 27.138278100116487,
+      "from_source": 15.24255867184298,
+      "from_target": 11.895719428273503
     },
     {
       "source": "absha",
       "target": "montitcha",
-      "value": 51.039919966386805
+      "value": 51.039919966386805,
+      "from_source": 23.262863039678507,
+      "from_target": 27.777056926708298
     },
     {
       "source": "quirischa",
       "target": "Hamsterrific",
-      "value": 27.747248542935672
+      "value": 27.747248542935672,
+      "from_source": 27.747248542935672,
+      "from_target": 0
     },
     {
       "source": "Pelupeman",
       "target": "Wuay73",
-      "value": 20.00201222832245
+      "value": 20.00201222832245,
+      "from_source": 12.179732664462424,
+      "from_target": 7.822279563860026
     },
     {
       "source": "sanshine",
       "target": "vikend",
-      "value": 25.862974309044873
+      "value": 25.862974309044873,
+      "from_source": 16.015307787943293,
+      "from_target": 9.847666521101582
     },
     {
       "source": "DCHEMV",
       "target": "SagadeGemini",
-      "value": 52.091407165160035
+      "value": 52.091407165160035,
+      "from_source": 9.970065495212376,
+      "from_target": 42.121341669947654
     },
     {
       "source": "DCHEMV",
       "target": "josuefunes",
-      "value": 38.00736821333175
+      "value": 38.00736821333175,
+      "from_source": 20.405547695569428,
+      "from_target": 17.601820517762324
     },
     {
       "source": "Mafary",
       "target": "peperamirez",
-      "value": 30.552405710219162
+      "value": 30.552405710219162,
+      "from_source": 30.552405710219162,
+      "from_target": 0
     },
     {
       "source": "Mafary",
       "target": "josuefunes",
-      "value": 20.960477797679367
+      "value": 20.960477797679367,
+      "from_source": 9.238635825322238,
+      "from_target": 11.721841972357126
     },
     {
       "source": "Hamtary",
       "target": "omgkitties",
-      "value": 31.073559736616236
+      "value": 31.073559736616236,
+      "from_source": 18.18679071111808,
+      "from_target": 12.886769025498156
     },
     {
       "source": "SagadeGemini",
       "target": "SirJamexz",
-      "value": 25.76201140026243
+      "value": 25.76201140026243,
+      "from_source": 25.76201140026243,
+      "from_target": 0
     },
     {
       "source": "SagadeGemini",
       "target": "Paulinki",
-      "value": 23.73647540336916
+      "value": 23.73647540336916,
+      "from_source": 15.993838576557888,
+      "from_target": 7.742636826811271
     },
     {
       "source": "josuefunes",
       "target": "SirJamexz",
-      "value": 24.88340730929667
+      "value": 24.88340730929667,
+      "from_source": 13.863173466470204,
+      "from_target": 11.020233842826466
     },
     {
       "source": "josuefunes",
       "target": "Paulinki",
-      "value": 28.265014546954774
+      "value": 28.265014546954774,
+      "from_source": 11.891717938151652,
+      "from_target": 16.373296608803123
     },
     {
       "source": "josuefunes",
       "target": "SplinterHN",
-      "value": 33.43189291278574
+      "value": 33.43189291278574,
+      "from_source": 10.012178024972094,
+      "from_target": 23.419714887813644
     },
     {
       "source": "SirJamexz",
       "target": "Paulinki",
-      "value": 23.000246338069857
+      "value": 23.000246338069857,
+      "from_source": 22.019290772362496,
+      "from_target": 0.9809555657073612
     },
     {
       "source": "SirJamexz",
       "target": "SplinterHN",
-      "value": 22.00600791851774
+      "value": 22.00600791851774,
+      "from_source": 22.00600791851774,
+      "from_target": 0
     },
     {
       "source": "SirJamexz",
       "target": "iKillshadow",
-      "value": 30.5213907130298
+      "value": 30.5213907130298,
+      "from_source": 11.628844985888206,
+      "from_target": 18.89254572714159
     },
     {
       "source": "Paulinki",
       "target": "EnriqueRisk",
-      "value": 25.443123040634994
+      "value": 25.443123040634994,
+      "from_source": 20.58057308566649,
+      "from_target": 4.862549954968506
     },
     {
       "source": "Paulinki",
       "target": "iKillshadow",
-      "value": 24.442663836441067
+      "value": 24.442663836441067,
+      "from_source": 7.002466937770736,
+      "from_target": 17.44019689867033
     },
     {
       "source": "EnriqueRisk",
       "target": "SplinterHN",
-      "value": 23.28915775697651
+      "value": 23.28915775697651,
+      "from_source": 16.68161022979567,
+      "from_target": 6.6075475271808415
     },
     {
       "source": "EnriqueRisk",
       "target": "iKillshadow",
-      "value": 21.66198942000468
+      "value": 21.66198942000468,
+      "from_source": 12.238926549003157,
+      "from_target": 9.423062871001521
     },
     {
       "source": "SplinterHN",
       "target": "iKillshadow",
-      "value": 21.97943569546314
+      "value": 21.97943569546314,
+      "from_source": 4.749705326484556,
+      "from_target": 17.229730368978583
     },
     {
       "source": "Kengmeiji",
       "target": "spookyhunter30",
-      "value": 24.658543049100288
+      "value": 24.658543049100288,
+      "from_source": 7.29949430644092,
+      "from_target": 17.35904874265937
     },
     {
       "source": "Saxas86",
       "target": "hofer78",
-      "value": 30.088775188183355
+      "value": 30.088775188183355,
+      "from_source": 21.59914272692954,
+      "from_target": 8.489632461253816
     },
     {
       "source": "abifelin",
       "target": "Rudy45789",
-      "value": 22.175004717603215
+      "value": 22.175004717603215,
+      "from_source": 18.671969976337877,
+      "from_target": 3.503034741265336
     },
     {
       "source": "katracho37",
       "target": "Murpi2000",
-      "value": 22.4788776426657
+      "value": 22.4788776426657,
+      "from_source": 9.573887393511551,
+      "from_target": 12.904990249154146
     },
     {
       "source": "katracho37",
       "target": "4G3NT3C40S",
-      "value": 22.61732176053439
+      "value": 22.61732176053439,
+      "from_source": 11.693151437940951,
+      "from_target": 10.924170322593444
     },
     {
       "source": "Murpi2000",
       "target": "4G3NT3C40S",
-      "value": 57.68603549140441
+      "value": 57.68603549140441,
+      "from_source": 46.537604553433184,
+      "from_target": 11.148430937971225
     },
     {
       "source": "Bidinecro",
       "target": "d4rkSkY3r",
-      "value": 22.693582772549828
+      "value": 22.693582772549828,
+      "from_source": 22.693582772549828,
+      "from_target": 0
     },
     {
       "source": "OABeteta8",
       "target": "DEnmanuel23",
-      "value": 20.951399344615872
+      "value": 20.951399344615872,
+      "from_source": 16.772026552531848,
+      "from_target": 4.179372792084026
     },
     {
       "source": "Quintero14",
       "target": "14Xavi",
-      "value": 27.382031930082675
+      "value": 27.382031930082675,
+      "from_source": 25.19986038251623,
+      "from_target": 2.182171547566446
     },
     {
       "source": "PharmDini",
       "target": "Punky82000",
-      "value": 28.79126620110231
+      "value": 28.79126620110231,
+      "from_source": 6.847870764059293,
+      "from_target": 21.943395437043016
     },
     {
       "source": "Orfurva",
       "target": "Depintublu",
-      "value": 23.110716932663834
+      "value": 23.110716932663834,
+      "from_source": 4.42135671869766,
+      "from_target": 18.689360213966175
     },
     {
       "source": "BeforeIForget",
       "target": "Renneta",
-      "value": 45.45059334425923
+      "value": 45.45059334425923,
+      "from_source": 35.57770002185062,
+      "from_target": 9.872893322408615
     },
     {
       "source": "Renneta",
       "target": "Hrabra",
-      "value": 32.607425958428465
+      "value": 32.607425958428465,
+      "from_source": 25.600047793522336,
+      "from_target": 7.007378164906129
     },
     {
       "source": "Renneta",
       "target": "39keys",
-      "value": 24.744577710230583
+      "value": 24.744577710230583,
+      "from_source": 24.744577710230583,
+      "from_target": 0
     },
     {
       "source": "Hrabra",
       "target": "39keys",
-      "value": 31.047597205325644
+      "value": 31.047597205325644,
+      "from_source": 11.771390758743296,
+      "from_target": 19.27620644658235
     },
     {
       "source": "MrNue",
       "target": "oldrudeboy",
-      "value": 27.702885022283976
+      "value": 27.702885022283976,
+      "from_source": 20.11710927199214,
+      "from_target": 7.5857757502918375
     },
     {
       "source": "Carnage2701",
       "target": "Timothyshi",
-      "value": 32.25575698814016
+      "value": 32.25575698814016,
+      "from_source": 14.717736368856642,
+      "from_target": 17.538020619283518
     },
     {
       "source": "elcabo159",
       "target": "Xabier1045",
-      "value": 33.920939958547706
+      "value": 33.920939958547706,
+      "from_source": 7.225849118130786,
+      "from_target": 26.69509084041692
     },
     {
       "source": "P2063",
       "target": "xela123",
-      "value": 50.11790756391898
+      "value": 50.11790756391898,
+      "from_source": 50.11790756391898,
+      "from_target": 0
     },
     {
       "source": "Hablo",
       "target": "hmelhasloh",
-      "value": 38.87602464289174
+      "value": 38.87602464289174,
+      "from_source": 21.536070799062813,
+      "from_target": 17.339953843828933
     },
     {
       "source": "agiandor",
       "target": "Zoupette",
-      "value": 50.12169233429882
+      "value": 50.12169233429882,
+      "from_source": 24.18664937981093,
+      "from_target": 25.935042954487894
     },
     {
       "source": "PinkFloyd05",
       "target": "Moucham",
-      "value": 26.237840181820662
+      "value": 26.237840181820662,
+      "from_source": 26.237840181820662,
+      "from_target": 0
     },
     {
       "source": "BMAXI3I",
       "target": "CestLaGuerre",
-      "value": 27.83089454343609
+      "value": 27.83089454343609,
+      "from_source": 6.207370273009214,
+      "from_target": 21.623524270426877
     },
     {
       "source": "DesertPenguinn",
       "target": "CestLaGuerre",
-      "value": 23.974486952349007
+      "value": 23.974486952349007,
+      "from_source": 14.545947026868237,
+      "from_target": 9.42853992548077
     },
     {
       "source": "DesertPenguinn",
       "target": "MM1406",
-      "value": 22.34399579590721
+      "value": 22.34399579590721,
+      "from_source": 13.3857655157199,
+      "from_target": 8.958230280187312
     },
     {
       "source": "CestLaGuerre",
       "target": "zerokeel",
-      "value": 22.27850786694087
+      "value": 22.27850786694087,
+      "from_source": 13.343167279568124,
+      "from_target": 8.935340587372743
     },
     {
       "source": "CestLaGuerre",
       "target": "MM1406",
-      "value": 26.77684671624112
+      "value": 26.77684671624112,
+      "from_source": 26.77684671624112,
+      "from_target": 0
     },
     {
       "source": "CestLaGuerre",
       "target": "SCLeon",
-      "value": 20.41149419894777
+      "value": 20.41149419894777,
+      "from_source": 11.221117065315177,
+      "from_target": 9.190377133632593
     },
     {
       "source": "zerokeel",
       "target": "MM1406",
-      "value": 22.094235252801823
+      "value": 22.094235252801823,
+      "from_source": 21.978238870555057,
+      "from_target": 0.11599638224676692
     },
     {
       "source": "MM1406",
       "target": "SCLeon",
-      "value": 20.458245518991802
+      "value": 20.458245518991802,
+      "from_source": 12.570513256324434,
+      "from_target": 7.887732262667367
     },
     {
       "source": "SiIverSmurfer",
       "target": "KodBilen",
-      "value": 24.260504001188227
+      "value": 24.260504001188227,
+      "from_source": 8.317637711026709,
+      "from_target": 15.942866290161517
     },
     {
       "source": "Parecoul",
       "target": "Majoquebec",
-      "value": 51.745068028151856
+      "value": 51.745068028151856,
+      "from_source": 34.943706909961634,
+      "from_target": 16.80136111819022
     },
     {
       "source": "RevenantHN",
       "target": "JamieObando",
-      "value": 25.026269732960632
+      "value": 25.026269732960632,
+      "from_source": 25.026269732960632,
+      "from_target": 0
     },
     {
       "source": "14Xavi",
       "target": "Paulinki",
-      "value": 28.349030559189654
+      "value": 28.349030559189654,
+      "from_source": 6.3908310800174615,
+      "from_target": 21.958199479172194
     },
     {
       "source": "XSynphonyX",
       "target": "NetsAckerman",
-      "value": 27.54893528621509
+      "value": 27.54893528621509,
+      "from_source": 27.54893528621509,
+      "from_target": 0
     },
     {
       "source": "capodileuca",
       "target": "Swisscom",
-      "value": 27.16071950660751
+      "value": 27.16071950660751,
+      "from_source": 27.16071950660751,
+      "from_target": 0
     },
     {
       "source": "geezfools",
       "target": "kiloecholima",
-      "value": 30.018661565612994
+      "value": 30.018661565612994,
+      "from_source": 30.018661565612994,
+      "from_target": 0
     },
     {
       "source": "eGreeter",
       "target": "HaagenDazs08",
-      "value": 20.006531925991727
+      "value": 20.006531925991727,
+      "from_source": 20.006531925991727,
+      "from_target": 0
     },
     {
       "source": "eGreeter",
       "target": "pailladin",
-      "value": 21.934533915628016
+      "value": 21.934533915628016,
+      "from_source": 21.934533915628016,
+      "from_target": 0
     },
     {
       "source": "eGreeter",
       "target": "EDEL22",
-      "value": 20.291598723158437
+      "value": 20.291598723158437,
+      "from_source": 20.291598723158437,
+      "from_target": 0
     },
     {
       "source": "R3dSoldi3r",
       "target": "CigAros",
-      "value": 23.73585692819995
+      "value": 23.73585692819995,
+      "from_source": 23.73585692819995,
+      "from_target": 0
     },
     {
       "source": "ebasi",
       "target": "AgpuaHa",
-      "value": 47.70823749670501
+      "value": 47.70823749670501,
+      "from_source": 47.70823749670501,
+      "from_target": 0
     },
     {
       "source": "Akrozia",
       "target": "BeforeIForget",
-      "value": 29.028684487309395
+      "value": 29.028684487309395,
+      "from_source": 29.028684487309395,
+      "from_target": 0
     },
     {
       "source": "Osmo88",
       "target": "DEnmanuel23",
-      "value": 23.195380806482916
+      "value": 23.195380806482916,
+      "from_source": 22.491048226558433,
+      "from_target": 0.7043325799244806
     },
     {
       "source": "Osmo88",
       "target": "Blue2099",
-      "value": 23.196676481323966
+      "value": 23.196676481323966,
+      "from_source": 8.90057393797443,
+      "from_target": 14.296102543349534
     },
     {
       "source": "iKillshadow",
       "target": "Quintero14",
-      "value": 37.36953496122507
+      "value": 37.36953496122507,
+      "from_source": 37.36953496122507,
+      "from_target": 0
     },
     {
       "source": "EYLDS",
       "target": "jgaf",
-      "value": 53.459236412559264
+      "value": 53.459236412559264,
+      "from_source": 23.440713647817756,
+      "from_target": 30.01852276474151
     },
     {
       "source": "HyunYeon",
       "target": "Nisaseku",
-      "value": 28.102771604191954
+      "value": 28.102771604191954,
+      "from_source": 15.138132932904085,
+      "from_target": 12.964638671287867
     },
     {
       "source": "robb2k4",
       "target": "Widrik",
-      "value": 31.61408816816581
+      "value": 31.61408816816581,
+      "from_source": 31.61408816816581,
+      "from_target": 0
     },
     {
       "source": "TommyGun96",
       "target": "dejanira",
-      "value": 35.958875524569095
+      "value": 35.958875524569095,
+      "from_source": 35.958875524569095,
+      "from_target": 0
     },
     {
       "source": "Alboedz",
       "target": "o0GingerSnaps0o",
-      "value": 22.754989312593917
+      "value": 22.754989312593917,
+      "from_source": 22.754989312593917,
+      "from_target": 0
     },
     {
       "source": "8ZenoSama8",
       "target": "GruensFroeschli",
-      "value": 24.115214524586236
+      "value": 24.115214524586236,
+      "from_source": 16.606673541788847,
+      "from_target": 7.508540982797388
     },
     {
       "source": "JPrototipo",
       "target": "DanielKommers",
-      "value": 38.81856730900796
+      "value": 38.81856730900796,
+      "from_source": 38.81856730900796,
+      "from_target": 0
     },
     {
       "source": "Ciauscolo",
       "target": "ilMorgi",
-      "value": 67.81533054863792
+      "value": 67.81533054863792,
+      "from_source": 26.30088097792101,
+      "from_target": 41.51444957071691
     },
     {
       "source": "Ciauscolo",
       "target": "Miketrevis",
-      "value": 60.55227131466902
+      "value": 60.55227131466902,
+      "from_source": 34.71249524140424,
+      "from_target": 25.83977607326478
     },
     {
       "source": "Japex",
       "target": "wierciak",
-      "value": 55.82819159289602
+      "value": 55.82819159289602,
+      "from_source": 55.82819159289602,
+      "from_target": 0
     },
     {
       "source": "Japex",
       "target": "n0ut",
-      "value": 43.856682830809085
+      "value": 43.856682830809085,
+      "from_source": 43.856682830809085,
+      "from_target": 0
     },
     {
       "source": "wierciak",
       "target": "n0ut",
-      "value": 40.06754725814849
+      "value": 40.06754725814849,
+      "from_source": 20.37195638168143,
+      "from_target": 19.695590876467058
     },
     {
       "source": "naruh0d0",
       "target": "Hubertzhang",
-      "value": 33.62323904332735
+      "value": 33.62323904332735,
+      "from_source": 22.242180738653943,
+      "from_target": 11.381058304673406
     },
     {
       "source": "localgeek",
       "target": "McGonagall",
-      "value": 23.312749161984378
+      "value": 23.312749161984378,
+      "from_source": 13.835841116842783,
+      "from_target": 9.476908045141593
     },
     {
       "source": "mmmaian",
       "target": "Temetz",
-      "value": 30.694914685706447
+      "value": 30.694914685706447,
+      "from_source": 7.703120057972146,
+      "from_target": 22.9917946277343
     },
     {
       "source": "SleepyzzCat",
       "target": "Vortrack3899",
-      "value": 36.24119498798988
+      "value": 36.24119498798988,
+      "from_source": 29.718239056996563,
+      "from_target": 6.5229559309933185
     },
     {
       "source": "SleepyzzCat",
       "target": "BMAXI3I",
-      "value": 27.001179240309867
+      "value": 27.001179240309867,
+      "from_source": 27.001179240309867,
+      "from_target": 0
     },
     {
       "source": "Quinevere",
       "target": "Faddaf",
-      "value": 35.37182478296683
+      "value": 35.37182478296683,
+      "from_source": 35.37182478296683,
+      "from_target": 0
     },
     {
       "source": "TrueNova",
       "target": "CameleonGVA",
-      "value": 21.686981261317023
+      "value": 21.686981261317023,
+      "from_source": 15.873390668414148,
+      "from_target": 5.813590592902874
     },
     {
       "source": "Paulinki",
       "target": "Osmo88",
-      "value": 25.93940911981232
+      "value": 25.93940911981232,
+      "from_source": 14.66960108947513,
+      "from_target": 11.269808030337193
     },
     {
       "source": "spookyhunter30",
       "target": "DrTonioLezama",
-      "value": 27.04293236874775
+      "value": 27.04293236874775,
+      "from_source": 10.695371400664737,
+      "from_target": 16.347560968083013
     },
     {
       "source": "spookyhunter30",
       "target": "Quintero14",
-      "value": 20.281566754197
+      "value": 20.281566754197,
+      "from_source": 1.2302687708123814,
+      "from_target": 19.05129798338462
     },
     {
       "source": "JamieObando",
       "target": "DEnmanuel23",
-      "value": 22.847754092935766
+      "value": 22.847754092935766,
+      "from_source": 21.70837914365443,
+      "from_target": 1.1393749492813368
     },
     {
       "source": "JamieObando",
       "target": "Osmo88",
-      "value": 30.00039165658223
+      "value": 30.00039165658223,
+      "from_source": 23.62140281264277,
+      "from_target": 6.378988843939459
     },
     {
       "source": "Jose2MC",
       "target": "DEnmanuel23",
-      "value": 22.491695896285236
+      "value": 22.491695896285236,
+      "from_source": 10.2780972340096,
+      "from_target": 12.213598662275636
     },
     {
       "source": "DrTonioLezama",
       "target": "Quintero14",
-      "value": 33.12498720833156
+      "value": 33.12498720833156,
+      "from_source": 14.665233594133216,
+      "from_target": 18.45975361419835
     },
     {
       "source": "DrTonioLezama",
       "target": "SirJamexz",
-      "value": 25.490044931322668
+      "value": 25.490044931322668,
+      "from_source": 6.987489571743245,
+      "from_target": 18.502555359579425
     },
     {
       "source": "Quintero14",
       "target": "Kengmeiji",
-      "value": 22.974877478839588
+      "value": 22.974877478839588,
+      "from_source": 22.974877478839588,
+      "from_target": 0
     },
     {
       "source": "Quintero14",
       "target": "Osmo88",
-      "value": 25.454597850508137
+      "value": 25.454597850508137,
+      "from_source": 16.2138691948911,
+      "from_target": 9.240728655617037
     },
     {
       "source": "Quintero14",
       "target": "SirJamexz",
-      "value": 28.532592461391506
+      "value": 28.532592461391506,
+      "from_source": 18.817766257829295,
+      "from_target": 9.714826203562211
     },
     {
       "source": "Osmo88",
       "target": "SirJamexz",
-      "value": 30.371416161166273
+      "value": 30.371416161166273,
+      "from_source": 11.562245885163101,
+      "from_target": 18.809170276003172
     },
     {
       "source": "ebasi",
       "target": "Akrozia",
-      "value": 44.877266201420866
+      "value": 44.877266201420866,
+      "from_source": 44.877266201420866,
+      "from_target": 0
     },
     {
       "source": "AgpuaHa",
       "target": "BeforeIForget",
-      "value": 25.21923630296398
+      "value": 25.21923630296398,
+      "from_source": 25.21923630296398,
+      "from_target": 0
     },
     {
       "source": "DGatekeeper",
       "target": "Monulka",
-      "value": 44.4137753505547
+      "value": 44.4137753505547,
+      "from_source": 28.998544324099974,
+      "from_target": 15.415231026454725
     },
     {
       "source": "DGatekeeper",
       "target": "skinyy",
-      "value": 23.63152251399043
+      "value": 23.63152251399043,
+      "from_source": 8.32273353701084,
+      "from_target": 15.308788976979589
     },
     {
       "source": "Monulka",
       "target": "pospo",
-      "value": 41.94225196101218
+      "value": 41.94225196101218,
+      "from_source": 31.94090917485271,
+      "from_target": 10.00134278615947
     },
     {
       "source": "Monulka",
       "target": "skinyy",
-      "value": 27.894260576721383
+      "value": 27.894260576721383,
+      "from_source": 8.65153924028911,
+      "from_target": 19.242721336432275
     },
     {
       "source": "OldRider",
       "target": "skinyy",
-      "value": 26.018849914377274
+      "value": 26.018849914377274,
+      "from_source": 19.545767877366874,
+      "from_target": 6.473082037010399
     },
     {
       "source": "Hamtary",
       "target": "a21schizoidman",
-      "value": 24.899552667463347
+      "value": 24.899552667463347,
+      "from_source": 24.527065675287794,
+      "from_target": 0.37248699217555403
     },
     {
       "source": "omgkitties",
       "target": "a21schizoidman",
-      "value": 32.44596200503776
+      "value": 32.44596200503776,
+      "from_source": 32.44596200503776,
+      "from_target": 0
     },
     {
       "source": "omgkitties",
       "target": "eGreeter",
-      "value": 27.313926645965708
+      "value": 27.313926645965708,
+      "from_source": 27.313926645965708,
+      "from_target": 0
     },
     {
       "source": "SirDarthNader",
       "target": "PeregrinusTyss",
-      "value": 21.617081358775273
+      "value": 21.617081358775273,
+      "from_source": 15.339710632616725,
+      "from_target": 6.277370726158548
     },
     {
       "source": "PeregrinusTyss",
       "target": "maxipock",
-      "value": 20.286005004287446
+      "value": 20.286005004287446,
+      "from_source": 15.425664828297228,
+      "from_target": 4.860340175990217
     },
     {
       "source": "EndeDesMonats",
       "target": "ic3max",
-      "value": 23.697481060653526
+      "value": 23.697481060653526,
+      "from_source": 18.045219871824482,
+      "from_target": 5.652261188829043
     },
     {
       "source": "Strandanton05",
       "target": "InvestigateXM",
-      "value": 25.44964452926791
+      "value": 25.44964452926791,
+      "from_source": 11.713673736223864,
+      "from_target": 13.735970793044046
     },
     {
       "source": "montitcha",
       "target": "Kapryss",
-      "value": 28.72090088190762
+      "value": 28.72090088190762,
+      "from_source": 15.594975484307259,
+      "from_target": 13.125925397600364
     },
     {
       "source": "mattnounet",
       "target": "joeshua",
-      "value": 37.74305518288513
+      "value": 37.74305518288513,
+      "from_source": 28.64625010627981,
+      "from_target": 9.09680507660532
     },
     {
       "source": "RocketRacc00n",
       "target": "elpablo1381",
-      "value": 23.353372238001832
+      "value": 23.353372238001832,
+      "from_source": 15.605038096538117,
+      "from_target": 7.748334141463716
     },
     {
       "source": "Mirearose",
       "target": "Ciauscolo",
-      "value": 50.72290691027853
+      "value": 50.72290691027853,
+      "from_source": 41.39036390230862,
+      "from_target": 9.33254300796991
     },
     {
       "source": "quirischa",
       "target": "Kramushka",
-      "value": 20.21661933611522
+      "value": 20.21661933611522,
+      "from_source": 20.21661933611522,
+      "from_target": 0
     },
     {
       "source": "SagadeGemini",
       "target": "JamieObando",
-      "value": 21.84415256089597
+      "value": 21.84415256089597,
+      "from_source": 7.476573456974627,
+      "from_target": 14.367579103921344
     },
     {
       "source": "SagadeGemini",
       "target": "Osmo88",
-      "value": 31.713371213691307
+      "value": 31.713371213691307,
+      "from_source": 18.6936921379462,
+      "from_target": 13.019679075745106
     },
     {
       "source": "SagadeGemini",
       "target": "Quintero14",
-      "value": 22.271484868932543
+      "value": 22.271484868932543,
+      "from_source": 22.271484868932543,
+      "from_target": 0
     },
     {
       "source": "DCHEMV",
       "target": "iKillshadow",
-      "value": 36.911358073319136
+      "value": 36.911358073319136,
+      "from_source": 26.539481525923854,
+      "from_target": 10.371876547395285
     },
     {
       "source": "DCHEMV",
       "target": "SirJamexz",
-      "value": 27.48460267033259
+      "value": 27.48460267033259,
+      "from_source": 8.039610462834448,
+      "from_target": 19.44499220749814
     },
     {
       "source": "DCHEMV",
       "target": "Osmo88",
-      "value": 32.73504816251541
+      "value": 32.73504816251541,
+      "from_source": 14.778409299326295,
+      "from_target": 17.956638863189113
     },
     {
       "source": "DCHEMV",
       "target": "Paulinki",
-      "value": 20.3510478811519
+      "value": 20.3510478811519,
+      "from_source": 15.564746957925514,
+      "from_target": 4.786300923226383
     },
     {
       "source": "DCHEMV",
       "target": "Quintero14",
-      "value": 24.694704200924914
+      "value": 24.694704200924914,
+      "from_source": 15.872937759073013,
+      "from_target": 8.821766441851903
     },
     {
       "source": "iKillshadow",
       "target": "JamieObando",
-      "value": 22.40461330142657
+      "value": 22.40461330142657,
+      "from_source": 20.523372261577443,
+      "from_target": 1.8812410398491273
     },
     {
       "source": "iKillshadow",
       "target": "Osmo88",
-      "value": 27.99211197477779
+      "value": 27.99211197477779,
+      "from_source": 20.792694324453148,
+      "from_target": 7.199417650324638
     },
     {
       "source": "JamieObando",
       "target": "josuefunes",
-      "value": 21.264774203152346
+      "value": 21.264774203152346,
+      "from_source": 20.0250264401234,
+      "from_target": 1.2397477630289444
     },
     {
       "source": "Osmo88",
       "target": "SplinterHN",
-      "value": 25.249342916522387
+      "value": 25.249342916522387,
+      "from_source": 16.51739551262459,
+      "from_target": 8.7319474038978
     },
     {
       "source": "Osmo88",
       "target": "josuefunes",
-      "value": 36.738368760261466
+      "value": 36.738368760261466,
+      "from_source": 36.738368760261466,
+      "from_target": 0
     },
     {
       "source": "DEnmanuel23",
       "target": "SplinterHN",
-      "value": 25.734064617703016
+      "value": 25.734064617703016,
+      "from_source": 18.745833969119047,
+      "from_target": 6.98823064858397
     },
     {
       "source": "DEnmanuel23",
       "target": "josuefunes",
-      "value": 26.511652658497084
+      "value": 26.511652658497084,
+      "from_source": 16.003297824212204,
+      "from_target": 10.508354834284878
     },
     {
       "source": "Murpi2000",
       "target": "SplinterHN",
-      "value": 21.725124257466874
+      "value": 21.725124257466874,
+      "from_source": 8.296384833371919,
+      "from_target": 13.428739424094953
     },
     {
       "source": "4G3NT3C40S",
       "target": "SplinterHN",
-      "value": 21.952483274373137
+      "value": 21.952483274373137,
+      "from_source": 9.166894268952932,
+      "from_target": 12.785589005420206
     },
     {
       "source": "SplinterHN",
       "target": "Mafary",
-      "value": 21.477505367244845
+      "value": 21.477505367244845,
+      "from_source": 16.051946943345307,
+      "from_target": 5.4255584238995365
     },
     {
       "source": "josuefunes",
       "target": "Quintero14",
-      "value": 25.38951662684575
+      "value": 25.38951662684575,
+      "from_source": 16.54913640151841,
+      "from_target": 8.84038022532734
     },
     {
       "source": "Quintero14",
       "target": "Blue2099",
-      "value": 23.235378167652236
+      "value": 23.235378167652236,
+      "from_source": 13.286416037208877,
+      "from_target": 9.948962130443359
     },
     {
       "source": "jgaf",
       "target": "getinsumtail",
-      "value": 28.679069873081424
+      "value": 28.679069873081424,
+      "from_source": 28.679069873081424,
+      "from_target": 0
     },
     {
       "source": "ladylunar",
       "target": "aces",
-      "value": 20.53876870763305
+      "value": 20.53876870763305,
+      "from_source": 12.914078161189297,
+      "from_target": 7.6246905464437535
     },
     {
       "source": "Wuay73",
       "target": "FireNeedle17",
-      "value": 21.20466467750358
+      "value": 21.20466467750358,
+      "from_source": 14.597730197427618,
+      "from_target": 6.60693448007596
     },
     {
       "source": "AtilaE1",
       "target": "mimyc",
-      "value": 20.600398906509533
+      "value": 20.600398906509533,
+      "from_source": 7.349961909678134,
+      "from_target": 13.2504369968314
     },
     {
       "source": "hakapeszimaki",
       "target": "SirGeoff",
-      "value": 33.15312473141991
+      "value": 33.15312473141991,
+      "from_source": 23.748676214156387,
+      "from_target": 9.404448517263518
     },
     {
       "source": "iKillshadow",
       "target": "RevenantHN",
-      "value": 22.627039679769666
+      "value": 22.627039679769666,
+      "from_source": 15.496273777836468,
+      "from_target": 7.1307659019331995
     },
     {
       "source": "SagadeGemini",
       "target": "RevenantHN",
-      "value": 26.734488036751753
+      "value": 26.734488036751753,
+      "from_source": 5.304965844603253,
+      "from_target": 21.4295221921485
     },
     {
       "source": "Osmo88",
       "target": "RevenantHN",
-      "value": 33.78643520135271
+      "value": 33.78643520135271,
+      "from_source": 23.08322703154881,
+      "from_target": 10.7032081698039
     },
     {
       "source": "DCHEMV",
       "target": "RevenantHN",
-      "value": 24.607545298122606
+      "value": 24.607545298122606,
+      "from_source": 8.275801569857656,
+      "from_target": 16.33174372826495
     },
     {
       "source": "josuefunes",
       "target": "RevenantHN",
-      "value": 25.75542844209888
+      "value": 25.75542844209888,
+      "from_source": 6.390804841860312,
+      "from_target": 19.36462360023857
     },
     {
       "source": "SleepyzzCat",
       "target": "SCLeon",
-      "value": 21.48875349540429
+      "value": 21.48875349540429,
+      "from_source": 21.48875349540429,
+      "from_target": 0
     },
     {
       "source": "Willuiz",
       "target": "Pw8dp",
-      "value": 27.321710993164633
+      "value": 27.321710993164633,
+      "from_source": 27.321710993164633,
+      "from_target": 0
     },
     {
       "source": "Zorak02",
       "target": "Pw8dp",
-      "value": 27.219916028106663
+      "value": 27.219916028106663,
+      "from_source": 6.506288748655572,
+      "from_target": 20.713627279451092
     },
     {
       "source": "Monulka",
       "target": "DongXiaoMiau",
-      "value": 27.664194097477903
+      "value": 27.664194097477903,
+      "from_source": 19.174561636224087,
+      "from_target": 8.489632461253816
     },
     {
       "source": "DongXiaoMiau",
       "target": "DGatekeeper",
-      "value": 22.984624170132857
+      "value": 22.984624170132857,
+      "from_source": 16.06631446094349,
+      "from_target": 6.918309709189366
     },
     {
       "source": "geoffenator",
       "target": "Eaglewol",
-      "value": 33.96185505763654
+      "value": 33.96185505763654,
+      "from_source": 25.229907653738742,
+      "from_target": 8.7319474038978
     },
     {
       "source": "4nn483113",
       "target": "crybabyblue",
-      "value": 28.396353936754615
+      "value": 28.396353936754615,
+      "from_source": 15.875811189345043,
+      "from_target": 12.520542747409571
     },
     {
       "source": "Fatbob",
       "target": "TamiraLaGnokka",
-      "value": 20.504239090628666
+      "value": 20.504239090628666,
+      "from_source": 10.706832961461213,
+      "from_target": 9.797406129167452
     },
     {
       "source": "MetLee",
       "target": "Hubertzhang",
-      "value": 26.88423873574582
+      "value": 26.88423873574582,
+      "from_source": 10.38595360411653,
+      "from_target": 16.498285131629295
     },
     {
       "source": "holocronster",
       "target": "quirischa",
-      "value": 21.13483779106915
+      "value": 21.13483779106915,
+      "from_source": 11.535921105084352,
+      "from_target": 9.598916685984797
     },
     {
       "source": "quattro",
       "target": "youngacts",
-      "value": 25.89398078517378
+      "value": 25.89398078517378,
+      "from_source": 18.49982001931248,
+      "from_target": 7.394160765861299
     },
     {
       "source": "iKillshadow",
       "target": "14Xavi",
-      "value": 23.062772080182825
+      "value": 23.062772080182825,
+      "from_source": 16.353634980628712,
+      "from_target": 6.709137099554113
     },
     {
       "source": "Blue2099",
       "target": "14Xavi",
-      "value": 22.050625791880627
+      "value": 22.050625791880627,
+      "from_source": 13.647430738064415,
+      "from_target": 8.403195053816212
     },
     {
       "source": "DCHEMV",
       "target": "14Xavi",
-      "value": 24.244988828704106
+      "value": 24.244988828704106,
+      "from_source": 14.447582699536653,
+      "from_target": 9.797406129167452
     },
     {
       "source": "josuefunes",
       "target": "14Xavi",
-      "value": 22.57639680456126
+      "value": 22.57639680456126,
+      "from_source": 20.46020243009968,
+      "from_target": 2.1161943744615783
     },
     {
       "source": "eGreeter",
       "target": "NePaWytas",
-      "value": 22.964079630113133
+      "value": 22.964079630113133,
+      "from_source": 16.34022014318196,
+      "from_target": 6.62385948693117
     },
     {
       "source": "KETSUP",
       "target": "OrganiskPeroxid",
-      "value": 26.586774262484965
+      "value": 26.586774262484965,
+      "from_source": 17.109866217343374,
+      "from_target": 9.476908045141593
     },
     {
       "source": "vomZwinghof",
       "target": "GruensFroeschli",
-      "value": 20.25496465215809
+      "value": 20.25496465215809,
+      "from_source": 20.25496465215809,
+      "from_target": 0
     },
     {
       "source": "Koku88z",
       "target": "HikariCaptain",
-      "value": 20.866507493201194
+      "value": 20.866507493201194,
+      "from_source": 12.134560089303394,
+      "from_target": 8.7319474038978
     },
     {
       "source": "HongosFalsosHn",
       "target": "HikariCaptain",
-      "value": 21.16269699761216
+      "value": 21.16269699761216,
+      "from_source": 14.314826233552868,
+      "from_target": 6.847870764059293
     },
     {
       "source": "alejaguilar",
       "target": "HikariCaptain",
-      "value": 24.758150600743676
+      "value": 24.758150600743676,
+      "from_source": 8.190932242152973,
+      "from_target": 16.5672183585907
     },
     {
       "source": "elRi0",
       "target": "feistyzag",
-      "value": 22.561302271242553
+      "value": 22.561302271242553,
+      "from_source": 17.955202579645892,
+      "from_target": 4.60609969159666
     }
   ]
 }

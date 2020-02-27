@@ -35,13 +35,31 @@ fieldset {
   stroke-opacity: 0.3;
 }
 
+.links line.hover {
+  stroke: #000;
+  stroke-opacity: 0.8;
+}
+
 .nodes circle {
   stroke: #fff;
   stroke-width: 1px;
 }
 
-.nodes .highlighted circle {
+.nodes g.hover circle {
+  transform: scale(1.5);
+}
+
+.nodes g.hover text {
+  transform: translate(6px);
+}
+
+.nodes g.highlighted circle {
   stroke: #f00;
+  stroke-width: 2px;
+}
+
+.nodes g.hoverlink circle {
+  stroke: #333;
   stroke-width: 2px;
 }
 
@@ -50,8 +68,18 @@ text {
   font-size: 9px;
 }
 
-.noText g:not(.highlighted) > text {
-  display: none
+.noText text {
+  display: none;
+}
+
+.noText g.highlighted text,
+.noText g.hoverlink text,
+.noText g.hover text {
+  display: inline;
+}
+
+g.hover text {
+  filter: drop-shadow(0 0 1px #fff) drop-shadow(0 0 1px #fff) drop-shadow(0 0 1px #fff);
 }
 
 .highlighted text {
@@ -117,8 +145,9 @@ function loadData(error, graph) {
                      .strength(function(l) { return Math.min(l.value /  30.0,  1.0); })
     )
     .force("charge", d3.forceManyBody().strength(-70))
-    .force("y", d3.forceY(height / 2).strength(0.25));
-    //.force("center", d3.forceCenter(width / 2, height / 2));
+    .force("y", d3.forceY(height / 2).strength(0.25))
+    .force("collision", d3.forceCollide(10).iterations(2))
+    .alpha(2.5).alphaDecay(0.015);
   
   var order = document.querySelector('input[name="order"]:checked').value
   if(order === "rank")
@@ -141,15 +170,45 @@ function loadData(error, graph) {
       .attr("class", "links")
     .selectAll("line")
     .data(graph.links)
-    .enter().append("line")
-      .attr("stroke-width", d => Math.max(Math.sqrt(d.value - 10), 1));
+    .enter()
+    .append("line")
+      .attr("stroke-width", d => Math.max(1.2*Math.log(Math.max(d.value - 9, 1)), 1.5))
 
   var node = svg.append("g")
       .attr("class", "nodes")
     .selectAll("g")
     .data(graph.nodes)
     .enter().append("g")
-    
+    .on("mouseover", function(d) {
+      d3.select(this)
+        .classed("hover", true)
+        .raise();
+      link.filter(l => (d.id == l.source.id || d.id == l.target.id))
+        .classed("hover", true)
+        .raise();
+    })
+    .on("mouseout", function(d) {
+      d3.select(this)
+        .classed("hover", false);
+      link.filter(l => (d.id == l.source.id || d.id == l.target.id))
+        .classed("hover", false);
+    });
+
+  link.on("mouseover", function(l) {
+        d3.select(this)
+          .classed("hover", true)
+          .raise();
+        node.filter(d => (d.id == l.source.id || d.id == l.target.id))
+            .classed("hoverlink", true)
+            .raise();
+      })
+      .on("mouseout", function(l) {
+        d3.select(this)
+          .classed("hover", false)
+        node.filter(d => (d.id == l.source.id || d.id == l.target.id))
+            .classed("hoverlink", false);
+      });
+
   var circles = node.append("circle")
       .attr("r", radius)
       .attr("fill", color)
@@ -160,7 +219,7 @@ function loadData(error, graph) {
   
   var labels = node.append("text")
       .text(d => d.id)
-      .attr('x', 6)
+      .attr('x', 7)
       .attr('y', 3);
   
   window.setHighlighted = function(highlighted) {
@@ -169,40 +228,41 @@ function loadData(error, graph) {
     window.labels = node.attr("class", "")
         .filter(d => highlighted.some(hl => hl.toLowerCase() === d.id.toLowerCase()))
         .attr("class", "highlighted")
+        .raise()
         .append("text")
-        .text(function(d) {
-          return d.id;
-        })
+        .text(d => d.id)
         .attr('x', 6)
         .attr('y', 3);
   }
   window.setHighlighted(highlight.value.split(/[\s,]+/));
 
   node.append("title")
-      .text(function(d) {
-          return d.id + "\n#" + d.rank + " (" + d.num_completed + " solved)";
-      });
+      .text(d => d.id + "\n#" + d.rank + " (" + d.num_completed + " solved)");
+
+  link.append("title")
+      .text(d => "Connection strength: " + d.value.toFixed(2) + "\n" +
+                 d.source + " -> " + d.target + ": " + d.from_source.toFixed(2) + "\n" +
+                 d.target + " -> " + d.source + ": " + d.from_target.toFixed(2));
 
   simulation
       .nodes(graph.nodes)
       .on("tick", ticked);
 
-  simulation.force("link")
+  simulation
+      .force("link")
       .links(graph.links);
 
   function ticked() {
-    link
-        .attr("x1", function(d) { return d.source.x; })
-        .attr("y1", function(d) { return d.source.y; })
-        .attr("x2", function(d) { return d.target.x; })
-        .attr("y2", function(d) { return d.target.y; });
-
-    node
-        .attr("transform", function(d) {
+    node.attr("transform", function(d) {
           d.x = Math.max(0, Math.min(width-6, d.x)); 
           d.y = Math.max(0, Math.min(height,  d.y));
           return "translate(" + d.x + "," + d.y + ")";
-        })
+        });
+
+    link.attr("x1", d => d.source.x )
+        .attr("y1", d => d.source.y )
+        .attr("x2", d => d.target.x )
+        .attr("y2", d => d.target.y );
   }
 }
 
@@ -222,7 +282,6 @@ function dragended(d) {
   d.fx = null;
   d.fy = null;
 }
-
 
 var highlight = document.getElementById("agent");
 highlight.oninput = function() {
