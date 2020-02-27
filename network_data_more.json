@@ -765,7 +765,7 @@
         8,
         16815
       ],
-      "rank_d": 898,
+      "rank_d": 901,
       "score_d": [
         7,
         73271
@@ -996,7 +996,7 @@
         8,
         16243
       ],
-      "rank_d": 613,
+      "rank_d": 615,
       "score_d": [
         8,
         9102
@@ -1032,7 +1032,7 @@
     {
       "id": "NorcoExtreme",
       "faction": "ENL",
-      "num_completed": 11,
+      "num_completed": 12,
       "rank": 304,
       "score": [
         8,
@@ -1044,8 +1044,8 @@
         22206
       ],
       "leakage": {
-        "total": 220.93962108918376,
-        "within_faction": 124.96973523770518,
+        "total": 223.3019117518182,
+        "within_faction": 127.33202590033964,
         "cross_faction": 95.96988585147864
       },
       "small_group": false
@@ -1374,7 +1374,7 @@
         8,
         70964
       ],
-      "rank_d": 588,
+      "rank_d": 589,
       "score_d": [
         8,
         57853
@@ -1558,12 +1558,12 @@
       "id": "exer2k",
       "faction": "ENL",
       "num_completed": 6,
-      "rank": 1066,
+      "rank": 1068,
       "score": [
         6,
         86253
       ],
-      "rank_d": 1093,
+      "rank_d": 1096,
       "score_d": [
         5,
         35385
@@ -2293,12 +2293,12 @@
       "id": "Atheeneea",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 640,
+      "rank": 641,
       "score": [
         8,
         46151
       ],
-      "rank_d": 657,
+      "rank_d": 659,
       "score_d": [
         8,
         62202
@@ -2319,7 +2319,7 @@
         8,
         49317
       ],
-      "rank_d": 534,
+      "rank_d": 535,
       "score_d": [
         8,
         37750
@@ -2382,7 +2382,7 @@
         8,
         57298
       ],
-      "rank_d": 745,
+      "rank_d": 746,
       "score_d": [
         8,
         12466
@@ -2445,7 +2445,7 @@
         8,
         74144
       ],
-      "rank_d": 906,
+      "rank_d": 909,
       "score_d": [
         7,
         82921
@@ -2508,7 +2508,7 @@
         8,
         4502
       ],
-      "rank_d": 893,
+      "rank_d": 896,
       "score_d": [
         7,
         12594
@@ -2670,16 +2670,16 @@
     {
       "id": "SJoshua",
       "faction": "RES",
-      "num_completed": 8,
-      "rank": 636,
+      "num_completed": 9,
+      "rank": 637,
       "score": [
         8,
         27715
       ],
-      "rank_d": 912,
+      "rank_d": 731,
       "score_d": [
-        7,
-        31704
+        8,
+        4324
       ],
       "leakage": {
         "total": 166.01804943179735,
@@ -2755,12 +2755,12 @@
       "id": "Alithiel31",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 554,
+      "rank": 555,
       "score": [
         8,
         71942
       ],
-      "rank_d": 627,
+      "rank_d": 628,
       "score_d": [
         8,
         32738
@@ -2986,7 +2986,7 @@
       "id": "keitar0x",
       "faction": "ENL",
       "num_completed": 6,
-      "rank": 1134,
+      "rank": 1135,
       "score": [
         6,
         1440
@@ -3028,12 +3028,12 @@
       "id": "Shogun79",
       "faction": "ENL",
       "num_completed": 6,
-      "rank": 1076,
+      "rank": 1078,
       "score": [
         6,
         29038
       ],
-      "rank_d": 1099,
+      "rank_d": 1102,
       "score_d": [
         5,
         24560
@@ -3259,12 +3259,12 @@
       "id": "WLilZ",
       "faction": "RES",
       "num_completed": 6,
-      "rank": 1071,
+      "rank": 1073,
       "score": [
         6,
         31236
       ],
-      "rank_d": 1094,
+      "rank_d": 1097,
       "score_d": [
         5,
         22026
@@ -3384,16 +3384,16 @@
     {
       "id": "SteveMax666",
       "faction": "ENL",
-      "num_completed": 8,
-      "rank": 854,
+      "num_completed": 9,
+      "rank": 836,
       "score": [
         8,
-        66954
+        9902
       ],
-      "rank_d": 947,
+      "rank_d": 822,
       "score_d": [
-        7,
-        52132
+        8,
+        4449
       ],
       "leakage": {
         "total": 207.97896181980525,
@@ -3427,12 +3427,12 @@
       "id": "Jimbo9",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 516,
+      "rank": 517,
       "score": [
         8,
         45840
       ],
-      "rank_d": 533,
+      "rank_d": 534,
       "score_d": [
         8,
         34077
@@ -3448,12 +3448,12 @@
       "id": "chewbie88",
       "faction": "ENL",
       "num_completed": 6,
-      "rank": 1101,
+      "rank": 1103,
       "score": [
         6,
         37068
       ],
-      "rank_d": 1128,
+      "rank_d": 1130,
       "score_d": [
         5,
         21488
@@ -3705,7 +3705,7 @@
         8,
         52828
       ],
-      "rank_d": 741,
+      "rank_d": 742,
       "score_d": [
         8,
         60239
@@ -3889,12 +3889,12 @@
       "id": "Geometrician",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 632,
+      "rank": 634,
       "score": [
         8,
         305
       ],
-      "rank_d": 641,
+      "rank_d": 642,
       "score_d": [
         8,
         12270
@@ -4036,12 +4036,12 @@
       "id": "grenouilles",
       "faction": "RES",
       "num_completed": 9,
-      "rank": 754,
+      "rank": 755,
       "score": [
         8,
         7431
       ],
-      "rank_d": 757,
+      "rank_d": 758,
       "score_d": [
         8,
         48619
@@ -4246,12 +4246,12 @@
       "id": "Y2L",
       "faction": "RES",
       "num_completed": 9,
-      "rank": 529,
+      "rank": 530,
       "score": [
         8,
         81499
       ],
-      "rank_d": 528,
+      "rank_d": 529,
       "score_d": [
         8,
         24855
@@ -4377,7 +4377,7 @@
         8,
         57774
       ],
-      "rank_d": 502,
+      "rank_d": 503,
       "score_d": [
         8,
         41087
@@ -4498,7 +4498,7 @@
       "id": "AegisJ",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 572,
+      "rank": 573,
       "score": [
         8,
         33311
@@ -4519,12 +4519,12 @@
       "id": "VISTORON",
       "faction": "ENL",
       "num_completed": 6,
-      "rank": 1085,
+      "rank": 1087,
       "score": [
         6,
         47356
       ],
-      "rank_d": 1111,
+      "rank_d": 1114,
       "score_d": [
         5,
         66032
@@ -4545,7 +4545,7 @@
         8,
         65795
       ],
-      "rank_d": 602,
+      "rank_d": 603,
       "score_d": [
         8,
         38780
@@ -4566,7 +4566,7 @@
         8,
         35152
       ],
-      "rank_d": 740,
+      "rank_d": 741,
       "score_d": [
         8,
         84821
@@ -4750,12 +4750,12 @@
       "id": "Nisaseku",
       "faction": "ENL",
       "num_completed": 11,
-      "rank": 638,
+      "rank": 639,
       "score": [
         8,
         38061
       ],
-      "rank_d": 633,
+      "rank_d": 634,
       "score_d": [
         8,
         24953
@@ -5044,12 +5044,12 @@
       "id": "Neocec",
       "faction": "ENL",
       "num_completed": 11,
-      "rank": 560,
+      "rank": 561,
       "score": [
         8,
         1648
       ],
-      "rank_d": 546,
+      "rank_d": 547,
       "score_d": [
         8,
         1648
@@ -5065,12 +5065,12 @@
       "id": "0rocnogu",
       "faction": "RES",
       "num_completed": 6,
-      "rank": 1089,
+      "rank": 1091,
       "score": [
         6,
         27975
       ],
-      "rank_d": 1117,
+      "rank_d": 1120,
       "score_d": [
         5,
         27079
@@ -5112,7 +5112,7 @@
         8,
         20501
       ],
-      "rank_d": 503,
+      "rank_d": 504,
       "score_d": [
         8,
         42264
@@ -5128,12 +5128,12 @@
       "id": "Swarovskaya",
       "faction": "RES",
       "num_completed": 6,
-      "rank": 1090,
+      "rank": 1092,
       "score": [
         6,
         30432
       ],
-      "rank_d": 1116,
+      "rank_d": 1119,
       "score_d": [
         5,
         26634
@@ -5149,12 +5149,12 @@
       "id": "ChocoBonBon",
       "faction": "RES",
       "num_completed": 7,
-      "rank": 1018,
+      "rank": 1020,
       "score": [
         7,
         21634
       ],
-      "rank_d": 1047,
+      "rank_d": 1050,
       "score_d": [
         6,
         17625
@@ -5170,12 +5170,12 @@
       "id": "darthwader29",
       "faction": "RES",
       "num_completed": 7,
-      "rank": 1017,
+      "rank": 1019,
       "score": [
         7,
         21570
       ],
-      "rank_d": 1046,
+      "rank_d": 1049,
       "score_d": [
         6,
         17513
@@ -5196,7 +5196,7 @@
         8,
         69569
       ],
-      "rank_d": 505,
+      "rank_d": 506,
       "score_d": [
         8,
         45882
@@ -5254,12 +5254,12 @@
       "id": "Faddaf",
       "faction": "ENL",
       "num_completed": 10,
-      "rank": 545,
+      "rank": 546,
       "score": [
         8,
         28508
       ],
-      "rank_d": 540,
+      "rank_d": 541,
       "score_d": [
         8,
         68652
@@ -5275,12 +5275,12 @@
       "id": "gazel2",
       "faction": "ENL",
       "num_completed": 6,
-      "rank": 1104,
+      "rank": 1105,
       "score": [
         6,
         25466
       ],
-      "rank_d": 1130,
+      "rank_d": 1132,
       "score_d": [
         5,
         16532
@@ -5406,7 +5406,7 @@
         8,
         50572
       ],
-      "rank_d": 605,
+      "rank_d": 606,
       "score_d": [
         8,
         59996
@@ -5548,12 +5548,12 @@
       "id": "Whomiga",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 602,
+      "rank": 603,
       "score": [
         8,
         34840
       ],
-      "rank_d": 618,
+      "rank_d": 619,
       "score_d": [
         8,
         50725
@@ -5989,12 +5989,12 @@
       "id": "lGrapesl",
       "faction": "ENL",
       "num_completed": 12,
-      "rank": 631,
+      "rank": 632,
       "score": [
         8,
         82908
       ],
-      "rank_d": 612,
+      "rank_d": 613,
       "score_d": [
         8,
         82908
@@ -6073,12 +6073,12 @@
       "id": "MotherGoose",
       "faction": "RES",
       "num_completed": 6,
-      "rank": 1092,
+      "rank": 1094,
       "score": [
         6,
         85152
       ],
-      "rank_d": 1115,
+      "rank_d": 1118,
       "score_d": [
         5,
         20198
@@ -6094,12 +6094,12 @@
       "id": "Appastair",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 623,
+      "rank": 624,
       "score": [
         8,
         31261
       ],
-      "rank_d": 634,
+      "rank_d": 635,
       "score_d": [
         8,
         31350
@@ -6346,7 +6346,7 @@
       "id": "byplayer",
       "faction": "ENL",
       "num_completed": 6,
-      "rank": 1122,
+      "rank": 1124,
       "score": [
         6,
         6207
@@ -6367,12 +6367,12 @@
       "id": "corocorocoro",
       "faction": "ENL",
       "num_completed": 7,
-      "rank": 1010,
+      "rank": 1011,
       "score": [
         7,
         67293
       ],
-      "rank_d": 1038,
+      "rank_d": 1040,
       "score_d": [
         6,
         74306
@@ -6388,12 +6388,12 @@
       "id": "miniminiplayer",
       "faction": "ENL",
       "num_completed": 7,
-      "rank": 1011,
+      "rank": 1012,
       "score": [
         7,
         67834
       ],
-      "rank_d": 1039,
+      "rank_d": 1041,
       "score_d": [
         6,
         74682
@@ -6409,12 +6409,12 @@
       "id": "microplayer",
       "faction": "ENL",
       "num_completed": 7,
-      "rank": 1012,
+      "rank": 1013,
       "score": [
         7,
         68283
       ],
-      "rank_d": 1040,
+      "rank_d": 1042,
       "score_d": [
         6,
         75011
@@ -6682,12 +6682,12 @@
       "id": "Siodina",
       "faction": "ENL",
       "num_completed": 7,
-      "rank": 1004,
+      "rank": 1005,
       "score": [
         7,
         2597
       ],
-      "rank_d": 1029,
+      "rank_d": 1031,
       "score_d": [
         6,
         79255
@@ -6745,12 +6745,12 @@
       "id": "LestatSparrow",
       "faction": "ENL",
       "num_completed": 6,
-      "rank": 1078,
+      "rank": 1080,
       "score": [
         6,
         10966
       ],
-      "rank_d": 1096,
+      "rank_d": 1099,
       "score_d": [
         5,
         649
@@ -6808,12 +6808,12 @@
       "id": "KickTheBUCKET",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 523,
+      "rank": 524,
       "score": [
         8,
         63433
       ],
-      "rank_d": 512,
+      "rank_d": 513,
       "score_d": [
         8,
         70162
@@ -6892,12 +6892,12 @@
       "id": "X968AX36",
       "faction": "ENL",
       "num_completed": 8,
-      "rank": 561,
+      "rank": 562,
       "score": [
         8,
         5655
       ],
-      "rank_d": 899,
+      "rank_d": 902,
       "score_d": [
         7,
         78836
@@ -6913,12 +6913,12 @@
       "id": "Juanmrb1980",
       "faction": "ENL",
       "num_completed": 10,
-      "rank": 721,
+      "rank": 722,
       "score": [
         8,
         16683
       ],
-      "rank_d": 705,
+      "rank_d": 706,
       "score_d": [
         8,
         3132
@@ -6997,12 +6997,12 @@
       "id": "SirDarthNader",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 555,
+      "rank": 556,
       "score": [
         8,
         78128
       ],
-      "rank_d": 544,
+      "rank_d": 545,
       "score_d": [
         8,
         82360
@@ -7018,12 +7018,12 @@
       "id": "Rome93",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 670,
+      "rank": 671,
       "score": [
         8,
         40337
       ],
-      "rank_d": 644,
+      "rank_d": 645,
       "score_d": [
         8,
         40337
@@ -7039,12 +7039,12 @@
       "id": "Silverswine",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 760,
+      "rank": 761,
       "score": [
         8,
         36244
       ],
-      "rank_d": 750,
+      "rank_d": 751,
       "score_d": [
         8,
         43414
@@ -7065,7 +7065,7 @@
         8,
         12406
       ],
-      "rank_d": 591,
+      "rank_d": 592,
       "score_d": [
         8,
         79451
@@ -7081,12 +7081,12 @@
       "id": "zsoltr",
       "faction": "RES",
       "num_completed": 9,
-      "rank": 573,
+      "rank": 574,
       "score": [
         8,
         33894
       ],
-      "rank_d": 555,
+      "rank_d": 556,
       "score_d": [
         8,
         33894
@@ -7102,12 +7102,12 @@
       "id": "snuppi",
       "faction": "RES",
       "num_completed": 8,
-      "rank": 610,
+      "rank": 611,
       "score": [
         8,
         77442
       ],
-      "rank_d": 904,
+      "rank_d": 907,
       "score_d": [
         7,
         63782
@@ -7144,12 +7144,12 @@
       "id": "SPOONBANG",
       "faction": "RES",
       "num_completed": 9,
-      "rank": 732,
+      "rank": 733,
       "score": [
         8,
         79730
       ],
-      "rank_d": 717,
+      "rank_d": 718,
       "score_d": [
         8,
         71646
@@ -7170,7 +7170,7 @@
         8,
         62966
       ],
-      "rank_d": 789,
+      "rank_d": 790,
       "score_d": [
         8,
         24404
@@ -7191,7 +7191,7 @@
         8,
         15946
       ],
-      "rank_d": 762,
+      "rank_d": 763,
       "score_d": [
         8,
         27319
@@ -7212,7 +7212,7 @@
         8,
         37848
       ],
-      "rank_d": 792,
+      "rank_d": 793,
       "score_d": [
         8,
         85034
@@ -7228,12 +7228,12 @@
       "id": "Leetk",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 690,
+      "rank": 692,
       "score": [
         8,
         23360
       ],
-      "rank_d": 668,
+      "rank_d": 670,
       "score_d": [
         8,
         33587
@@ -7359,7 +7359,7 @@
         8,
         31578
       ],
-      "rank_d": 949,
+      "rank_d": 950,
       "score_d": [
         7,
         16092
@@ -7396,12 +7396,12 @@
       "id": "DGatekeeper",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 564,
+      "rank": 565,
       "score": [
         8,
         15876
       ],
-      "rank_d": 548,
+      "rank_d": 549,
       "score_d": [
         8,
         15876
@@ -7417,12 +7417,12 @@
       "id": "KETSUP",
       "faction": "RES",
       "num_completed": 8,
-      "rank": 733,
+      "rank": 734,
       "score": [
         8,
         28382
       ],
-      "rank_d": 921,
+      "rank_d": 923,
       "score_d": [
         7,
         12749
@@ -7459,12 +7459,12 @@
       "id": "CharlesFox",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 601,
+      "rank": 602,
       "score": [
         8,
         34717
       ],
-      "rank_d": 579,
+      "rank_d": 580,
       "score_d": [
         8,
         34717
@@ -7522,12 +7522,12 @@
       "id": "frenesi",
       "faction": "RES",
       "num_completed": 6,
-      "rank": 1108,
+      "rank": 1109,
       "score": [
         6,
         50793
       ],
-      "rank_d": 1132,
+      "rank_d": 1134,
       "score_d": [
         5,
         34859
@@ -7564,12 +7564,12 @@
       "id": "Chewbayka",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 617,
+      "rank": 618,
       "score": [
         8,
         23253
       ],
-      "rank_d": 597,
+      "rank_d": 598,
       "score_d": [
         8,
         23253
@@ -7606,12 +7606,12 @@
       "id": "Xabier1045",
       "faction": "ENL",
       "num_completed": 8,
-      "rank": 910,
+      "rank": 912,
       "score": [
         8,
         59725
       ],
-      "rank_d": 962,
+      "rank_d": 963,
       "score_d": [
         7,
         42991
@@ -7632,7 +7632,7 @@
         8,
         61072
       ],
-      "rank_d": 848,
+      "rank_d": 850,
       "score_d": [
         8,
         15638
@@ -7653,7 +7653,7 @@
         8,
         32289
       ],
-      "rank_d": 952,
+      "rank_d": 953,
       "score_d": [
         7,
         15466
@@ -7669,12 +7669,12 @@
       "id": "wajiw",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 524,
+      "rank": 525,
       "score": [
         8,
         66871
       ],
-      "rank_d": 511,
+      "rank_d": 512,
       "score_d": [
         8,
         66871
@@ -7689,7 +7689,7 @@
     {
       "id": "EYLDS",
       "faction": "RES",
-      "num_completed": 11,
+      "num_completed": 12,
       "rank": 485,
       "score": [
         8,
@@ -7701,9 +7701,9 @@
         63001
       ],
       "leakage": {
-        "total": 476.3718699716048,
-        "within_faction": 316.0593638689158,
-        "cross_faction": 160.3125061026897
+        "total": 478.987849386655,
+        "within_faction": 317.90699954697106,
+        "cross_faction": 161.08084983968465
       },
       "small_group": false
     },
@@ -7731,7 +7731,7 @@
     {
       "id": "getinsumtail",
       "faction": "RES",
-      "num_completed": 11,
+      "num_completed": 12,
       "rank": 501,
       "score": [
         8,
@@ -7743,9 +7743,9 @@
         84928
       ],
       "leakage": {
-        "total": 413.7559655093276,
-        "within_faction": 245.20678547480043,
-        "cross_faction": 168.549180034527
+        "total": 423.4182224688522,
+        "within_faction": 245.48862376792687,
+        "cross_faction": 177.9295987009251
       },
       "small_group": false
     },
@@ -7753,12 +7753,12 @@
       "id": "Shadus",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 645,
+      "rank": 646,
       "score": [
         8,
         79886
       ],
-      "rank_d": 664,
+      "rank_d": 666,
       "score_d": [
         8,
         61178
@@ -7774,12 +7774,12 @@
       "id": "LoneChewbacca",
       "faction": "ENL",
       "num_completed": 6,
-      "rank": 1082,
+      "rank": 1084,
       "score": [
         6,
         71009
       ],
-      "rank_d": 1100,
+      "rank_d": 1103,
       "score_d": [
         5,
         53753
@@ -7800,7 +7800,7 @@
         8,
         48655
       ],
-      "rank_d": 834,
+      "rank_d": 836,
       "score_d": [
         8,
         18978
@@ -7816,12 +7816,12 @@
       "id": "chur93",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 531,
+      "rank": 532,
       "score": [
         8,
         3553
       ],
-      "rank_d": 518,
+      "rank_d": 519,
       "score_d": [
         8,
         3553
@@ -7842,7 +7842,7 @@
         8,
         25339
       ],
-      "rank_d": 832,
+      "rank_d": 834,
       "score_d": [
         8,
         80677
@@ -7855,6 +7855,27 @@
       "small_group": true
     },
     {
+      "id": "Fast420A",
+      "faction": "ENL",
+      "num_completed": 7,
+      "rank": 1000,
+      "score": [
+        7,
+        75720
+      ],
+      "rank_d": 1026,
+      "score_d": [
+        6,
+        58063
+      ],
+      "leakage": {
+        "total": 227.90147471548497,
+        "within_faction": 130.7316853463385,
+        "cross_faction": 97.16978936914661
+      },
+      "small_group": false
+    },
+    {
       "id": "LilSpeedyOne",
       "faction": "RES",
       "num_completed": 9,
@@ -7863,7 +7884,7 @@
         8,
         6239
       ],
-      "rank_d": 791,
+      "rank_d": 792,
       "score_d": [
         8,
         49952
@@ -7879,12 +7900,12 @@
       "id": "NePaWytas",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 538,
+      "rank": 539,
       "score": [
         8,
         12135
       ],
-      "rank_d": 524,
+      "rank_d": 525,
       "score_d": [
         8,
         12135
@@ -7900,12 +7921,12 @@
       "id": "Losifer026",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 624,
+      "rank": 625,
       "score": [
         8,
         31315
       ],
-      "rank_d": 601,
+      "rank_d": 602,
       "score_d": [
         8,
         37347
@@ -7921,12 +7942,12 @@
       "id": "PurpleJules",
       "faction": "RES",
       "num_completed": 8,
-      "rank": 747,
+      "rank": 748,
       "score": [
         8,
         53537
       ],
-      "rank_d": 924,
+      "rank_d": 926,
       "score_d": [
         7,
         34446
@@ -7963,7 +7984,7 @@
       "id": "BobbyYoungs",
       "faction": "ENL",
       "num_completed": 6,
-      "rank": 1120,
+      "rank": 1122,
       "score": [
         6,
         1030
@@ -7989,7 +8010,7 @@
         8,
         80340
       ],
-      "rank_d": 953,
+      "rank_d": 954,
       "score_d": [
         7,
         60876
@@ -8010,7 +8031,7 @@
         8,
         37131
       ],
-      "rank_d": 841,
+      "rank_d": 843,
       "score_d": [
         8,
         6499
@@ -8047,12 +8068,12 @@
       "id": "GracelessH0pper",
       "faction": "RES",
       "num_completed": 7,
-      "rank": 1009,
+      "rank": 1010,
       "score": [
         7,
         38295
       ],
-      "rank_d": 1037,
+      "rank_d": 1039,
       "score_d": [
         6,
         18572
@@ -8068,12 +8089,12 @@
       "id": "lupinius",
       "faction": "RES",
       "num_completed": 9,
-      "rank": 763,
+      "rank": 764,
       "score": [
         8,
         49625
       ],
-      "rank_d": 758,
+      "rank_d": 759,
       "score_d": [
         8,
         72543
@@ -8089,12 +8110,12 @@
       "id": "zevfire",
       "faction": "RES",
       "num_completed": 6,
-      "rank": 1083,
+      "rank": 1085,
       "score": [
         6,
         57231
       ],
-      "rank_d": 1103,
+      "rank_d": 1106,
       "score_d": [
         5,
         37121
@@ -8110,12 +8131,12 @@
       "id": "314159265358979",
       "faction": "ENL",
       "num_completed": 12,
-      "rank": 757,
+      "rank": 758,
       "score": [
         8,
         17700
       ],
-      "rank_d": 755,
+      "rank_d": 756,
       "score_d": [
         8,
         59666
@@ -8136,7 +8157,7 @@
         8,
         40119
       ],
-      "rank_d": 833,
+      "rank_d": 835,
       "score_d": [
         8,
         8229
@@ -8194,12 +8215,12 @@
       "id": "rosecoldrake",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 642,
+      "rank": 643,
       "score": [
         8,
         65297
       ],
-      "rank_d": 673,
+      "rank_d": 675,
       "score_d": [
         8,
         10752
@@ -8215,12 +8236,12 @@
       "id": "iloveevilfar",
       "faction": "ENL",
       "num_completed": 12,
-      "rank": 647,
+      "rank": 648,
       "score": [
         8,
         24344
       ],
-      "rank_d": 624,
+      "rank_d": 625,
       "score_d": [
         8,
         24344
@@ -8257,12 +8278,12 @@
       "id": "Voldemort1324",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 604,
+      "rank": 605,
       "score": [
         8,
         46412
       ],
-      "rank_d": 580,
+      "rank_d": 581,
       "score_d": [
         8,
         46412
@@ -8278,12 +8299,12 @@
       "id": "Eriksonn22",
       "faction": "ENL",
       "num_completed": 12,
-      "rank": 606,
+      "rank": 607,
       "score": [
         8,
         51136
       ],
-      "rank_d": 582,
+      "rank_d": 583,
       "score_d": [
         8,
         51136
@@ -8299,12 +8320,12 @@
       "id": "near00noragami",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 605,
+      "rank": 606,
       "score": [
         8,
         47114
       ],
-      "rank_d": 581,
+      "rank_d": 582,
       "score_d": [
         8,
         47114
@@ -8341,12 +8362,12 @@
       "id": "GadielSierra",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 558,
+      "rank": 559,
       "score": [
         8,
         81567
       ],
-      "rank_d": 543,
+      "rank_d": 544,
       "score_d": [
         8,
         81567
@@ -8404,12 +8425,12 @@
       "id": "TheUndeadSoul",
       "faction": "RES",
       "num_completed": 9,
-      "rank": 633,
+      "rank": 635,
       "score": [
         8,
         12474
       ],
-      "rank_d": 658,
+      "rank_d": 660,
       "score_d": [
         8,
         79746
@@ -8430,7 +8451,7 @@
         8,
         71090
       ],
-      "rank_d": 828,
+      "rank_d": 830,
       "score_d": [
         8,
         59543
@@ -8509,7 +8530,7 @@
       "id": "Lander051",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 574,
+      "rank": 575,
       "score": [
         8,
         34253
@@ -8530,12 +8551,12 @@
       "id": "AFX001",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 662,
+      "rank": 663,
       "score": [
         8,
         65096
       ],
-      "rank_d": 676,
+      "rank_d": 677,
       "score_d": [
         8,
         33961
@@ -8556,7 +8577,7 @@
         8,
         84567
       ],
-      "rank_d": 586,
+      "rank_d": 587,
       "score_d": [
         8,
         55541
@@ -8577,7 +8598,7 @@
         8,
         17973
       ],
-      "rank_d": 941,
+      "rank_d": 943,
       "score_d": [
         7,
         73659
@@ -8634,16 +8655,16 @@
     {
       "id": "LolaSapphire",
       "faction": "RES",
-      "num_completed": 11,
-      "rank": 635,
+      "num_completed": 12,
+      "rank": 633,
       "score": [
         8,
-        20475
+        85282
       ],
       "rank_d": 614,
       "score_d": [
         8,
-        20475
+        85282
       ],
       "leakage": {
         "total": 945.249462862435,
@@ -8656,12 +8677,12 @@
       "id": "IIIlIIllIl",
       "faction": "ENL",
       "num_completed": 12,
-      "rank": 625,
+      "rank": 626,
       "score": [
         8,
         32651
       ],
-      "rank_d": 603,
+      "rank_d": 604,
       "score_d": [
         8,
         39980
@@ -8677,12 +8698,12 @@
       "id": "crystalwizard",
       "faction": "ENL",
       "num_completed": 9,
-      "rank": 675,
+      "rank": 676,
       "score": [
         8,
         20858
       ],
-      "rank_d": 670,
+      "rank_d": 672,
       "score_d": [
         8,
         48815
@@ -8719,12 +8740,12 @@
       "id": "VIRARVI",
       "faction": "ENL",
       "num_completed": 11,
-      "rank": 714,
+      "rank": 715,
       "score": [
         8,
         32446
       ],
-      "rank_d": 687,
+      "rank_d": 688,
       "score_d": [
         8,
         29369
@@ -8740,12 +8761,12 @@
       "id": "VanSherk",
       "faction": "RES",
       "num_completed": 9,
-      "rank": 701,
+      "rank": 703,
       "score": [
         8,
         66816
       ],
-      "rank_d": 711,
+      "rank_d": 712,
       "score_d": [
         8,
         54993
@@ -8761,12 +8782,12 @@
       "id": "screamior",
       "faction": "RES",
       "num_completed": 6,
-      "rank": 1086,
+      "rank": 1088,
       "score": [
         6,
         49517
       ],
-      "rank_d": 1105,
+      "rank_d": 1108,
       "score_d": [
         5,
         16593
@@ -8782,12 +8803,12 @@
       "id": "mweep",
       "faction": "ENL",
       "num_completed": 8,
-      "rank": 755,
+      "rank": 756,
       "score": [
         8,
         15195
       ],
-      "rank_d": 926,
+      "rank_d": 928,
       "score_d": [
         7,
         68215
@@ -8845,12 +8866,12 @@
       "id": "rossum",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 687,
+      "rank": 689,
       "score": [
         8,
         9069
       ],
-      "rank_d": 681,
+      "rank_d": 682,
       "score_d": [
         8,
         37239
@@ -8866,12 +8887,12 @@
       "id": "0x00nullPointer",
       "faction": "RES",
       "num_completed": 7,
-      "rank": 1040,
+      "rank": 1042,
       "score": [
         7,
         29682
       ],
-      "rank_d": 1073,
+      "rank_d": 1076,
       "score_d": [
         6,
         79433
@@ -8892,7 +8913,7 @@
         8,
         62000
       ],
-      "rank_d": 587,
+      "rank_d": 588,
       "score_d": [
         8,
         55917
@@ -8908,12 +8929,12 @@
       "id": "TernetNinja",
       "faction": "ENL",
       "num_completed": 11,
-      "rank": 521,
+      "rank": 522,
       "score": [
         8,
         58116
       ],
-      "rank_d": 510,
+      "rank_d": 511,
       "score_d": [
         8,
         58116
@@ -8934,7 +8955,7 @@
         8,
         40089
       ],
-      "rank_d": 856,
+      "rank_d": 859,
       "score_d": [
         8,
         15660
@@ -8971,12 +8992,12 @@
       "id": "xela123",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 736,
+      "rank": 737,
       "score": [
         8,
         72524
       ],
-      "rank_d": 737,
+      "rank_d": 738,
       "score_d": [
         8,
         7720
@@ -9034,12 +9055,12 @@
       "id": "GabrjiPonte",
       "faction": "RES",
       "num_completed": 6,
-      "rank": 1099,
+      "rank": 1101,
       "score": [
         6,
         8224
       ],
-      "rank_d": 1123,
+      "rank_d": 1126,
       "score_d": [
         5,
         52176
@@ -9055,12 +9076,12 @@
       "id": "betadina",
       "faction": "ENL",
       "num_completed": 7,
-      "rank": 1056,
+      "rank": 1058,
       "score": [
         7,
         49786
       ],
-      "rank_d": 1087,
+      "rank_d": 1090,
       "score_d": [
         6,
         6698
@@ -9144,7 +9165,7 @@
         8,
         77403
       ],
-      "rank_d": 826,
+      "rank_d": 828,
       "score_d": [
         8,
         63142
@@ -9160,12 +9181,12 @@
       "id": "Ajjika",
       "faction": "RES",
       "num_completed": 9,
-      "rank": 536,
+      "rank": 537,
       "score": [
         8,
         6663
       ],
-      "rank_d": 672,
+      "rank_d": 674,
       "score_d": [
         8,
         74240
@@ -9181,12 +9202,12 @@
       "id": "GruensFroeschli",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 537,
+      "rank": 538,
       "score": [
         8,
         8654
       ],
-      "rank_d": 523,
+      "rank_d": 524,
       "score_d": [
         8,
         8654
@@ -9202,12 +9223,12 @@
       "id": "KirillDE",
       "faction": "ENL",
       "num_completed": 7,
-      "rank": 1026,
+      "rank": 1028,
       "score": [
         7,
         1177
       ],
-      "rank_d": 1055,
+      "rank_d": 1058,
       "score_d": [
         6,
         42221
@@ -9307,12 +9328,12 @@
       "id": "hakapeszimaki",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 618,
+      "rank": 619,
       "score": [
         8,
         24687
       ],
-      "rank_d": 623,
+      "rank_d": 624,
       "score_d": [
         8,
         19817
@@ -9349,12 +9370,12 @@
       "id": "Hablo",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 731,
+      "rank": 732,
       "score": [
         8,
         78751
       ],
-      "rank_d": 734,
+      "rank_d": 735,
       "score_d": [
         8,
         8667
@@ -9433,12 +9454,12 @@
       "id": "XXXSuperSonic",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 851,
+      "rank": 852,
       "score": [
         8,
         6499
       ],
-      "rank_d": 817,
+      "rank_d": 818,
       "score_d": [
         8,
         45401
@@ -9454,12 +9475,12 @@
       "id": "lahoffa",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 612,
+      "rank": 613,
       "score": [
         8,
         9144
       ],
-      "rank_d": 593,
+      "rank_d": 594,
       "score_d": [
         8,
         9144
@@ -9517,12 +9538,12 @@
       "id": "robb2k4",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 532,
+      "rank": 533,
       "score": [
         8,
         3653
       ],
-      "rank_d": 519,
+      "rank_d": 520,
       "score_d": [
         8,
         3653
@@ -9538,12 +9559,12 @@
       "id": "maRschine",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 648,
+      "rank": 649,
       "score": [
         8,
         24541
       ],
-      "rank_d": 680,
+      "rank_d": 681,
       "score_d": [
         8,
         21480
@@ -9564,7 +9585,7 @@
         8,
         34927
       ],
-      "rank_d": 765,
+      "rank_d": 766,
       "score_d": [
         8,
         63307
@@ -9580,12 +9601,12 @@
       "id": "Cassiopeia42",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 622,
+      "rank": 623,
       "score": [
         8,
         29759
       ],
-      "rank_d": 607,
+      "rank_d": 608,
       "score_d": [
         8,
         66120
@@ -9643,12 +9664,12 @@
       "id": "lupukapa",
       "faction": "ENL",
       "num_completed": 11,
-      "rank": 550,
+      "rank": 551,
       "score": [
         8,
         48297
       ],
-      "rank_d": 611,
+      "rank_d": 612,
       "score_d": [
         8,
         79337
@@ -9685,12 +9706,12 @@
       "id": "Fatbob",
       "faction": "RES",
       "num_completed": 9,
-      "rank": 608,
+      "rank": 609,
       "score": [
         8,
         67489
       ],
-      "rank_d": 645,
+      "rank_d": 646,
       "score_d": [
         8,
         43532
@@ -9706,12 +9727,12 @@
       "id": "asiatiki",
       "faction": "ENL",
       "num_completed": 7,
-      "rank": 1006,
+      "rank": 1007,
       "score": [
         7,
         78451
       ],
-      "rank_d": 1033,
+      "rank_d": 1035,
       "score_d": [
         6,
         23756
@@ -9832,12 +9853,12 @@
       "id": "devealius",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 655,
+      "rank": 656,
       "score": [
         8,
         72658
       ],
-      "rank_d": 650,
+      "rank_d": 651,
       "score_d": [
         8,
         5765
@@ -9858,7 +9879,7 @@
         8,
         72332
       ],
-      "rank_d": 948,
+      "rank_d": 949,
       "score_d": [
         7,
         12869
@@ -9916,12 +9937,12 @@
       "id": "sev83",
       "faction": "ENL",
       "num_completed": 6,
-      "rank": 1105,
+      "rank": 1106,
       "score": [
         6,
         56405
       ],
-      "rank_d": 1126,
+      "rank_d": 1128,
       "score_d": [
         5,
         79838
@@ -9963,7 +9984,7 @@
         8,
         55791
       ],
-      "rank_d": 811,
+      "rank_d": 812,
       "score_d": [
         8,
         47643
@@ -10000,12 +10021,12 @@
       "id": "RoxxeI",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 639,
+      "rank": 640,
       "score": [
         8,
         42183
       ],
-      "rank_d": 620,
+      "rank_d": 621,
       "score_d": [
         8,
         67714
@@ -10042,12 +10063,12 @@
       "id": "HongosFalsosHn",
       "faction": "ENL",
       "num_completed": 11,
-      "rank": 615,
+      "rank": 616,
       "score": [
         8,
         16531
       ],
-      "rank_d": 595,
+      "rank_d": 596,
       "score_d": [
         8,
         16531
@@ -10063,12 +10084,12 @@
       "id": "alejaguilar",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 616,
+      "rank": 617,
       "score": [
         8,
         16862
       ],
-      "rank_d": 596,
+      "rank_d": 597,
       "score_d": [
         8,
         16862
@@ -10084,12 +10105,12 @@
       "id": "Koku88z",
       "faction": "ENL",
       "num_completed": 11,
-      "rank": 629,
+      "rank": 630,
       "score": [
         8,
         67496
       ],
-      "rank_d": 609,
+      "rank_d": 610,
       "score_d": [
         8,
         67496
@@ -10110,7 +10131,7 @@
         8,
         13591
       ],
-      "rank_d": 942,
+      "rank_d": 944,
       "score_d": [
         7,
         34307
@@ -10131,7 +10152,7 @@
         8,
         17496
       ],
-      "rank_d": 829,
+      "rank_d": 831,
       "score_d": [
         8,
         70701
@@ -10210,12 +10231,12 @@
       "id": "sodazh",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 657,
+      "rank": 658,
       "score": [
         8,
         4461
       ],
-      "rank_d": 667,
+      "rank_d": 669,
       "score_d": [
         8,
         21374
@@ -10231,12 +10252,12 @@
       "id": "ProfNobody",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 756,
+      "rank": 757,
       "score": [
         8,
         28810
       ],
-      "rank_d": 742,
+      "rank_d": 743,
       "score_d": [
         8,
         75888
@@ -10252,12 +10273,12 @@
       "id": "Stephyypooke",
       "faction": "RES",
       "num_completed": 7,
-      "rank": 1002,
+      "rank": 1003,
       "score": [
         7,
         79688
       ],
-      "rank_d": 1026,
+      "rank_d": 1027,
       "score_d": [
         6,
         8904
@@ -10273,12 +10294,12 @@
       "id": "Carmar1288",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 546,
+      "rank": 547,
       "score": [
         8,
         28915
       ],
-      "rank_d": 530,
+      "rank_d": 531,
       "score_d": [
         8,
         28915
@@ -10294,7 +10315,7 @@
       "id": "Helsinki02",
       "faction": "ENL",
       "num_completed": 11,
-      "rank": 753,
+      "rank": 754,
       "score": [
         8,
         4540
@@ -10315,12 +10336,12 @@
       "id": "Ir0nJay",
       "faction": "ENL",
       "num_completed": 11,
-      "rank": 727,
+      "rank": 728,
       "score": [
         8,
         83220
       ],
-      "rank_d": 697,
+      "rank_d": 698,
       "score_d": [
         8,
         40152
@@ -10336,12 +10357,12 @@
       "id": "MGT009",
       "faction": "ENL",
       "num_completed": 12,
-      "rank": 686,
+      "rank": 688,
       "score": [
         8,
         7108
       ],
-      "rank_d": 660,
+      "rank_d": 662,
       "score_d": [
         8,
         7108
@@ -10483,12 +10504,12 @@
       "id": "bisiana",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 557,
+      "rank": 558,
       "score": [
         8,
         80655
       ],
-      "rank_d": 542,
+      "rank_d": 543,
       "score_d": [
         8,
         80655
@@ -10530,7 +10551,7 @@
         8,
         53309
       ],
-      "rank_d": 759,
+      "rank_d": 760,
       "score_d": [
         8,
         35162
@@ -10588,12 +10609,12 @@
       "id": "bamboocyt",
       "faction": "RES",
       "num_completed": 6,
-      "rank": 1075,
+      "rank": 1077,
       "score": [
         6,
         19945
       ],
-      "rank_d": 1092,
+      "rank_d": 1095,
       "score_d": [
         5,
         7660
@@ -10651,12 +10672,12 @@
       "id": "AtilaE1",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 566,
+      "rank": 567,
       "score": [
         8,
         17213
       ],
-      "rank_d": 549,
+      "rank_d": 550,
       "score_d": [
         8,
         17213
@@ -10672,12 +10693,12 @@
       "id": "kabidubu",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 852,
+      "rank": 853,
       "score": [
         8,
         40643
       ],
-      "rank_d": 837,
+      "rank_d": 839,
       "score_d": [
         8,
         38783
@@ -10756,12 +10777,12 @@
       "id": "Ranglaren",
       "faction": "ENL",
       "num_completed": 8,
-      "rank": 613,
+      "rank": 614,
       "score": [
         8,
         12762
       ],
-      "rank_d": 901,
+      "rank_d": 904,
       "score_d": [
         7,
         17465
@@ -10782,7 +10803,7 @@
         8,
         29087
       ],
-      "rank_d": 892,
+      "rank_d": 895,
       "score_d": [
         8,
         83491
@@ -10840,12 +10861,12 @@
       "id": "Pelupeman",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 548,
+      "rank": 549,
       "score": [
         8,
         32939
       ],
-      "rank_d": 532,
+      "rank_d": 533,
       "score_d": [
         8,
         32939
@@ -10903,12 +10924,12 @@
       "id": "ryhash",
       "faction": "ENL",
       "num_completed": 11,
-      "rank": 715,
+      "rank": 716,
       "score": [
         8,
         40590
       ],
-      "rank_d": 692,
+      "rank_d": 693,
       "score_d": [
         8,
         84816
@@ -10924,12 +10945,12 @@
       "id": "LuLuLunn",
       "faction": "ENL",
       "num_completed": 11,
-      "rank": 716,
+      "rank": 717,
       "score": [
         8,
         41422
       ],
-      "rank_d": 693,
+      "rank_d": 694,
       "score_d": [
         8,
         85422
@@ -10945,12 +10966,12 @@
       "id": "impooh",
       "faction": "ENL",
       "num_completed": 11,
-      "rank": 717,
+      "rank": 718,
       "score": [
         8,
         41697
       ],
-      "rank_d": 694,
+      "rank_d": 695,
       "score_d": [
         8,
         85565
@@ -11029,12 +11050,12 @@
       "id": "Polarlight",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 689,
+      "rank": 691,
       "score": [
         8,
         23176
       ],
-      "rank_d": 674,
+      "rank_d": 676,
       "score_d": [
         8,
         24888
@@ -11050,12 +11071,12 @@
       "id": "Jimkok",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 644,
+      "rank": 645,
       "score": [
         8,
         79653
       ],
-      "rank_d": 622,
+      "rank_d": 623,
       "score_d": [
         8,
         79653
@@ -11097,7 +11118,7 @@
         8,
         33440
       ],
-      "rank_d": 938,
+      "rank_d": 940,
       "score_d": [
         7,
         47910
@@ -11134,12 +11155,12 @@
       "id": "fl0w3rr0ck",
       "faction": "ENL",
       "num_completed": 8,
-      "rank": 750,
+      "rank": 751,
       "score": [
         8,
         27306
       ],
-      "rank_d": 923,
+      "rank_d": 925,
       "score_d": [
         7,
         34062
@@ -11175,7 +11196,7 @@
     {
       "id": "ShengDu",
       "faction": "RES",
-      "num_completed": 11,
+      "num_completed": 12,
       "rank": 278,
       "score": [
         8,
@@ -11260,12 +11281,12 @@
       "id": "NTTDental",
       "faction": "ENL",
       "num_completed": 11,
-      "rank": 539,
+      "rank": 540,
       "score": [
         8,
         18852
       ],
-      "rank_d": 525,
+      "rank_d": 526,
       "score_d": [
         8,
         18852
@@ -11281,12 +11302,12 @@
       "id": "Hongntk",
       "faction": "ENL",
       "num_completed": 11,
-      "rank": 600,
+      "rank": 601,
       "score": [
         8,
         30668
       ],
-      "rank_d": 578,
+      "rank_d": 579,
       "score_d": [
         8,
         30668
@@ -11302,12 +11323,12 @@
       "id": "lluviaser",
       "faction": "ENL",
       "num_completed": 11,
-      "rank": 654,
+      "rank": 655,
       "score": [
         8,
         67610
       ],
-      "rank_d": 631,
+      "rank_d": 632,
       "score_d": [
         8,
         67610
@@ -11323,12 +11344,12 @@
       "id": "R3dSoldi3r",
       "faction": "ENL",
       "num_completed": 12,
-      "rank": 512,
+      "rank": 513,
       "score": [
         8,
         38733
       ],
-      "rank_d": 500,
+      "rank_d": 501,
       "score_d": [
         8,
         38733
@@ -11344,12 +11365,12 @@
       "id": "LinhDanhThue",
       "faction": "ENL",
       "num_completed": 12,
-      "rank": 517,
+      "rank": 518,
       "score": [
         8,
         47321
       ],
-      "rank_d": 506,
+      "rank_d": 507,
       "score_d": [
         8,
         47321
@@ -11407,12 +11428,12 @@
       "id": "GTownDuivel",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 598,
+      "rank": 599,
       "score": [
         8,
         8835
       ],
-      "rank_d": 575,
+      "rank_d": 576,
       "score_d": [
         8,
         8835
@@ -11449,12 +11470,12 @@
       "id": "freebacca",
       "faction": "ENL",
       "num_completed": 11,
-      "rank": 653,
+      "rank": 654,
       "score": [
         8,
         54578
       ],
-      "rank_d": 630,
+      "rank_d": 631,
       "score_d": [
         8,
         54578
@@ -11491,12 +11512,12 @@
       "id": "chrigu84",
       "faction": "RES",
       "num_completed": 8,
-      "rank": 659,
+      "rank": 660,
       "score": [
         8,
         29216
       ],
-      "rank_d": 903,
+      "rank_d": 906,
       "score_d": [
         7,
         47415
@@ -11512,12 +11533,12 @@
       "id": "hvejar",
       "faction": "RES",
       "num_completed": 9,
-      "rank": 933,
+      "rank": 934,
       "score": [
         8,
         69678
       ],
-      "rank_d": 885,
+      "rank_d": 888,
       "score_d": [
         8,
         11252
@@ -11533,12 +11554,12 @@
       "id": "MaxstormR",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 685,
+      "rank": 687,
       "score": [
         8,
         6539
       ],
-      "rank_d": 659,
+      "rank_d": 661,
       "score_d": [
         8,
         6539
@@ -11554,12 +11575,12 @@
       "id": "tomatocat0211",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 549,
+      "rank": 550,
       "score": [
         8,
         43015
       ],
-      "rank_d": 535,
+      "rank_d": 536,
       "score_d": [
         8,
         43015
@@ -11575,12 +11596,12 @@
       "id": "PanchoPelao",
       "faction": "RES",
       "num_completed": 9,
-      "rank": 934,
+      "rank": 935,
       "score": [
         8,
         72860
       ],
-      "rank_d": 886,
+      "rank_d": 889,
       "score_d": [
         8,
         11826
@@ -11701,12 +11722,12 @@
       "id": "MangoAsesino",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 669,
+      "rank": 670,
       "score": [
         8,
         22797
       ],
-      "rank_d": 643,
+      "rank_d": 644,
       "score_d": [
         8,
         22797
@@ -11722,12 +11743,12 @@
       "id": "tuchan2304",
       "faction": "ENL",
       "num_completed": 9,
-      "rank": 730,
+      "rank": 731,
       "score": [
         8,
         19542
       ],
-      "rank_d": 696,
+      "rank_d": 697,
       "score_d": [
         8,
         19542
@@ -11806,12 +11827,12 @@
       "id": "bjornthegod",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 649,
+      "rank": 650,
       "score": [
         8,
         28252
       ],
-      "rank_d": 625,
+      "rank_d": 626,
       "score_d": [
         8,
         28252
@@ -11848,12 +11869,12 @@
       "id": "Orfurva",
       "faction": "ENL",
       "num_completed": 11,
-      "rank": 621,
+      "rank": 622,
       "score": [
         8,
         29196
       ],
-      "rank_d": 600,
+      "rank_d": 601,
       "score_d": [
         8,
         29196
@@ -11869,12 +11890,12 @@
       "id": "Lhuth",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 626,
+      "rank": 627,
       "score": [
         8,
         42278
       ],
-      "rank_d": 604,
+      "rank_d": 605,
       "score_d": [
         8,
         42278
@@ -11932,7 +11953,7 @@
       "id": "SallYbb",
       "faction": "ENL",
       "num_completed": 6,
-      "rank": 1151,
+      "rank": 1152,
       "score": [
         6,
         67722
@@ -11949,12 +11970,12 @@
       "id": "a21schizoidman",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 569,
+      "rank": 570,
       "score": [
         8,
         21891
       ],
-      "rank_d": 551,
+      "rank_d": 552,
       "score_d": [
         8,
         21891
@@ -11970,12 +11991,12 @@
       "id": "Depintublu",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 630,
+      "rank": 631,
       "score": [
         8,
         78434
       ],
-      "rank_d": 610,
+      "rank_d": 611,
       "score_d": [
         8,
         78434
@@ -12012,12 +12033,12 @@
       "id": "philou54330",
       "faction": "RES",
       "num_completed": 9,
-      "rank": 599,
+      "rank": 600,
       "score": [
         8,
         14572
       ],
-      "rank_d": 576,
+      "rank_d": 577,
       "score_d": [
         8,
         14572
@@ -12033,7 +12054,7 @@
       "id": "wikkedimp",
       "faction": "ENL",
       "num_completed": 6,
-      "rank": 1121,
+      "rank": 1123,
       "score": [
         6,
         34769
@@ -12054,12 +12075,12 @@
       "id": "slm2mars",
       "faction": "RES",
       "num_completed": 6,
-      "rank": 1116,
+      "rank": 1118,
       "score": [
         6,
         24018
       ],
-      "rank_d": 1136,
+      "rank_d": 1137,
       "score_d": [
         5,
         18345
@@ -12096,7 +12117,7 @@
       "id": "defiant1701",
       "faction": "RES",
       "num_completed": 7,
-      "rank": 1001,
+      "rank": 1002,
       "score": [
         7,
         78912
@@ -12159,12 +12180,12 @@
       "id": "EdsonVillamayor",
       "faction": "RES",
       "num_completed": 7,
-      "rank": 1028,
+      "rank": 1030,
       "score": [
         7,
         59681
       ],
-      "rank_d": 1057,
+      "rank_d": 1060,
       "score_d": [
         6,
         18649
@@ -12180,12 +12201,12 @@
       "id": "JPrototipo",
       "faction": "RES",
       "num_completed": 7,
-      "rank": 1022,
+      "rank": 1024,
       "score": [
         7,
         36513
       ],
-      "rank_d": 1050,
+      "rank_d": 1053,
       "score_d": [
         6,
         81762
@@ -12201,12 +12222,12 @@
       "id": "CarolVillamayor",
       "faction": "RES",
       "num_completed": 7,
-      "rank": 1021,
+      "rank": 1023,
       "score": [
         7,
         33512
       ],
-      "rank_d": 1049,
+      "rank_d": 1052,
       "score_d": [
         6,
         78698
@@ -12222,12 +12243,12 @@
       "id": "DanielKommers",
       "faction": "RES",
       "num_completed": 7,
-      "rank": 1029,
+      "rank": 1031,
       "score": [
         7,
         2172
       ],
-      "rank_d": 1058,
+      "rank_d": 1061,
       "score_d": [
         6,
         29316
@@ -12243,12 +12264,12 @@
       "id": "JH0NJH0NNY",
       "faction": "RES",
       "num_completed": 7,
-      "rank": 1030,
+      "rank": 1032,
       "score": [
         7,
         14449
       ],
-      "rank_d": 1059,
+      "rank_d": 1062,
       "score_d": [
         6,
         35046
@@ -12264,12 +12285,12 @@
       "id": "BeforeIForget",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 679,
+      "rank": 680,
       "score": [
         8,
         29764
       ],
-      "rank_d": 654,
+      "rank_d": 655,
       "score_d": [
         8,
         29764
@@ -12285,12 +12306,12 @@
       "id": "ebasi",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 677,
+      "rank": 678,
       "score": [
         8,
         21923
       ],
-      "rank_d": 653,
+      "rank_d": 654,
       "score_d": [
         8,
         21923
@@ -12306,12 +12327,12 @@
       "id": "galwayraf",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 696,
+      "rank": 698,
       "score": [
         8,
         20021
       ],
-      "rank_d": 666,
+      "rank_d": 668,
       "score_d": [
         8,
         20021
@@ -12327,12 +12348,12 @@
       "id": "Renneta",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 682,
+      "rank": 683,
       "score": [
         8,
         37902
       ],
-      "rank_d": 656,
+      "rank_d": 657,
       "score_d": [
         8,
         37902
@@ -12348,12 +12369,12 @@
       "id": "MoonWitch07",
       "faction": "ENL",
       "num_completed": 8,
-      "rank": 708,
+      "rank": 709,
       "score": [
         8,
         75361
       ],
-      "rank_d": 911,
+      "rank_d": 914,
       "score_d": [
         7,
         84181
@@ -12369,12 +12390,12 @@
       "id": "WILLI6",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 694,
+      "rank": 696,
       "score": [
         8,
         66795
       ],
-      "rank_d": 665,
+      "rank_d": 667,
       "score_d": [
         8,
         66795
@@ -12395,7 +12416,7 @@
         8,
         6344
       ],
-      "rank_d": 751,
+      "rank_d": 752,
       "score_d": [
         8,
         6344
@@ -12416,7 +12437,7 @@
         8,
         35138
       ],
-      "rank_d": 768,
+      "rank_d": 769,
       "score_d": [
         8,
         455
@@ -12453,12 +12474,12 @@
       "id": "39keys",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 726,
+      "rank": 727,
       "score": [
         8,
         71387
       ],
-      "rank_d": 691,
+      "rank_d": 692,
       "score_d": [
         8,
         71387
@@ -12479,7 +12500,7 @@
         8,
         4579
       ],
-      "rank_d": 943,
+      "rank_d": 945,
       "score_d": [
         7,
         71135
@@ -12495,12 +12516,12 @@
       "id": "TwilitTrekker",
       "faction": "RES",
       "num_completed": 6,
-      "rank": 1115,
+      "rank": 1117,
       "score": [
         6,
         82068
       ],
-      "rank_d": 1135,
+      "rank_d": 1136,
       "score_d": [
         5,
         40423
@@ -12516,12 +12537,12 @@
       "id": "Stoppermjs",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 526,
+      "rank": 527,
       "score": [
         8,
         71942
       ],
-      "rank_d": 514,
+      "rank_d": 515,
       "score_d": [
         8,
         71942
@@ -12663,12 +12684,12 @@
       "id": "rekime",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 553,
+      "rank": 554,
       "score": [
         8,
         63177
       ],
-      "rank_d": 539,
+      "rank_d": 540,
       "score_d": [
         8,
         63177
@@ -12684,12 +12705,12 @@
       "id": "KubianBao",
       "faction": "ENL",
       "num_completed": 10,
-      "rank": 742,
+      "rank": 743,
       "score": [
         8,
         81157
       ],
-      "rank_d": 744,
+      "rank_d": 745,
       "score_d": [
         8,
         85837
@@ -12752,7 +12773,7 @@
         8,
         65911
       ],
-      "rank_d": 749,
+      "rank_d": 750,
       "score_d": [
         8,
         2995
@@ -12789,12 +12810,12 @@
       "id": "GoCougs06",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 551,
+      "rank": 552,
       "score": [
         8,
         49208
       ],
-      "rank_d": 536,
+      "rank_d": 537,
       "score_d": [
         8,
         49208
@@ -12810,12 +12831,12 @@
       "id": "TeacherSerenity",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 672,
+      "rank": 673,
       "score": [
         8,
         74985
       ],
-      "rank_d": 648,
+      "rank_d": 649,
       "score_d": [
         8,
         74985
@@ -12831,12 +12852,12 @@
       "id": "Misstressofevil",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 533,
+      "rank": 534,
       "score": [
         8,
         5154
       ],
-      "rank_d": 520,
+      "rank_d": 521,
       "score_d": [
         8,
         5154
@@ -12873,12 +12894,12 @@
       "id": "AzradTT",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 673,
+      "rank": 674,
       "score": [
         8,
         84452
       ],
-      "rank_d": 649,
+      "rank_d": 650,
       "score_d": [
         8,
         84452
@@ -12915,12 +12936,12 @@
       "id": "Jbisatto",
       "faction": "ENL",
       "num_completed": 12,
-      "rank": 525,
+      "rank": 526,
       "score": [
         8,
         70397
       ],
-      "rank_d": 513,
+      "rank_d": 514,
       "score_d": [
         8,
         70397
@@ -12936,12 +12957,12 @@
       "id": "RedAgent14",
       "faction": "ENL",
       "num_completed": 12,
-      "rank": 661,
+      "rank": 662,
       "score": [
         8,
         36194
       ],
-      "rank_d": 636,
+      "rank_d": 637,
       "score_d": [
         8,
         36194
@@ -12957,12 +12978,12 @@
       "id": "SapphireKat",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 541,
+      "rank": 542,
       "score": [
         8,
         21502
       ],
-      "rank_d": 526,
+      "rank_d": 527,
       "score_d": [
         8,
         21502
@@ -12999,12 +13020,12 @@
       "id": "acaciocezar",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 729,
+      "rank": 730,
       "score": [
         8,
         15129
       ],
-      "rank_d": 695,
+      "rank_d": 696,
       "score_d": [
         8,
         15129
@@ -13020,12 +13041,12 @@
       "id": "kiloecholima",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 534,
+      "rank": 535,
       "score": [
         8,
         5898
       ],
-      "rank_d": 521,
+      "rank_d": 522,
       "score_d": [
         8,
         5898
@@ -13062,12 +13083,12 @@
       "id": "Albert7h",
       "faction": "ENL",
       "num_completed": 11,
-      "rank": 837,
+      "rank": 838,
       "score": [
         8,
         25960
       ],
-      "rank_d": 809,
+      "rank_d": 810,
       "score_d": [
         8,
         78175
@@ -13083,12 +13104,12 @@
       "id": "heureux1",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 836,
+      "rank": 837,
       "score": [
         8,
         43185
       ],
-      "rank_d": 805,
+      "rank_d": 806,
       "score_d": [
         8,
         6160
@@ -13104,12 +13125,12 @@
       "id": "Alboedz",
       "faction": "ENL",
       "num_completed": 7,
-      "rank": 1032,
+      "rank": 1034,
       "score": [
         7,
         54503
       ],
-      "rank_d": 1056,
+      "rank_d": 1059,
       "score_d": [
         6,
         4633
@@ -13125,12 +13146,12 @@
       "id": "XSynphonyX",
       "faction": "ENL",
       "num_completed": 12,
-      "rank": 544,
+      "rank": 545,
       "score": [
         8,
         25640
       ],
-      "rank_d": 529,
+      "rank_d": 530,
       "score_d": [
         8,
         25640
@@ -13146,7 +13167,7 @@
       "id": "Carnage2701",
       "faction": "RES",
       "num_completed": 6,
-      "rank": 1142,
+      "rank": 1143,
       "score": [
         6,
         3973
@@ -13188,12 +13209,12 @@
       "id": "Willuiz",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 700,
+      "rank": 702,
       "score": [
         8,
         54464
       ],
-      "rank_d": 671,
+      "rank_d": 673,
       "score_d": [
         8,
         54464
@@ -13209,12 +13230,12 @@
       "id": "Pw8dp",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 722,
+      "rank": 723,
       "score": [
         8,
         48830
       ],
-      "rank_d": 688,
+      "rank_d": 689,
       "score_d": [
         8,
         48830
@@ -13335,12 +13356,12 @@
       "id": "AgpuaHa",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 724,
+      "rank": 725,
       "score": [
         8,
         68221
       ],
-      "rank_d": 689,
+      "rank_d": 690,
       "score_d": [
         8,
         68221
@@ -13356,12 +13377,12 @@
       "id": "Akrozia",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 725,
+      "rank": 726,
       "score": [
         8,
         68895
       ],
-      "rank_d": 690,
+      "rank_d": 691,
       "score_d": [
         8,
         68895
@@ -13376,20 +13397,20 @@
     {
       "id": "Rattaui1998",
       "faction": "RES",
-      "num_completed": 11,
-      "rank": 576,
+      "num_completed": 12,
+      "rank": 511,
       "score": [
         8,
-        37864
+        28803
       ],
-      "rank_d": 557,
+      "rank_d": 499,
       "score_d": [
         8,
-        37864
+        28803
       ],
       "leakage": {
-        "total": 265.8885823108137,
-        "within_faction": 150.02450973614188,
+        "total": 270.913293577744,
+        "within_faction": 155.04922100307218,
         "cross_faction": 115.86407257467188
       },
       "small_group": false
@@ -13398,12 +13419,12 @@
       "id": "Zorak02",
       "faction": "ENL",
       "num_completed": 12,
-      "rank": 759,
+      "rank": 760,
       "score": [
         8,
         21323
       ],
-      "rank_d": 721,
+      "rank_d": 722,
       "score_d": [
         8,
         21323
@@ -13419,12 +13440,12 @@
       "id": "AwesomeWizard10",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 614,
+      "rank": 615,
       "score": [
         8,
         13997
       ],
-      "rank_d": 594,
+      "rank_d": 595,
       "score_d": [
         8,
         13997
@@ -13461,12 +13482,12 @@
       "id": "BahamutGm",
       "faction": "ENL",
       "num_completed": 11,
-      "rank": 515,
+      "rank": 516,
       "score": [
         8,
         43364
       ],
-      "rank_d": 504,
+      "rank_d": 505,
       "score_d": [
         8,
         43364
@@ -13550,7 +13571,7 @@
         8,
         34255
       ],
-      "rank_d": 815,
+      "rank_d": 816,
       "score_d": [
         8,
         34255
@@ -13571,7 +13592,7 @@
         8,
         50124
       ],
-      "rank_d": 764,
+      "rank_d": 765,
       "score_d": [
         8,
         50124
@@ -13587,12 +13608,12 @@
       "id": "mattnounet",
       "faction": "ENL",
       "num_completed": 12,
-      "rank": 552,
+      "rank": 553,
       "score": [
         8,
         58203
       ],
-      "rank_d": 537,
+      "rank_d": 538,
       "score_d": [
         8,
         58203
@@ -13629,12 +13650,12 @@
       "id": "JessNatt",
       "faction": "ENL",
       "num_completed": 11,
-      "rank": 741,
+      "rank": 742,
       "score": [
         8,
         51448
       ],
-      "rank_d": 707,
+      "rank_d": 708,
       "score_d": [
         8,
         51448
@@ -13671,12 +13692,12 @@
       "id": "TommyGun96",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 641,
+      "rank": 642,
       "score": [
         8,
         59745
       ],
-      "rank_d": 619,
+      "rank_d": 620,
       "score_d": [
         8,
         59745
@@ -13697,7 +13718,7 @@
         8,
         45533
       ],
-      "rank_d": 925,
+      "rank_d": 927,
       "score_d": [
         7,
         34728
@@ -13712,7 +13733,7 @@
     {
       "id": "xapolim",
       "faction": "RES",
-      "num_completed": 11,
+      "num_completed": 12,
       "rank": 355,
       "score": [
         8,
@@ -13724,8 +13745,8 @@
         31166
       ],
       "leakage": {
-        "total": 186.71508328242248,
-        "within_faction": 104.75019662251718,
+        "total": 187.8720832141727,
+        "within_faction": 105.90719655426739,
         "cross_faction": 81.96488665990525
       },
       "small_group": false
@@ -13739,7 +13760,7 @@
         8,
         16530
       ],
-      "rank_d": 771,
+      "rank_d": 772,
       "score_d": [
         8,
         16530
@@ -13755,12 +13776,12 @@
       "id": "Falconire",
       "faction": "RES",
       "num_completed": 7,
-      "rank": 1023,
+      "rank": 1025,
       "score": [
         7,
         42356
       ],
-      "rank_d": 1045,
+      "rank_d": 1048,
       "score_d": [
         6,
         48262
@@ -13776,12 +13797,12 @@
       "id": "4nn483113",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 692,
+      "rank": 694,
       "score": [
         8,
         31333
       ],
-      "rank_d": 662,
+      "rank_d": 664,
       "score_d": [
         8,
         31333
@@ -13797,12 +13818,12 @@
       "id": "poppyolivia",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 706,
+      "rank": 707,
       "score": [
         8,
         56373
       ],
-      "rank_d": 678,
+      "rank_d": 679,
       "score_d": [
         8,
         56373
@@ -13818,7 +13839,7 @@
       "id": "AndalusiaEther",
       "faction": "ENL",
       "num_completed": 6,
-      "rank": 1156,
+      "rank": 1157,
       "score": [
         6,
         18281
@@ -13865,7 +13886,7 @@
         8,
         21014
       ],
-      "rank_d": 752,
+      "rank_d": 753,
       "score_d": [
         8,
         21014
@@ -13881,7 +13902,7 @@
       "id": "Zuchie",
       "faction": "ENL",
       "num_completed": 6,
-      "rank": 1150,
+      "rank": 1151,
       "score": [
         6,
         57247
@@ -13902,12 +13923,12 @@
       "id": "jOrange",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 849,
+      "rank": 850,
       "score": [
         8,
         61352
       ],
-      "rank_d": 797,
+      "rank_d": 798,
       "score_d": [
         8,
         61352
@@ -13923,12 +13944,12 @@
       "id": "tabriss",
       "faction": "ENL",
       "num_completed": 7,
-      "rank": 1042,
+      "rank": 1044,
       "score": [
         7,
         1909
       ],
-      "rank_d": 1065,
+      "rank_d": 1068,
       "score_d": [
         6,
         24931
@@ -13944,12 +13965,12 @@
       "id": "noxilon",
       "faction": "ENL",
       "num_completed": 9,
-      "rank": 916,
+      "rank": 917,
       "score": [
         8,
         33613
       ],
-      "rank_d": 860,
+      "rank_d": 863,
       "score_d": [
         8,
         33613
@@ -13965,12 +13986,12 @@
       "id": "Linsiluss",
       "faction": "RES",
       "num_completed": 8,
-      "rank": 927,
+      "rank": 928,
       "score": [
         8,
         17771
       ],
-      "rank_d": 956,
+      "rank_d": 957,
       "score_d": [
         7,
         8684
@@ -13986,12 +14007,12 @@
       "id": "OrganiskPeroxid",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 563,
+      "rank": 564,
       "score": [
         8,
         13555
       ],
-      "rank_d": 547,
+      "rank_d": 548,
       "score_d": [
         8,
         13555
@@ -14033,7 +14054,7 @@
         8,
         64965
       ],
-      "rank_d": 844,
+      "rank_d": 846,
       "score_d": [
         8,
         64965
@@ -14054,7 +14075,7 @@
         8,
         41976
       ],
-      "rank_d": 810,
+      "rank_d": 811,
       "score_d": [
         8,
         41976
@@ -14070,12 +14091,12 @@
       "id": "michelleloco",
       "faction": "RES",
       "num_completed": 8,
-      "rank": 922,
+      "rank": 923,
       "score": [
         8,
         18083
       ],
-      "rank_d": 954,
+      "rank_d": 955,
       "score_d": [
         7,
         14967
@@ -14091,12 +14112,12 @@
       "id": "heyokasue",
       "faction": "RES",
       "num_completed": 8,
-      "rank": 923,
+      "rank": 924,
       "score": [
         8,
         19563
       ],
-      "rank_d": 955,
+      "rank_d": 956,
       "score_d": [
         7,
         15880
@@ -14117,7 +14138,7 @@
         8,
         28600
       ],
-      "rank_d": 777,
+      "rank_d": 778,
       "score_d": [
         8,
         28600
@@ -14133,12 +14154,12 @@
       "id": "HaydogLuvEevee",
       "faction": "ENL",
       "num_completed": 7,
-      "rank": 1041,
+      "rank": 1043,
       "score": [
         7,
         20783
       ],
-      "rank_d": 1064,
+      "rank_d": 1067,
       "score_d": [
         6,
         12764
@@ -14154,12 +14175,12 @@
       "id": "Choupi67",
       "faction": "RES",
       "num_completed": 7,
-      "rank": 1020,
+      "rank": 1022,
       "score": [
         7,
         21964
       ],
-      "rank_d": 1043,
+      "rank_d": 1046,
       "score_d": [
         6,
         9004
@@ -14238,12 +14259,12 @@
       "id": "Monulka",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 666,
+      "rank": 667,
       "score": [
         8,
         9376
       ],
-      "rank_d": 640,
+      "rank_d": 641,
       "score_d": [
         8,
         9376
@@ -14301,12 +14322,12 @@
       "id": "KikePeraza",
       "faction": "ENL",
       "num_completed": 10,
-      "rank": 838,
+      "rank": 839,
       "score": [
         8,
         32186
       ],
-      "rank_d": 786,
+      "rank_d": 787,
       "score_d": [
         8,
         32186
@@ -14322,12 +14343,12 @@
       "id": "Timothyshi",
       "faction": "RES",
       "num_completed": 9,
-      "rank": 938,
+      "rank": 939,
       "score": [
         8,
         38878
       ],
-      "rank_d": 874,
+      "rank_d": 878,
       "score_d": [
         8,
         38878
@@ -14343,12 +14364,12 @@
       "id": "o0GingerSnaps0o",
       "faction": "RES",
       "num_completed": 9,
-      "rank": 917,
+      "rank": 918,
       "score": [
         8,
         16666
       ],
-      "rank_d": 861,
+      "rank_d": 864,
       "score_d": [
         8,
         16666
@@ -14364,12 +14385,12 @@
       "id": "HikariCaptain",
       "faction": "ENL",
       "num_completed": 11,
-      "rank": 847,
+      "rank": 848,
       "score": [
         8,
         35192
       ],
-      "rank_d": 795,
+      "rank_d": 796,
       "score_d": [
         8,
         35192
@@ -14385,7 +14406,7 @@
       "id": "CourageousWolf",
       "faction": "RES",
       "num_completed": 6,
-      "rank": 1157,
+      "rank": 1158,
       "score": [
         6,
         80588
@@ -14402,12 +14423,12 @@
       "id": "TamiraLaGnokka",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 846,
+      "rank": 847,
       "score": [
         8,
         18840
       ],
-      "rank_d": 794,
+      "rank_d": 795,
       "score_d": [
         8,
         18840
@@ -14423,12 +14444,12 @@
       "id": "Bl0ub",
       "faction": "RES",
       "num_completed": 9,
-      "rank": 925,
+      "rank": 926,
       "score": [
         8,
         77612
       ],
-      "rank_d": 866,
+      "rank_d": 869,
       "score_d": [
         8,
         77612
@@ -14465,12 +14486,12 @@
       "id": "Fifou",
       "faction": "RES",
       "num_completed": 9,
-      "rank": 850,
+      "rank": 851,
       "score": [
         8,
         2199
       ],
-      "rank_d": 798,
+      "rank_d": 799,
       "score_d": [
         8,
         2199
@@ -14507,12 +14528,12 @@
       "id": "Trafic0s",
       "faction": "RES",
       "num_completed": 9,
-      "rank": 912,
+      "rank": 914,
       "score": [
         8,
         83731
       ],
-      "rank_d": 854,
+      "rank_d": 857,
       "score_d": [
         8,
         83731
@@ -14533,7 +14554,7 @@
         8,
         71211
       ],
-      "rank_d": 775,
+      "rank_d": 776,
       "score_d": [
         8,
         71211
@@ -14549,12 +14570,12 @@
       "id": "Cyberdeedjy",
       "faction": "RES",
       "num_completed": 9,
-      "rank": 853,
+      "rank": 854,
       "score": [
         8,
         68774
       ],
-      "rank_d": 799,
+      "rank_d": 800,
       "score_d": [
         8,
         68774
@@ -14575,7 +14596,7 @@
         8,
         43346
       ],
-      "rank_d": 779,
+      "rank_d": 780,
       "score_d": [
         8,
         43346
@@ -14596,7 +14617,7 @@
         8,
         570
       ],
-      "rank_d": 838,
+      "rank_d": 840,
       "score_d": [
         8,
         570
@@ -14612,12 +14633,12 @@
       "id": "elcabo159",
       "faction": "RES",
       "num_completed": 9,
-      "rank": 936,
+      "rank": 937,
       "score": [
         8,
         3218
       ],
-      "rank_d": 872,
+      "rank_d": 876,
       "score_d": [
         8,
         3218
@@ -14638,7 +14659,7 @@
         8,
         78016
       ],
-      "rank_d": 733,
+      "rank_d": 734,
       "score_d": [
         8,
         78016
@@ -14654,7 +14675,7 @@
       "id": "BIGFLITZER",
       "faction": "RES",
       "num_completed": 6,
-      "rank": 1139,
+      "rank": 1140,
       "score": [
         6,
         14030
@@ -14680,7 +14701,7 @@
         8,
         36533
       ],
-      "rank_d": 822,
+      "rank_d": 824,
       "score_d": [
         8,
         36533
@@ -14701,7 +14722,7 @@
         8,
         15284
       ],
-      "rank_d": 821,
+      "rank_d": 823,
       "score_d": [
         8,
         15284
@@ -14717,12 +14738,12 @@
       "id": "naurettavaa0816",
       "faction": "RES",
       "num_completed": 9,
-      "rank": 911,
+      "rank": 913,
       "score": [
         8,
         47906
       ],
-      "rank_d": 853,
+      "rank_d": 856,
       "score_d": [
         8,
         47906
@@ -14738,12 +14759,12 @@
       "id": "Powerman0815",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 842,
+      "rank": 843,
       "score": [
         8,
         52446
       ],
-      "rank_d": 788,
+      "rank_d": 789,
       "score_d": [
         8,
         52446
@@ -14759,12 +14780,12 @@
       "id": "Discepto",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 720,
+      "rank": 721,
       "score": [
         8,
         85708
       ],
-      "rank_d": 685,
+      "rank_d": 686,
       "score_d": [
         8,
         85708
@@ -14785,7 +14806,7 @@
         8,
         23105
       ],
-      "rank_d": 731,
+      "rank_d": 732,
       "score_d": [
         8,
         23105
@@ -14801,12 +14822,12 @@
       "id": "80211ad",
       "faction": "RES",
       "num_completed": 9,
-      "rank": 931,
+      "rank": 932,
       "score": [
         8,
         66892
       ],
-      "rank_d": 870,
+      "rank_d": 874,
       "score_d": [
         8,
         66892
@@ -14822,7 +14843,7 @@
       "id": "MysticMagican",
       "faction": "RES",
       "num_completed": 6,
-      "rank": 1137,
+      "rank": 1138,
       "score": [
         6,
         81921
@@ -14843,7 +14864,7 @@
       "id": "xXxKira",
       "faction": "ENL",
       "num_completed": 6,
-      "rank": 1158,
+      "rank": 1159,
       "score": [
         6,
         80574
@@ -14864,7 +14885,7 @@
       "id": "ThePadrin0",
       "faction": "RES",
       "num_completed": 6,
-      "rank": 1159,
+      "rank": 1160,
       "score": [
         6,
         83483
@@ -14886,7 +14907,7 @@
         8,
         28555
       ],
-      "rank_d": 774,
+      "rank_d": 775,
       "score_d": [
         8,
         28555
@@ -14902,12 +14923,12 @@
       "id": "TheTrueHelper",
       "faction": "ENL",
       "num_completed": 7,
-      "rank": 1050,
+      "rank": 1052,
       "score": [
         7,
         12403
       ],
-      "rank_d": 1071,
+      "rank_d": 1074,
       "score_d": [
         6,
         6344
@@ -14923,12 +14944,12 @@
       "id": "TheInheritor",
       "faction": "RES",
       "num_completed": 7,
-      "rank": 1055,
+      "rank": 1057,
       "score": [
         7,
         27392
       ],
-      "rank_d": 1080,
+      "rank_d": 1083,
       "score_d": [
         6,
         21159
@@ -14944,12 +14965,12 @@
       "id": "LecturerAM18",
       "faction": "ENL",
       "num_completed": 7,
-      "rank": 1057,
+      "rank": 1059,
       "score": [
         7,
         59089
       ],
-      "rank_d": 1084,
+      "rank_d": 1087,
       "score_d": [
         6,
         35914
@@ -14961,12 +14982,12 @@
       "id": "JungleRunner",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 843,
+      "rank": 844,
       "score": [
         8,
         35884
       ],
-      "rank_d": 790,
+      "rank_d": 791,
       "score_d": [
         8,
         35884
@@ -14987,7 +15008,7 @@
         8,
         64917
       ],
-      "rank_d": 747,
+      "rank_d": 748,
       "score_d": [
         8,
         64917
@@ -15003,12 +15024,12 @@
       "id": "MaNuWi",
       "faction": "RES",
       "num_completed": 12,
-      "rank": 671,
+      "rank": 672,
       "score": [
         8,
         56712
       ],
-      "rank_d": 646,
+      "rank_d": 647,
       "score_d": [
         8,
         56712
@@ -15029,7 +15050,7 @@
         8,
         58649
       ],
-      "rank_d": 801,
+      "rank_d": 802,
       "score_d": [
         8,
         58649
@@ -15045,12 +15066,12 @@
       "id": "holmdeal",
       "faction": "ENL",
       "num_completed": 11,
-      "rank": 619,
+      "rank": 620,
       "score": [
         8,
         26538
       ],
-      "rank_d": 598,
+      "rank_d": 599,
       "score_d": [
         8,
         26538
@@ -15071,7 +15092,7 @@
         8,
         69807
       ],
-      "rank_d": 808,
+      "rank_d": 809,
       "score_d": [
         8,
         69807
@@ -15087,12 +15108,12 @@
       "id": "mircea2s",
       "faction": "ENL",
       "num_completed": 7,
-      "rank": 1060,
+      "rank": 1062,
       "score": [
         7,
         83103
       ],
-      "rank_d": 1088,
+      "rank_d": 1091,
       "score_d": [
         6,
         7361
@@ -15113,7 +15134,7 @@
         8,
         79312
       ],
-      "rank_d": 780,
+      "rank_d": 781,
       "score_d": [
         8,
         79312
@@ -15134,7 +15155,7 @@
         8,
         7864
       ],
-      "rank_d": 836,
+      "rank_d": 838,
       "score_d": [
         8,
         7864
@@ -15150,12 +15171,12 @@
       "id": "Madrox77",
       "faction": "ENL",
       "num_completed": 7,
-      "rank": 1061,
+      "rank": 1063,
       "score": [
         7,
         32727
       ],
-      "rank_d": 1089,
+      "rank_d": 1092,
       "score_d": [
         6,
         13383
@@ -15171,12 +15192,12 @@
       "id": "dawninglight",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 928,
+      "rank": 929,
       "score": [
         8,
         8045
       ],
-      "rank_d": 867,
+      "rank_d": 871,
       "score_d": [
         8,
         8045
@@ -15192,12 +15213,12 @@
       "id": "mambadance",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 929,
+      "rank": 930,
       "score": [
         8,
         38994
       ],
-      "rank_d": 868,
+      "rank_d": 872,
       "score_d": [
         8,
         38994
@@ -15213,12 +15234,12 @@
       "id": "S4arkSt3r",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 930,
+      "rank": 931,
       "score": [
         8,
         44328
       ],
-      "rank_d": 869,
+      "rank_d": 873,
       "score_d": [
         8,
         44328
@@ -15239,7 +15260,7 @@
         8,
         61026
       ],
-      "rank_d": 845,
+      "rank_d": 847,
       "score_d": [
         8,
         61026
@@ -15716,7 +15737,7 @@
     {
       "id": "bastet7",
       "faction": "RES",
-      "num_completed": 10,
+      "num_completed": 11,
       "rank": 239,
       "score": [
         8,
@@ -15737,7 +15758,7 @@
     {
       "id": "Calico007",
       "faction": "RES",
-      "num_completed": 10,
+      "num_completed": 11,
       "rank": 266,
       "score": [
         8,
@@ -15749,8 +15770,8 @@
         77115
       ],
       "leakage": {
-        "total": 658.4085650917549,
-        "within_faction": 349.9786286243249,
+        "total": 665.4338940814854,
+        "within_faction": 357.00395761405554,
         "cross_faction": 308.42993646743
       },
       "small_group": false
@@ -15780,7 +15801,7 @@
       "id": "abaumg",
       "faction": "RES",
       "num_completed": 6,
-      "rank": 1064,
+      "rank": 1066,
       "score": [
         6,
         48561
@@ -15864,7 +15885,7 @@
       "id": "ConfoundingXian",
       "faction": "ENL",
       "num_completed": 6,
-      "rank": 1074,
+      "rank": 1076,
       "score": [
         6,
         6788
@@ -15885,7 +15906,7 @@
       "id": "Capratz",
       "faction": "ENL",
       "num_completed": 6,
-      "rank": 1068,
+      "rank": 1070,
       "score": [
         6,
         31639
@@ -16032,7 +16053,7 @@
       "id": "Sapidus",
       "faction": "RES",
       "num_completed": 6,
-      "rank": 1067,
+      "rank": 1069,
       "score": [
         6,
         9633
@@ -16394,7 +16415,7 @@
         7,
         82095
       ],
-      "rank_d": 895,
+      "rank_d": 898,
       "score_d": [
         7,
         82095
@@ -16494,12 +16515,12 @@
       "id": "SuperAlatar",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 691,
+      "rank": 693,
       "score": [
         8,
         26191
       ],
-      "rank_d": 661,
+      "rank_d": 663,
       "score_d": [
         8,
         26191
@@ -16515,12 +16536,12 @@
       "id": "julo30",
       "faction": "RES",
       "num_completed": 9,
-      "rank": 567,
+      "rank": 568,
       "score": [
         8,
         18987
       ],
-      "rank_d": 550,
+      "rank_d": 551,
       "score_d": [
         8,
         18987
@@ -16536,7 +16557,7 @@
       "id": "choupiiii",
       "faction": "RES",
       "num_completed": 6,
-      "rank": 1096,
+      "rank": 1098,
       "score": [
         6,
         55143
@@ -16557,12 +16578,12 @@
       "id": "RoiLouis",
       "faction": "RES",
       "num_completed": 6,
-      "rank": 1119,
+      "rank": 1121,
       "score": [
         6,
         2426
       ],
-      "rank_d": 1035,
+      "rank_d": 1037,
       "score_d": [
         6,
         2426
@@ -16578,12 +16599,12 @@
       "id": "d4rkSkY3r",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 556,
+      "rank": 557,
       "score": [
         8,
         78983
       ],
-      "rank_d": 541,
+      "rank_d": 542,
       "score_d": [
         8,
         78983
@@ -16599,12 +16620,12 @@
       "id": "EDEL22",
       "faction": "RES",
       "num_completed": 8,
-      "rank": 658,
+      "rank": 659,
       "score": [
         8,
         9928
       ],
-      "rank_d": 632,
+      "rank_d": 633,
       "score_d": [
         8,
         9928
@@ -16641,12 +16662,12 @@
       "id": "mobilete",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 511,
+      "rank": 512,
       "score": [
         8,
         29467
       ],
-      "rank_d": 499,
+      "rank_d": 500,
       "score_d": [
         8,
         29467
@@ -16667,7 +16688,7 @@
         7,
         20095
       ],
-      "rank_d": 905,
+      "rank_d": 908,
       "score_d": [
         7,
         20095
@@ -16683,7 +16704,7 @@
       "id": "thierlouz",
       "faction": "RES",
       "num_completed": 6,
-      "rank": 1100,
+      "rank": 1102,
       "score": [
         6,
         23489
@@ -16704,7 +16725,7 @@
       "id": "kisuke4sama",
       "faction": "RES",
       "num_completed": 6,
-      "rank": 1079,
+      "rank": 1081,
       "score": [
         6,
         50215
@@ -16767,12 +16788,12 @@
       "id": "EndeDesMonats",
       "faction": "RES",
       "num_completed": 8,
-      "rank": 676,
+      "rank": 677,
       "score": [
         8,
         21769
       ],
-      "rank_d": 652,
+      "rank_d": 653,
       "score_d": [
         8,
         21769
@@ -16809,12 +16830,12 @@
       "id": "ReptonBoxing",
       "faction": "RES",
       "num_completed": 11,
-      "rank": 519,
+      "rank": 520,
       "score": [
         8,
         50681
       ],
-      "rank_d": 508,
+      "rank_d": 509,
       "score_d": [
         8,
         50681
@@ -16830,12 +16851,12 @@
       "id": "errno666",
       "faction": "RES",
       "num_completed": 9,
-      "rank": 609,
+      "rank": 610,
       "score": [
         8,
         68562
       ],
-      "rank_d": 589,
+      "rank_d": 590,
       "score_d": [
         8,
         68562
@@ -16851,12 +16872,12 @@
       "id": "lenguyenx",
       "faction": "ENL",
       "num_completed": 10,
-      "rank": 650,
+      "rank": 651,
       "score": [
         8,
         29866
       ],
-      "rank_d": 626,
+      "rank_d": 627,
       "score_d": [
         8,
         29866
@@ -16877,7 +16898,7 @@
         8,
         34287
       ],
-      "rank_d": 835,
+      "rank_d": 837,
       "score_d": [
         8,
         34287
@@ -16914,12 +16935,12 @@
       "id": "occam1st",
       "faction": "ENL",
       "num_completed": 10,
-      "rank": 651,
+      "rank": 652,
       "score": [
         8,
         33907
       ],
-      "rank_d": 628,
+      "rank_d": 629,
       "score_d": [
         8,
         33907
@@ -16935,12 +16956,12 @@
       "id": "EdgeAgain",
       "faction": "RES",
       "num_completed": 10,
-      "rank": 719,
+      "rank": 720,
       "score": [
         8,
         62186
       ],
-      "rank_d": 683,
+      "rank_d": 684,
       "score_d": [
         8,
         62186
@@ -16961,7 +16982,7 @@
         8,
         79430
       ],
-      "rank_d": 769,
+      "rank_d": 770,
       "score_d": [
         8,
         79430
@@ -16977,12 +16998,12 @@
       "id": "roterVogel",
       "faction": "RES",
       "num_completed": 7,
-      "rank": 1035,
+      "rank": 1037,
       "score": [
         7,
         6185
       ],
-      "rank_d": 958,
+      "rank_d": 959,
       "score_d": [
         7,
         6185
@@ -17003,7 +17024,7 @@
         8,
         4961
       ],
-      "rank_d": 827,
+      "rank_d": 829,
       "score_d": [
         8,
         4961
@@ -17024,7 +17045,7 @@
         8,
         50312
       ],
-      "rank_d": 782,
+      "rank_d": 783,
       "score_d": [
         8,
         50312
@@ -17040,12 +17061,12 @@
       "id": "filo99",
       "faction": "RES",
       "num_completed": 7,
-      "rank": 1036,
+      "rank": 1038,
       "score": [
         7,
         31643
       ],
-      "rank_d": 959,
+      "rank_d": 960,
       "score_d": [
         7,
         31643
@@ -17061,12 +17082,12 @@
       "id": "wujinglei",
       "faction": "RES",
       "num_completed": 6,
-      "rank": 1153,
+      "rank": 1154,
       "score": [
         6,
         4194
       ],
-      "rank_d": 1078,
+      "rank_d": 1081,
       "score_d": [
         6,
         4194
@@ -17087,7 +17108,7 @@
         8,
         72545
       ],
-      "rank_d": 772,
+      "rank_d": 773,
       "score_d": [
         8,
         72545
@@ -17108,7 +17129,7 @@
         8,
         7003
       ],
-      "rank_d": 767,
+      "rank_d": 768,
       "score_d": [
         8,
         7003
@@ -17124,7 +17145,7 @@
       "id": "Belagarath",
       "faction": "ENL",
       "num_completed": 6,
-      "rank": 1065,
+      "rank": 1067,
       "score": [
         6,
         68254
@@ -17192,7 +17213,7 @@
         7,
         9393
       ],
-      "rank_d": 900,
+      "rank_d": 903,
       "score_d": [
         7,
         9393
@@ -17208,7 +17229,7 @@
       "id": "abifelin",
       "faction": "RES",
       "num_completed": 6,
-      "rank": 1095,
+      "rank": 1097,
       "score": [
         6,
         20010
@@ -17229,7 +17250,7 @@
       "id": "Rudy45789",
       "faction": "RES",
       "num_completed": 6,
-      "rank": 1087,
+      "rank": 1089,
       "score": [
         6,
         68269
@@ -17270,7 +17291,7 @@
     {
       "id": "jgaf",
       "faction": "RES",
-      "num_completed": 9,
+      "num_completed": 10,
       "rank": 493,
       "score": [
         8,
@@ -17282,9 +17303,9 @@
         72106
       ],
       "leakage": {
-        "total": 193.9082685710051,
-        "within_faction": 152.38744746223674,
-        "cross_faction": 41.520821108768345
+        "total": 209.56656384914226,
+        "within_faction": 160.5755237511006,
+        "cross_faction": 48.99104009804166
       },
       "small_group": false
     },
@@ -17292,12 +17313,12 @@
       "id": "HaagenDazs08",
       "faction": "RES",
       "num_completed": 9,
-      "rank": 518,
+      "rank": 519,
       "score": [
         8,
         50450
       ],
-      "rank_d": 507,
+      "rank_d": 508,
       "score_d": [
         8,
         50450
@@ -17318,7 +17339,7 @@
         7,
         38876
       ],
-      "rank_d": 910,
+      "rank_d": 913,
       "score_d": [
         7,
         38876
@@ -17376,12 +17397,12 @@
       "id": "Loupiac",
       "faction": "ENL",
       "num_completed": 7,
-      "rank": 1007,
+      "rank": 1008,
       "score": [
         7,
         85823
       ],
-      "rank_d": 932,
+      "rank_d": 934,
       "score_d": [
         7,
         85823
@@ -17418,7 +17439,7 @@
       "id": "NIKKOS13",
       "faction": "ENL",
       "num_completed": 6,
-      "rank": 1072,
+      "rank": 1074,
       "score": [
         6,
         44099
@@ -17439,7 +17460,7 @@
       "id": "Flash5259",
       "faction": "RES",
       "num_completed": 6,
-      "rank": 1094,
+      "rank": 1096,
       "score": [
         6,
         43651
@@ -17465,7 +17486,7 @@
         7,
         39790
       ],
-      "rank_d": 907,
+      "rank_d": 910,
       "score_d": [
         7,
         39790
@@ -17481,12 +17502,12 @@
       "id": "dejanira",
       "faction": "RES",
       "num_completed": 8,
-      "rank": 751,
+      "rank": 752,
       "score": [
         8,
         42056
       ],
-      "rank_d": 718,
+      "rank_d": 719,
       "score_d": [
         8,
         42056
@@ -17502,12 +17523,12 @@
       "id": "2icyJ",
       "faction": "RES",
       "num_completed": 8,
-      "rank": 699,
+      "rank": 701,
       "score": [
         8,
         44679
       ],
-      "rank_d": 669,
+      "rank_d": 671,
       "score_d": [
         8,
         44679
@@ -17523,12 +17544,12 @@
       "id": "Darksteel92",
       "faction": "RES",
       "num_completed": 6,
-      "rank": 1127,
+      "rank": 1128,
       "score": [
         6,
         15570
       ],
-      "rank_d": 1042,
+      "rank_d": 1045,
       "score_d": [
         6,
         15570
@@ -17549,7 +17570,7 @@
         7,
         7715
       ],
-      "rank_d": 896,
+      "rank_d": 899,
       "score_d": [
         7,
         7715
@@ -18381,7 +18402,7 @@
     {
       "source": "EYLDS",
       "target": "getinsumtail",
-      "value": 37.217181462553576
+      "value": 38.03627468676887
     },
     {
       "source": "EYLDS",
@@ -18392,6 +18413,11 @@
       "source": "getinsumtail",
       "target": "chur93",
       "value": 12.296345041200038
+    },
+    {
+      "source": "getinsumtail",
+      "target": "Fast420A",
+      "value": 13.306722455045463
     },
     {
       "source": "Shadus",
@@ -19906,7 +19932,7 @@
     {
       "source": "bastet7",
       "target": "Calico007",
-      "value": 44.378738302811506
+      "value": 51.404067292542024
     },
     {
       "source": "bastet7",
@@ -24711,7 +24737,7 @@
     {
       "source": "EYLDS",
       "target": "jgaf",
-      "value": 52.43069395871925
+      "value": 53.459236412559264
     },
     {
       "source": "HyunYeon",
@@ -25507,6 +25533,11 @@
       "source": "EYLDS",
       "target": "Stephyypooke",
       "value": 11.438661086327837
+    },
+    {
+      "source": "Fast420A",
+      "target": "jgaf",
+      "value": 15.119846965341328
     },
     {
       "source": "getinsumtail",
@@ -27641,7 +27672,7 @@
     {
       "source": "jgaf",
       "target": "getinsumtail",
-      "value": 20.715439192040932
+      "value": 28.679069873081424
     },
     {
       "source": "Anonima0212",

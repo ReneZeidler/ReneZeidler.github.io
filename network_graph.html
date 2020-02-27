@@ -10,6 +10,10 @@ html, body {
   overflow: hidden;
 }
 
+fieldset {
+  display: inline-block;
+}
+
 #content {
   width: 100%;
   height: 100%;
@@ -63,8 +67,16 @@ text {
 	<div id="topbar">
 		<input type="text" id="agent" placeholder="Highlight agents"></input>
 		<input type="checkbox" id="displayNames">Display names</input>
-		<input type="radio" name="dataset" value="network_data.json" checked>Only strong connections</input>
-		<input type="radio" name="dataset" value="network_data_more.json">More connections</input>
+		<fieldset>
+			<input type="radio" name="dataset" value="network_data_less.json">Less connections</input>
+			<input type="radio" name="dataset" value="network_data.json" checked>Default connections</input>
+			<input type="radio" name="dataset" value="network_data_more.json">More connections</input>
+		</fieldset>
+		<fieldset>
+			<label for="order">Order by:</label>
+			<input type="radio" name="order" value="cluster" checked>Cluster size</input>
+			<input type="radio" name="order" value="rank">Leaderboard score</input>
+		</fieldset>
 	</div>
 	<div id="svg-container">
 		<svg width="100%" height="100%" class="noText"></svg>
@@ -105,9 +117,25 @@ function loadData(error, graph) {
                      .strength(function(l) { return Math.min(l.value /  30.0,  1.0); })
     )
     .force("charge", d3.forceManyBody().strength(-70))
-    .force("x", d3.forceX().strength(0.18).x(d => d.small_group ? width * 4 / 7 : width * 2 / 5))
     .force("y", d3.forceY(height / 2).strength(0.25));
     //.force("center", d3.forceCenter(width / 2, height / 2));
+  
+  var order = document.querySelector('input[name="order"]:checked').value
+  if(order === "rank")
+  {
+    function getx(d) {
+      if (d.rank <= 500)
+        return 0.1*width + (d.score[1] / 750000) * 0.5*width;
+      else
+        return 0.5*width + ((d.rank - 500) / 1000) * 0.7*width;
+    }
+    window.simulation.force("rank", d3.forceX().strength(0.8).x(getx));
+  }
+  else
+  {
+    window.simulation.force("x", d3.forceX().strength(0.18).x(d => d.small_group ? width * 4 / 7 : width * 2 / 5));
+  }
+
 
   var link = svg.append("g")
       .attr("class", "links")
@@ -171,8 +199,8 @@ function loadData(error, graph) {
 
     node
         .attr("transform", function(d) {
-          d.x = Math.max(0, Math.min(width,  d.x)); 
-          d.y = Math.max(0, Math.min(height, d.y));
+          d.x = Math.max(0, Math.min(width-6, d.x)); 
+          d.y = Math.max(0, Math.min(height,  d.y));
           return "translate(" + d.x + "," + d.y + ")";
         })
   }
@@ -213,7 +241,7 @@ function loadDataset() {
   console.log("Loading dataset " + dataset);
   d3.json(dataset, loadData);
 }
-for (var button of document.getElementsByName("dataset")) {
+for (var button of document.querySelectorAll('input[type="radio"]')) {
   button.onchange = loadDataset;
 }
 loadDataset();
