@@ -63,6 +63,8 @@ text {
 	<div id="topbar">
 		<input type="text" id="agent" placeholder="Highlight agents"></input>
 		<input type="checkbox" id="displayNames">Display names</input>
+		<input type="radio" name="dataset" value="network_data.json" checked>Only strong connections</input>
+		<input type="radio" name="dataset" value="network_data_more.json">More connections</input>
 	</div>
 	<div id="svg-container">
 		<svg width="100%" height="100%" class="noText"></svg>
@@ -75,18 +77,6 @@ var svg = d3.select("svg");
 var width = svg.node().clientWidth;
 var height = svg.node().clientHeight - 8;
 svg.attr("width", width).attr("height", height);
-
-var highlight = document.getElementById("agent");
-highlight.oninput = function() {
-  window.setHighlighted(this.value.split(/[\s,]+/));
-};
-
-var displayNames = document.getElementById("displayNames");
-displayNames.onchange = function() {
-  if (this.checked) svg.node().classList.remove("noText");
-  else svg.node().classList.add("noText");
-}
-if (displayNames.checked) svg.node().classList.remove("noText");
 
 var color = function(d) {
   if (d.faction === "RES")
@@ -104,19 +94,20 @@ var radius = function(d) {
   else return Math.min(Math.max(d.leakage.total / 150.0, 3.0), 6.0);
 }
 
-var simulation = d3.forceSimulation()
+function loadData(error, graph) {
+  if (error) throw error;
+  svg.selectAll("*").remove();
+
+  var simulation = d3.forceSimulation()
     .force("link", d3.forceLink()
                      .id(function(d) { return d.id; })
-                     .distance(function(l) { return Math.max(150.0 / l.value, 15.0); })
+                     .distance(function(l) { return Math.max(150.0 / l.value, 10.0); })
                      .strength(function(l) { return Math.min(l.value /  30.0,  1.0); })
     )
-    .force("charge", d3.forceManyBody().strength(-100))
+    .force("charge", d3.forceManyBody().strength(-70))
     .force("x", d3.forceX().strength(0.18).x(d => d.small_group ? width * 4 / 7 : width * 2 / 5))
     .force("y", d3.forceY(height / 2).strength(0.25));
     //.force("center", d3.forceCenter(width / 2, height / 2));
-
-d3.json("network_data.json", function(error, graph) {
-  if (error) throw error;
 
   var link = svg.append("g")
       .attr("class", "links")
@@ -185,7 +176,7 @@ d3.json("network_data.json", function(error, graph) {
           return "translate(" + d.x + "," + d.y + ")";
         })
   }
-});
+}
 
 function dragstarted(d) {
   if (!d3.event.active) simulation.alphaTarget(0.3).restart();
@@ -203,6 +194,29 @@ function dragended(d) {
   d.fx = null;
   d.fy = null;
 }
+
+
+var highlight = document.getElementById("agent");
+highlight.oninput = function() {
+  window.setHighlighted(this.value.split(/[\s,]+/));
+};
+
+var displayNames = document.getElementById("displayNames");
+displayNames.onchange = function() {
+  if (this.checked) svg.node().classList.remove("noText");
+  else svg.node().classList.add("noText");
+}
+if (displayNames.checked) svg.node().classList.remove("noText");
+
+function loadDataset() {
+  var dataset = document.querySelector('input[name="dataset"]:checked').value
+  console.log("Loading dataset " + dataset);
+  d3.json(dataset, loadData);
+}
+for (var button of document.getElementsByName("dataset")) {
+  button.onchange = loadDataset;
+}
+loadDataset();
 </script>
 </body>
 </html>
