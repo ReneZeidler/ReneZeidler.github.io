@@ -261,8 +261,8 @@ function loadData(error, graph) {
       this.alphaTarget(0).alphaDecay(0.015); // Stabilize
 
     node.attr("transform", function(d) {
-          d.x = Math.max(0, Math.min(width-6, d.x)); 
-          d.y = Math.max(0, Math.min(height,  d.y));
+          d.x = Math.max(6, Math.min(width -6, d.x)); 
+          d.y = Math.max(6, Math.min(height-6, d.y));
           return "translate(" + d.x + "," + d.y + ")";
         });
 
