@@ -147,7 +147,12 @@ function loadData(error, graph) {
     .force("charge", d3.forceManyBody().strength(-70))
     .force("y", d3.forceY(height / 2).strength(0.25))
     .force("collision", d3.forceCollide(10).iterations(2))
-    .alpha(2.5).alphaDecay(0.015);
+    .alphaTarget(2).alphaDecay(0.1); // Initial values
+
+  graph.nodes.forEach(function(d) {
+    d.x = Math.random() * width;
+    d.y = Math.random() * height;
+  });
   
   var order = document.querySelector('input[name="order"]:checked').value
   if(order === "rank")
@@ -164,7 +169,6 @@ function loadData(error, graph) {
   {
     window.simulation.force("x", d3.forceX().strength(0.18).x(d => d.small_group ? width * 4 / 7 : width * 2 / 5));
   }
-
 
   var link = svg.append("g")
       .attr("class", "links")
@@ -253,6 +257,9 @@ function loadData(error, graph) {
       .links(graph.links);
 
   function ticked() {
+    if (this.alpha() >= 1.9)
+      this.alphaTarget(0).alphaDecay(0.015); // Stabilize
+
     node.attr("transform", function(d) {
           d.x = Math.max(0, Math.min(width-6, d.x)); 
           d.y = Math.max(0, Math.min(height,  d.y));
