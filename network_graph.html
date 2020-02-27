@@ -98,7 +98,7 @@ function loadData(error, graph) {
   if (error) throw error;
   svg.selectAll("*").remove();
 
-  var simulation = d3.forceSimulation()
+  window.simulation = d3.forceSimulation()
     .force("link", d3.forceLink()
                      .id(function(d) { return d.id; })
                      .distance(function(l) { return Math.max(150.0 / l.value, 10.0); })
@@ -179,7 +179,7 @@ function loadData(error, graph) {
 }
 
 function dragstarted(d) {
-  if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+  if (!d3.event.active) window.simulation.alphaTarget(0.3).restart();
   d.fx = d.x;
   d.fy = d.y;
 }
@@ -190,7 +190,7 @@ function dragged(d) {
 }
 
 function dragended(d) {
-  if (!d3.event.active) simulation.alphaTarget(0);
+  if (!d3.event.active) window.simulation.alphaTarget(0);
   d.fx = null;
   d.fy = null;
 }
