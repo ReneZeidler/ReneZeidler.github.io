@@ -4117,6 +4117,27 @@
       "small_group": false
     },
     {
+      "id": "Tazz013",
+      "faction": "ENL",
+      "num_completed": 9,
+      "rank": 549,
+      "score": [
+        8,
+        24986
+      ],
+      "rank_d": 608,
+      "score_d": [
+        8,
+        60738
+      ],
+      "leakage": {
+        "total": 140.72209933433177,
+        "within_faction": 56.494659929512906,
+        "cross_faction": 84.2274394048188
+      },
+      "small_group": true
+    },
+    {
       "id": "Yacatect",
       "faction": "ENL",
       "num_completed": 13,
@@ -4849,7 +4870,7 @@
         "within_faction": 184.63409437760632,
         "cross_faction": 79.26685731566172
       },
-      "small_group": true
+      "small_group": false
     },
     {
       "id": "localgeek",
@@ -5080,7 +5101,7 @@
         "within_faction": 108.49464058008775,
         "cross_faction": 75.82877410741561
       },
-      "small_group": true
+      "small_group": false
     },
     {
       "id": "IANVS",
@@ -6133,6 +6154,27 @@
       "small_group": false
     },
     {
+      "id": "uni8",
+      "faction": "ENL",
+      "num_completed": 11,
+      "rank": 487,
+      "score": [
+        8,
+        56073
+      ],
+      "rank_d": 477,
+      "score_d": [
+        8,
+        62714
+      ],
+      "leakage": {
+        "total": 164.97264704997485,
+        "within_faction": 52.68496691724532,
+        "cross_faction": 112.28768013272958
+      },
+      "small_group": true
+    },
+    {
       "id": "MotherGoose",
       "faction": "RES",
       "num_completed": 6,
@@ -6339,6 +6381,27 @@
         "total": 480.7274957751492,
         "within_faction": 173.87304413400557,
         "cross_faction": 306.8544516411435
+      },
+      "small_group": false
+    },
+    {
+      "id": "NORBOT",
+      "faction": "ENL",
+      "num_completed": 11,
+      "rank": 586,
+      "score": [
+        8,
+        58363
+      ],
+      "rank_d": 579,
+      "score_d": [
+        8,
+        18738
+      ],
+      "leakage": {
+        "total": 178.85240815633082,
+        "within_faction": 59.22295985979815,
+        "cross_faction": 119.62944829653267
       },
       "small_group": false
     },
@@ -6700,6 +6763,27 @@
       "small_group": false
     },
     {
+      "id": "Mhagnetik",
+      "faction": "RES",
+      "num_completed": 7,
+      "rank": 1022,
+      "score": [
+        7,
+        56671
+      ],
+      "rank_d": 1047,
+      "score_d": [
+        6,
+        50443
+      ],
+      "leakage": {
+        "total": 173.56472344774147,
+        "within_faction": 109.34307195476269,
+        "cross_faction": 64.22165149297878
+      },
+      "small_group": true
+    },
+    {
       "id": "pr0m",
       "faction": "ENL",
       "num_completed": 13,
@@ -6992,6 +7076,27 @@
         "cross_faction": 703.7545626734304
       },
       "small_group": false
+    },
+    {
+      "id": "EricLaFrite",
+      "faction": "ENL",
+      "num_completed": 7,
+      "rank": 995,
+      "score": [
+        7,
+        4725
+      ],
+      "rank_d": 1009,
+      "score_d": [
+        6,
+        77882
+      ],
+      "leakage": {
+        "total": 1355.7442036416912,
+        "within_faction": 701.7705343802304,
+        "cross_faction": 653.9736692614605
+      },
+      "small_group": true
     },
     {
       "id": "Juanmrb1980",
@@ -8002,6 +8107,27 @@
       "small_group": false
     },
     {
+      "id": "2erXre5",
+      "faction": "RES",
+      "num_completed": 8,
+      "rank": 734,
+      "score": [
+        8,
+        8797
+      ],
+      "rank_d": 944,
+      "score_d": [
+        7,
+        76909
+      ],
+      "leakage": {
+        "total": 211.65708762244245,
+        "within_faction": 121.85244826172749,
+        "cross_faction": 89.80463936071497
+      },
+      "small_group": true
+    },
+    {
       "id": "Losifer026",
       "faction": "RES",
       "num_completed": 12,
@@ -8800,6 +8926,27 @@
       "small_group": false
     },
     {
+      "id": "BlueSoxSWJ",
+      "faction": "ENL",
+      "num_completed": 10,
+      "rank": 254,
+      "score": [
+        8,
+        53807
+      ],
+      "rank_d": 250,
+      "score_d": [
+        8,
+        53807
+      ],
+      "leakage": {
+        "total": 1592.150654520449,
+        "within_faction": 1387.833613182343,
+        "cross_faction": 204.3170413381044
+      },
+      "small_group": true
+    },
+    {
       "id": "daolongnam",
       "faction": "ENL",
       "num_completed": 13,
@@ -8819,6 +8966,27 @@
         "cross_faction": 274.7699514615309
       },
       "small_group": false
+    },
+    {
+      "id": "HomerGAdams",
+      "faction": "RES",
+      "num_completed": 12,
+      "rank": 899,
+      "score": [
+        8,
+        50216
+      ],
+      "rank_d": 883,
+      "score_d": [
+        8,
+        44165
+      ],
+      "leakage": {
+        "total": 1187.094146852384,
+        "within_faction": 38.62080107872865,
+        "cross_faction": 1148.4733457736559
+      },
+      "small_group": true
     },
     {
       "id": "VIRARVI",
@@ -11149,7 +11317,7 @@
         "within_faction": 112.20855222165113,
         "cross_faction": 65.59333213438072
       },
-      "small_group": true
+      "small_group": false
     },
     {
       "id": "Jimkok",
@@ -11992,6 +12160,27 @@
       "small_group": false
     },
     {
+      "id": "dragunil",
+      "faction": "RES",
+      "num_completed": 8,
+      "rank": 812,
+      "score": [
+        8,
+        3774
+      ],
+      "rank_d": 959,
+      "score_d": [
+        7,
+        31459
+      ],
+      "leakage": {
+        "total": 142.38628370951048,
+        "within_faction": 97.95094649039952,
+        "cross_faction": 44.435337219110956
+      },
+      "small_group": false
+    },
+    {
       "id": "fsnuxer",
       "faction": "RES",
       "num_completed": 7,
@@ -12013,6 +12202,27 @@
       "small_group": false
     },
     {
+      "id": "MrRobotbcn",
+      "faction": "RES",
+      "num_completed": 9,
+      "rank": 809,
+      "score": [
+        8,
+        7057
+      ],
+      "rank_d": 791,
+      "score_d": [
+        8,
+        36867
+      ],
+      "leakage": {
+        "total": 268.9538785015815,
+        "within_faction": 205.40106672828162,
+        "cross_faction": 63.5528117732999
+      },
+      "small_group": false
+    },
+    {
       "id": "Darlon",
       "faction": "ENL",
       "num_completed": 12,
@@ -12030,6 +12240,27 @@
         "total": 307.17787736747476,
         "within_faction": 116.01613142505644,
         "cross_faction": 191.1617459424184
+      },
+      "small_group": false
+    },
+    {
+      "id": "Davenskie",
+      "faction": "ENL",
+      "num_completed": 6,
+      "rank": 1128,
+      "score": [
+        6,
+        82864
+      ],
+      "rank_d": 1151,
+      "score_d": [
+        5,
+        13795
+      ],
+      "leakage": {
+        "total": 59.40806592838314,
+        "within_faction": 19.451824853947112,
+        "cross_faction": 39.956241074436036
       },
       "small_group": false
     },
@@ -13015,6 +13246,48 @@
         "cross_faction": 140.5141950588997
       },
       "small_group": false
+    },
+    {
+      "id": "themythodea",
+      "faction": "ENL",
+      "num_completed": 11,
+      "rank": 574,
+      "score": [
+        8,
+        25510
+      ],
+      "rank_d": 555,
+      "score_d": [
+        8,
+        25510
+      ],
+      "leakage": {
+        "total": 188.55405968085435,
+        "within_faction": 120.24189776148923,
+        "cross_faction": 68.31216191936514
+      },
+      "small_group": true
+    },
+    {
+      "id": "kyanoritis",
+      "faction": "ENL",
+      "num_completed": 12,
+      "rank": 526,
+      "score": [
+        8,
+        51166
+      ],
+      "rank_d": 514,
+      "score_d": [
+        8,
+        51166
+      ],
+      "leakage": {
+        "total": 165.53094753148744,
+        "within_faction": 77.3560683751441,
+        "cross_faction": 88.17487915634342
+      },
+      "small_group": true
     },
     {
       "id": "Jbisatto",
@@ -22563,6 +22836,13 @@
     },
     {
       "source": "madderColor",
+      "target": "peperamirez",
+      "value": 10.0,
+      "from_source": 10.0,
+      "from_target": 0
+    },
+    {
+      "source": "madderColor",
       "target": "Esc1314520",
       "value": 13.19524913418539,
       "from_source": 7.470218989273317,
@@ -22954,6 +23234,13 @@
       "from_target": 4.136820402388507
     },
     {
+      "source": "iLukS",
+      "target": "SharkBaite",
+      "value": 10.0,
+      "from_source": 10.0,
+      "from_target": 0
+    },
+    {
       "source": "SharkBaite",
       "target": "ByteLuke",
       "value": 77.78566987959715,
@@ -22980,6 +23267,13 @@
       "value": 13.61615994584174,
       "from_source": 6.536702102000363,
       "from_target": 7.079457843841379
+    },
+    {
+      "source": "Tazz013",
+      "target": "uni8",
+      "value": 10.0,
+      "from_source": 10.0,
+      "from_target": 0
     },
     {
       "source": "ladylunar",
@@ -23176,6 +23470,13 @@
       "value": 10.34993393817927,
       "from_source": 8.668980996379748,
       "from_target": 1.6809529417995206
+    },
+    {
+      "source": "dragunil",
+      "target": "bjornthegod",
+      "value": 10.0,
+      "from_source": 10.0,
+      "from_target": 0
     },
     {
       "source": "MorbidOddity",
@@ -24263,6 +24564,13 @@
       "from_target": 0
     },
     {
+      "source": "holmdeal",
+      "target": "Davenskie",
+      "value": 10.0,
+      "from_source": 10.0,
+      "from_target": 0
+    },
+    {
       "source": "tavitotwitt",
       "target": "alejaguilar",
       "value": 12.1538454714458,
@@ -25125,6 +25433,13 @@
     },
     {
       "source": "BlueGarm",
+      "target": "sojae2016",
+      "value": 10.0,
+      "from_source": 10.0,
+      "from_target": 0
+    },
+    {
+      "source": "BlueGarm",
       "target": "P45CA7",
       "value": 16.71185753660654,
       "from_source": 16.167911827043017,
@@ -25951,6 +26266,13 @@
     },
     {
       "source": "Malvenia",
+      "target": "iKillshadow",
+      "value": 10.0,
+      "from_source": 10.0,
+      "from_target": 0
+    },
+    {
+      "source": "Malvenia",
       "target": "DeathTheCorgi",
       "value": 10.611880575751822,
       "from_source": 10.611880575751822,
@@ -25979,10 +26301,24 @@
     },
     {
       "source": "Temetz",
+      "target": "DeathTheCorgi",
+      "value": 10.0,
+      "from_source": 10.0,
+      "from_target": 0
+    },
+    {
+      "source": "Temetz",
       "target": "n0ut",
       "value": 12.434089984545999,
       "from_source": 4.009368436964728,
       "from_target": 8.424721547581271
+    },
+    {
+      "source": "iKillshadow",
+      "target": "DeathTheCorgi",
+      "value": 10.0,
+      "from_source": 10.0,
+      "from_target": 0
     },
     {
       "source": "iKillshadow",
@@ -26255,6 +26591,20 @@
       "target": "katracho37",
       "value": 10.558041717476996,
       "from_source": 10.558041717476996,
+      "from_target": 0
+    },
+    {
+      "source": "elem7teen",
+      "target": "ramnikmmc",
+      "value": 10.0,
+      "from_source": 10.0,
+      "from_target": 0
+    },
+    {
+      "source": "katracho37",
+      "target": "ramnikmmc",
+      "value": 10.0,
+      "from_source": 10.0,
       "from_target": 0
     },
     {
@@ -27621,6 +27971,20 @@
       "value": 11.533047303368367,
       "from_source": 10.0,
       "from_target": 1.5330473033683667
+    },
+    {
+      "source": "Atunatunak",
+      "target": "josuefunes",
+      "value": 10.0,
+      "from_source": 10.0,
+      "from_target": 0
+    },
+    {
+      "source": "SiaHundred",
+      "target": "josuefunes",
+      "value": 10.0,
+      "from_source": 10.0,
+      "from_target": 0
     },
     {
       "source": "lifeissuffering",
@@ -29226,6 +29590,13 @@
       "from_target": 5.725030144912074
     },
     {
+      "source": "NORBOT",
+      "target": "GoCougs06",
+      "value": 10.0,
+      "from_source": 10.0,
+      "from_target": 0
+    },
+    {
       "source": "lokatzis",
       "target": "MrMieDitt0",
       "value": 10.77883361065323,
@@ -30365,6 +30736,13 @@
       "value": 10.781239504304382,
       "from_source": 3.018728697855803,
       "from_target": 7.7625108064485815
+    },
+    {
+      "source": "philou54330",
+      "target": "HaagenDazs08",
+      "value": 10.0,
+      "from_source": 10.0,
+      "from_target": 0
     },
     {
       "source": "philou54330",
@@ -31708,6 +32086,13 @@
       "target": "Losifer026",
       "value": 15.205865091414383,
       "from_source": 15.205865091414383,
+      "from_target": 0
+    },
+    {
+      "source": "Losifer026",
+      "target": "Sualkin",
+      "value": 10.0,
+      "from_source": 10.0,
       "from_target": 0
     },
     {
@@ -33973,6 +34358,13 @@
     },
     {
       "source": "chocoyoshi",
+      "target": "Lokozavr",
+      "value": 10.0,
+      "from_source": 10.0,
+      "from_target": 0
+    },
+    {
+      "source": "chocoyoshi",
       "target": "Alvaro20017",
       "value": 10.751084733936741,
       "from_source": 10.751084733936741,
@@ -34217,6 +34609,13 @@
       "from_target": 3.1866424217867313
     },
     {
+      "source": "localgeek",
+      "target": "fridj",
+      "value": 10.0,
+      "from_source": 10.0,
+      "from_target": 0
+    },
+    {
       "source": "fridj",
       "target": "bastet7",
       "value": 12.939128476276716,
@@ -34425,6 +34824,13 @@
       "value": 10.489762892944624,
       "from_source": 1.085314375681106,
       "from_target": 9.404448517263518
+    },
+    {
+      "source": "Guschtel",
+      "target": "ProfNobody",
+      "value": 10.0,
+      "from_source": 10.0,
+      "from_target": 0
     },
     {
       "source": "ProfNobody",
@@ -34974,6 +35380,13 @@
     },
     {
       "source": "Ciauscolo",
+      "target": "AtilaE1",
+      "value": 10.0,
+      "from_source": 10.0,
+      "from_target": 0
+    },
+    {
+      "source": "Ciauscolo",
       "target": "SlashMe",
       "value": 13.656659029957982,
       "from_source": 13.656659029957982,
@@ -35048,6 +35461,13 @@
       "value": 10.433426753845902,
       "from_source": 2.6709555875589848,
       "from_target": 7.762471166286917
+    },
+    {
+      "source": "ThaalSinestro",
+      "target": "EdinDen",
+      "value": 10.0,
+      "from_source": 10.0,
+      "from_target": 0
     },
     {
       "source": "katracho37",
@@ -35629,6 +36049,13 @@
       "value": 11.773739398595707,
       "from_source": 2.6302679918953817,
       "from_target": 9.143471406700325
+    },
+    {
+      "source": "MrRobotbcn",
+      "target": "SirGeoff",
+      "value": 10.0,
+      "from_source": 10.0,
+      "from_target": 0
     },
     {
       "source": "springer67",
@@ -36296,6 +36723,13 @@
       "from_target": 0
     },
     {
+      "source": "awleps",
+      "target": "xtamx",
+      "value": 10.0,
+      "from_source": 10.0,
+      "from_target": 0
+    },
+    {
       "source": "katracho37",
       "target": "4g3nth4aus3r",
       "value": 13.337794843120228,
@@ -36408,6 +36842,13 @@
       "from_target": 0
     },
     {
+      "source": "themythodea",
+      "target": "kyanoritis",
+      "value": 10.0,
+      "from_source": 10.0,
+      "from_target": 0
+    },
+    {
       "source": "frisee",
       "target": "AlexRowe",
       "value": 11.375605240981361,
@@ -36483,6 +36924,27 @@
       "value": 10.226309755435473,
       "from_source": 9.923540961321004,
       "from_target": 0.30276879411446833
+    },
+    {
+      "source": "Appastair",
+      "target": "DrHydrosaur",
+      "value": 10.0,
+      "from_source": 10.0,
+      "from_target": 0
+    },
+    {
+      "source": "Polarlight",
+      "target": "Jimbo9",
+      "value": 10.0,
+      "from_source": 10.0,
+      "from_target": 0
+    },
+    {
+      "source": "Scar1etCh3rry",
+      "target": "redmana",
+      "value": 10.0,
+      "from_source": 10.0,
+      "from_target": 0
     }
   ]
 }
